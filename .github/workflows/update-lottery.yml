@@ -1,0 +1,60 @@
+name: Update lottery results
+
+on:
+  schedule:
+    # Draw days (1st, 16th, plus the day after for shifted draws):
+    # every 15 minutes from 15:00 to 18:45 Thailand time (08:00–11:45 UTC)
+    - cron: "*/15 8-11 1,2,16,17 * *"
+    # Daily safety check at 20:00 Thailand time — catches draws moved for holidays
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Test only — show what would change, don't save"
+        type: boolean
+        default: true
+      date:
+        description: "Past draw date YYYY-MM-DD (leave empty for the latest draw)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lottery-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch and check results
+        env:
+          DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
+          DRAW_DATE: ${{ inputs.date }}
+        run: |
+          ARGS=""
+          if [ "$DRY_RUN" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          if [ -n "$DRAW_DATE" ]; then ARGS="$ARGS --date $DRAW_DATE"; fi
+          python scripts/update_lottery.py $ARGS
+
+      - name: Save to repository
+        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.dry_run) }}
+        run: |
+          git config user.name "lottery-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add lottery.json history
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Auto-update lottery results"
+            git push
+          fi
