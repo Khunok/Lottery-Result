@@ -14,6 +14,10 @@ Nothing is written if the data looks wrong. Only the Python standard library is 
   python scripts/update_lottery.py                 # update with the latest draw
   python scripts/update_lottery.py --dry-run       # only print what would change
   python scripts/update_lottery.py --date 2026-10-16   # (re)load one past draw into history
+  python scripts/update_lottery.py --backfill 2026     # load every draw of a year into history
+
+history/year-YYYY.json holds every saved draw of that year (newest first), so the app
+can show a whole year with one download.
 """
 import argparse
 import datetime as dt
@@ -21,6 +25,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.request
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -45,6 +50,9 @@ def log(*a):
     print(*a, flush=True)
 
 
+DEBUG = False
+
+
 def http_json(url, body=None):
     data = None
     headers = {"User-Agent": UA, "Accept": "application/json"}
@@ -53,7 +61,10 @@ def http_json(url, body=None):
         headers["Content-Type"] = "application/json"
     req = urllib.request.Request(url, data=data, headers=headers, method="POST" if body is not None else "GET")
     with urllib.request.urlopen(req, timeout=TIMEOUT) as r:
-        return json.loads(r.read().decode("utf-8"))
+        text = r.read().decode("utf-8")
+    if DEBUG:
+        log(f"  <- {url} {json.dumps(body) if body else ''}: {text[:400]}")
+    return json.loads(text)
 
 
 def find_dict_with(obj, keys):
@@ -118,7 +129,7 @@ def _glo_numbers(block):
     return nums
 
 
-def source_glo(date=None):
+def source_glo(date=None, strict=False):
     """Government Lottery Office (official website API)."""
     if date:
         y, m, d = date.split("-")
@@ -140,7 +151,8 @@ def source_glo(date=None):
         "back3": _glo_numbers(data.get("last3b")),
         "last2": _glo_numbers(data.get("last2")),
     }
-    return find_iso_date(j) or date, res
+    api_date = find_iso_date(j)
+    return (api_date if strict else (api_date or date)), res
 
 
 def source_rayriffy(date=None):
@@ -236,6 +248,65 @@ def current_date():
     return f"{m.group(3)}-{m.group(2)}-{m.group(1)}" if m else None
 
 
+def write_year_files(years):
+    """history/year-YYYY.json: all saved draws of the year, newest first."""
+    for y in sorted(set(years)):
+        recs = []
+        for name in sorted(os.listdir(HIST_DIR), reverse=True):
+            if re.match(rf"^{y}-\d{{2}}-\d{{2}}\.json$", name):
+                r = read_json(os.path.join(HIST_DIR, name))
+                if r:
+                    recs.append(r)
+        write_json(os.path.join(HIST_DIR, f"year-{y}.json"), recs)
+        log(f"year-{y}.json: {len(recs)} draws")
+
+
+def candidate_dates(year):
+    """Days a Thai draw can fall on: normally the 1st and 16th, moved a day or two for holidays."""
+    today = dt.date.today()
+    out = []
+    for m in range(1, 13):
+        for d in (1, 2, 3, 16, 17):
+            out.append(dt.date(year, m, d))
+    out.append(dt.date(year, 12, 30))
+    out.append(dt.date(year, 12, 31))
+    return [x.isoformat() for x in sorted(set(out)) if x <= today]
+
+
+def backfill(year, dry_run):
+    found = {}
+    for cand in candidate_dates(year):
+        time.sleep(0.5)  # be gentle with the GLO website
+        try:
+            date, res = source_glo(cand, strict=True)
+        except Exception as e:
+            log(f"[{cand}] no result ({e})")
+            continue
+        if not date:
+            log(f"[{cand}] response has no draw date - skipped")
+            continue
+        if not date.startswith(str(year)) or date in found:
+            continue
+        p = problems(date, res)
+        if p:
+            log(f"[{cand}] -> {date} incomplete: " + "; ".join(p[:3]))
+            continue
+        log(f"[{cand}] -> draw {date}: first={res['first'][0]} last2={res['last2'][0]}")
+        found[date] = res
+    log(f"Found {len(found)} draws in {year}: {', '.join(sorted(found))}")
+    if dry_run:
+        summary(f"🧪 Dry run — found {len(found)} draws in {year}.")
+        return 0
+    index = read_json(os.path.join(HIST_DIR, "index.json"), []) or []
+    for date, res in found.items():
+        write_json(os.path.join(HIST_DIR, f"{date}.json"), build_record(date, res, "glo"))
+        index.append(date)
+    write_json(os.path.join(HIST_DIR, "index.json"), sorted(set(index), reverse=True))
+    write_year_files([year])
+    summary(f"📚 Saved {len(found)} draws of {year} into history.")
+    return 0
+
+
 def summary(text):
     path = os.environ.get("GITHUB_STEP_SUMMARY")
     if path:
@@ -250,7 +321,13 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--date", help="YYYY-MM-DD: load this past draw (history only)")
+    ap.add_argument("--backfill", type=int, help="YEAR: load every draw of that year (history only)")
+    ap.add_argument("--debug", action="store_true", help="print the start of every API response")
     args = ap.parse_args()
+    global DEBUG
+    DEBUG = args.debug
+    if args.backfill:
+        return backfill(args.backfill, args.dry_run)
 
     good = []
     for name, fn in SOURCES:
@@ -305,6 +382,7 @@ def main():
     write_json(os.path.join(HIST_DIR, "index.json"), sorted(set(index), reverse=True))
     if is_newest and not unchanged:
         write_json(LATEST, record)
+    write_year_files([date[:4]])
     summary(f"🎉 Saved draw {date} — first prize **{res['first'][0]}**, last 2 **{res['last2'][0]}**.")
     return 0
 
