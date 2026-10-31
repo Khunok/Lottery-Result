@@ -17,6 +17,14 @@ on:
         description: "Past draw date YYYY-MM-DD (leave empty for the latest draw)"
         required: false
         default: ""
+      backfill_year:
+        description: "Load every draw of this year, e.g. 2026 (leave empty normally)"
+        required: false
+        default: ""
+      debug:
+        description: "Show raw API responses in the log"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -28,7 +36,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v5
 
@@ -40,10 +48,14 @@ jobs:
         env:
           DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && inputs.dry_run }}
           DRAW_DATE: ${{ inputs.date }}
+          BACKFILL_YEAR: ${{ inputs.backfill_year }}
+          DEBUG: ${{ inputs.debug }}
         run: |
           ARGS=""
           if [ "$DRY_RUN" = "true" ]; then ARGS="$ARGS --dry-run"; fi
           if [ -n "$DRAW_DATE" ]; then ARGS="$ARGS --date $DRAW_DATE"; fi
+          if [ -n "$BACKFILL_YEAR" ]; then ARGS="$ARGS --backfill $BACKFILL_YEAR"; fi
+          if [ "$DEBUG" = "true" ]; then ARGS="$ARGS --debug"; fi
           python scripts/update_lottery.py $ARGS
 
       - name: Save to repository
