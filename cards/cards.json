@@ -1,0 +1,9002 @@
+[
+ {
+  "no": "001",
+  "dream": "545",
+  "key": "ng",
+  "my": "နဂါး",
+  "en": "Dragon",
+  "th": "มังกร",
+  "image": "nagar_001.jpg"
+ },
+ {
+  "no": "002",
+  "dream": "503",
+  "key": "ttm",
+  "my": "သိုင်းသမား",
+  "en": "Kung Fu Master",
+  "th": "นักกังฟู",
+  "image": "thaingtharmarr_002.jpg"
+ },
+ {
+  "no": "003",
+  "dream": "502",
+  "key": "dst",
+  "my": "ဓားဆောင်သူ",
+  "en": "Swordsman",
+  "th": "นักดาบ",
+  "image": "darsaungthu_003.jpg"
+ },
+ {
+  "no": "004",
+  "dream": "515",
+  "key": "ad",
+  "my": "ဥဒေါင်း",
+  "en": "Peacock",
+  "th": "นกยูง",
+  "image": "udaung_004.jpg"
+ },
+ {
+  "no": "005",
+  "dream": "539",
+  "key": "ct",
+  "my": "ခြင်္သေ့",
+  "en": "Lion",
+  "th": "สิงโต",
+  "image": "chinthae_005.jpg"
+ },
+ {
+  "no": "006",
+  "dream": "541",
+  "key": "tn",
+  "my": "သိမ်းငှက်",
+  "en": "Hawk",
+  "th": "นกอินทรี",
+  "image": "theinnget_006.jpg"
+ },
+ {
+  "no": "007",
+  "dream": "508",
+  "key": "jc",
+  "my": "ကျားခေါင်း",
+  "en": "Head of Tiger",
+  "th": "หัวเสือ",
+  "image": "kyarkhaung_007.jpg"
+ },
+ {
+  "no": "008",
+  "dream": "507",
+  "key": "b",
+  "my": "ဗျိုင်း",
+  "en": "Egret",
+  "th": "นกกระยาง",
+  "image": "byaing_008.jpg"
+ },
+ {
+  "no": "009",
+  "dream": "537",
+  "key": "lyc",
+  "my": "လူရည်ချွန်",
+  "en": "Outstanding Person",
+  "th": "บุคคลดีเด่น",
+  "image": "luyaychon_009.jpg"
+ },
+ {
+  "no": "010",
+  "dream": "532",
+  "key": "aan",
+  "my": "ဥသြငှက်",
+  "en": "Cuckoo",
+  "th": "นกกาเหว่า",
+  "image": "oakawnget_010.jpg"
+ },
+ {
+  "no": "011",
+  "dream": "527",
+  "key": "fms",
+  "my": "ဖိုးမုတ်ဆိတ်",
+  "en": "Bearded Man",
+  "th": "คนเคราดก",
+  "image": "phoemoaksate_011.jpg"
+ },
+ {
+  "no": "012",
+  "dream": "519",
+  "key": "syk",
+  "my": "စာရင်းကိုင်",
+  "en": "Accountant",
+  "th": "ฝ่ายบัญชี",
+  "image": "sayinkaing_012.jpg"
+ },
+ {
+  "no": "013",
+  "dream": "529",
+  "key": "s",
+  "my": "ဆတ်",
+  "en": "Deer",
+  "th": "กวาง",
+  "image": "sert_013.jpg"
+ },
+ {
+  "no": "014",
+  "dream": "546",
+  "key": "n",
+  "my": "ငုံး",
+  "en": "Quail",
+  "th": "นกกระทา",
+  "image": "ngone_014.jpg"
+ },
+ {
+  "no": "015",
+  "dream": "504",
+  "key": "m",
+  "my": "မြင်း",
+  "en": "Horse",
+  "th": "ม้า",
+  "image": "myine_015.jpg"
+ },
+ {
+  "no": "016",
+  "dream": "524",
+  "key": "ln",
+  "my": "ပျံလွှားငှက်",
+  "en": "Swallow Bird",
+  "th": "นกนางแอ่น",
+  "image": "lwaynget_016.jpg"
+ },
+ {
+  "no": "017",
+  "dream": "538",
+  "key": "nn",
+  "my": "နွား",
+  "en": "Cow",
+  "th": "วัว",
+  "image": "nwar_017.jpg"
+ },
+ {
+  "no": "018",
+  "dream": "528",
+  "key": "lhlm",
+  "my": "လားဟူလူမျိုး",
+  "en": "La Hu",
+  "th": "ชาวลาหู่",
+  "image": "larhulumyo_018.jpg"
+ },
+ {
+  "no": "019",
+  "dream": "512",
+  "key": "dkt",
+  "my": "ဓားကိုင်သူ",
+  "en": "Holding knife",
+  "th": "ถือมีด",
+  "image": "darkaingthu_019.jpg"
+ },
+ {
+  "no": "020",
+  "dream": "522",
+  "key": "g",
+  "my": "ကျီး",
+  "en": "Crow",
+  "th": "อีกา",
+  "image": "kyee_020.jpg"
+ },
+ {
+  "no": "021",
+  "dream": "543",
+  "key": "ys",
+  "my": "ရွာဆော်",
+  "en": "Village Crier",
+  "th": "ประกาศ",
+  "image": "ywarsaw_021.jpg"
+ },
+ {
+  "no": "022",
+  "dream": "520",
+  "key": "jcn",
+  "my": "ဂျိုး(ချိုးငှက်)",
+  "en": "Dove",
+  "th": "นกเขา",
+  "image": "joechoenget_022.jpg"
+ },
+ {
+  "no": "023",
+  "dream": "534",
+  "key": "w",
+  "my": "ဝက်",
+  "en": "Pig",
+  "th": "หมู",
+  "image": "wet_023.jpg"
+ },
+ {
+  "no": "024",
+  "dream": "516",
+  "key": "acn",
+  "my": "အောက်ချင်းငှက်",
+  "en": "Hornbill",
+  "th": "นกเงือก",
+  "image": "awtchinnget_024.jpg"
+ },
+ {
+  "no": "025",
+  "dream": "535",
+  "key": "thmt",
+  "my": "တားမြစ်သူ",
+  "en": "Waving",
+  "th": "โบกมือ",
+  "image": "tarmyitthu_025.jpg"
+ },
+ {
+  "no": "026",
+  "dream": "540",
+  "key": "blnn",
+  "my": "ဘီးလုံးငှက်ငယ်",
+  "en": "Sparrow",
+  "th": "นกกระจิบ",
+  "image": "belonenget_026.jpg"
+ },
+ {
+  "no": "027",
+  "dream": "511",
+  "key": "kst",
+  "my": "ကြိုဆိုသူ",
+  "en": "Welcome",
+  "th": "ต้อนรับ",
+  "image": "kyosothu_027.jpg"
+ },
+ {
+  "no": "028",
+  "dream": "518",
+  "key": "ynlm",
+  "my": "ယင်းနက်လူမျိုး",
+  "en": "Black Karen",
+  "th": "กระเหรียงดำ",
+  "image": "yinnetlumyo_028.jpg"
+ },
+ {
+  "no": "029",
+  "dream": "513",
+  "key": "wpl",
+  "my": "ဝံပုလွေ",
+  "en": "Hyena",
+  "th": "หมาใน",
+  "image": "wonpalway_029.jpg"
+ },
+ {
+  "no": "030",
+  "dream": "549",
+  "key": "ms",
+  "my": "မုဆိုး",
+  "en": "Hunter",
+  "th": "พรานล่าเนื้อ",
+  "image": "muzoe_030.jpg"
+ },
+ {
+  "no": "031",
+  "dream": "544",
+  "key": "laytm",
+  "my": "လေးသမား",
+  "en": "Archer",
+  "th": "นักธนู",
+  "image": "laythamar_031.jpg"
+ },
+ {
+  "no": "032",
+  "dream": "510",
+  "key": "nglm",
+  "my": "နာဂလူမျိုး",
+  "en": "Naga",
+  "th": "ชาวนากา",
+  "image": "nagalumyo_032.jpg"
+ },
+ {
+  "no": "033",
+  "dream": "536",
+  "key": "rclm",
+  "my": "ရခိုင်လူမျိုး",
+  "en": "Rakhine",
+  "th": "ชาวยะไข่",
+  "image": "yakhainglumyo_033.jpg"
+ },
+ {
+  "no": "034",
+  "dream": "523",
+  "key": "phare",
+  "my": "ဖား",
+  "en": "Frog",
+  "th": "กบ",
+  "image": "phar_034.jpg"
+ },
+ {
+  "no": "035",
+  "dream": "525",
+  "key": "minthare",
+  "my": "မင်းသား",
+  "en": "Son of Lord",
+  "th": "ลูกเจ้าขุน",
+  "image": "minthar_035.jpg"
+ },
+ {
+  "no": "036",
+  "dream": "533",
+  "key": "alm",
+  "my": "အလှမယ်",
+  "en": "Queen",
+  "th": "นางงาม",
+  "image": "ahlamel_036.jpg"
+ },
+ {
+  "no": "037",
+  "dream": "509",
+  "key": "nm",
+  "my": "ငါးမန်း",
+  "en": "Shark",
+  "th": "ฉลาม",
+  "image": "ngarrman_037.jpg"
+ },
+ {
+  "no": "038",
+  "dream": "517",
+  "key": "pk",
+  "my": "ပင့်ကူ",
+  "en": "Spider",
+  "th": "แมงมุม",
+  "image": "pineku_038.jpg"
+ },
+ {
+  "no": "039",
+  "dream": "505",
+  "key": "timetm",
+  "my": "သိုင်းသမား",
+  "en": "Martial Artist",
+  "th": "นักศิลปะการต่อสู้",
+  "image": "thaingtharmar_039.jpg"
+ },
+ {
+  "no": "040",
+  "dream": "526",
+  "key": "lun",
+  "my": "လူငယ်",
+  "en": "Youth",
+  "th": "เยาวชน",
+  "image": "lunge_040.jpg"
+ },
+ {
+  "no": "041",
+  "dream": "506",
+  "key": "alum",
+  "my": "အဲန်လူမျိုး",
+  "en": "Aen People",
+  "th": "ชาวแอ่น",
+  "image": "anlumyo_041.jpg"
+ },
+ {
+  "no": "042",
+  "dream": "547",
+  "key": "namk",
+  "my": "နှံကောင်",
+  "en": "Grasshopper",
+  "th": "ตั๊กแตน",
+  "image": "nankaung_042.jpg"
+ },
+ {
+  "no": "043",
+  "dream": "521",
+  "key": "tttm",
+  "my": "တုတ်သိုင်းသမား",
+  "en": "Baton Fighter",
+  "th": "นักกระบอง",
+  "image": "dokethaingtharmar_043.jpg"
+ },
+ {
+  "no": "044",
+  "dream": "531",
+  "key": "phyam",
+  "my": "ဖျံ",
+  "en": "Otter",
+  "th": "นาก",
+  "image": "phyan_044.jpg"
+ },
+ {
+  "no": "045",
+  "dream": "501",
+  "key": "plps",
+  "my": "ပင်လယ်ပုဇွန်",
+  "en": "Sea Shrimp",
+  "th": "กุ้งทะเล",
+  "image": "pinlalpazon_045.jpg"
+ },
+ {
+  "no": "046",
+  "dream": "514",
+  "key": "mpk",
+  "my": "မီးပုံးကိုင်",
+  "en": "Lamp Holder",
+  "th": "คนถือโคมไฟ",
+  "image": "meeponekaing_046.jpg"
+ },
+ {
+  "no": "047",
+  "dream": "542",
+  "key": "mma",
+  "my": "မိန်းမ",
+  "en": "Woman",
+  "th": "ผู้หญิง",
+  "image": "mainma_047.jpg"
+ },
+ {
+  "no": "048",
+  "dream": "550",
+  "key": "ppyam",
+  "my": "ပျားပျံ",
+  "en": "Flying Bee",
+  "th": "ผึ้งบิน",
+  "image": "pyarpyan_048.jpg"
+ },
+ {
+  "no": "049",
+  "dream": "530",
+  "key": "psyk",
+  "my": "ပုစဥ်းရင်ကွဲ",
+  "en": "Cicada",
+  "th": "จั๊กจั่น",
+  "image": "pazineyinkawe_049.jpg"
+ },
+ {
+  "no": "050",
+  "dream": "548",
+  "key": "hinthar",
+  "my": "ဟင်္သာ",
+  "en": "Swan",
+  "th": "หงส์",
+  "image": "hinthar_050.jpg"
+ },
+ {
+  "no": "051",
+  "dream": "595",
+  "key": "pdst",
+  "my": "ပုတီးစိပ်သူ",
+  "en": "Counting Beads",
+  "th": "นับลูกประคำ",
+  "image": "pateesate_051.jpg"
+ },
+ {
+  "no": "052",
+  "dream": "553",
+  "key": "aud",
+  "my": "ဥဒေါင်း",
+  "en": "Peacock",
+  "th": "นกยูง",
+  "image": "udaung_052.jpg"
+ },
+ {
+  "no": "053",
+  "dream": "552",
+  "key": "tonay",
+  "my": "တိုးနယား",
+  "en": "Toenayar",
+  "th": "โตนายา",
+  "image": "toenayar_053.jpg"
+ },
+ {
+  "no": "054",
+  "dream": "565",
+  "key": "pnttin",
+  "my": "ပညာတော်သင်",
+  "en": "A Scholar",
+  "th": "เรียนหนังสือ",
+  "image": "pinnyardawthin_054.jpg"
+ },
+ {
+  "no": "055",
+  "dream": "589",
+  "key": "gnyee",
+  "my": "ကိန္နရီ",
+  "en": "Kinnaree",
+  "th": "กินรี",
+  "image": "kingnary_055.jpg"
+ },
+ {
+  "no": "056",
+  "dream": "591",
+  "key": "glmin",
+  "my": "ဂဠုန်မင်း",
+  "en": "Garuda",
+  "th": "ครุฑ",
+  "image": "galoanmin_056.jpg"
+ },
+ {
+  "no": "057",
+  "dream": "558",
+  "key": "tsyar",
+  "my": "သိုင်းဆရာ",
+  "en": "Martial Arts Teacher",
+  "th": "ครูมวย",
+  "image": "thaingsayar_057.jpg"
+ },
+ {
+  "no": "058",
+  "dream": "557",
+  "key": "luao",
+  "my": "လူအို",
+  "en": "Elderly Person",
+  "th": "คนแก่",
+  "image": "luo_058.jpg"
+ },
+ {
+  "no": "059",
+  "dream": "587",
+  "key": "gt",
+  "my": "ကျားသစ်",
+  "en": "Leopard",
+  "th": "เสือดาว",
+  "image": "kyarthit_059.jpg"
+ },
+ {
+  "no": "060",
+  "dream": "582",
+  "key": "nnn",
+  "my": "န",
+  "en": "Akha People",
+  "th": "ชาวอาข่า",
+  "image": "na_060.jpg"
+ },
+ {
+  "no": "061",
+  "dream": "577",
+  "key": "sin",
+  "my": "ဆင်",
+  "en": "Elephant",
+  "th": "ช้าง",
+  "image": "sin_061.jpg"
+ },
+ {
+  "no": "062",
+  "dream": "569",
+  "key": "yayb",
+  "my": "ရေဘဲ",
+  "en": "Fake duck",
+  "th": "เป็ดปลอม",
+  "image": "yaybae_062.jpg"
+ },
+ {
+  "no": "063",
+  "dream": "579",
+  "key": "pydt",
+  "my": "ပြဒါးတိုင်",
+  "en": "Mercury",
+  "th": "ปรอท",
+  "image": "pyadartaing_063.jpg"
+ },
+ {
+  "no": "064",
+  "dream": "596",
+  "key": "yat",
+  "my": "ရသေ့",
+  "en": "Hermit",
+  "th": "ฤๅษี",
+  "image": "yatae_064.jpg"
+ },
+ {
+  "no": "065",
+  "dream": "554",
+  "key": "tityk",
+  "my": "သစ်ရွက်ကိုင်",
+  "en": "Holding Leaf",
+  "th": "ถือใบไม้",
+  "image": "thityawtkaing_065.jpg"
+ },
+ {
+  "no": "066",
+  "dream": "574",
+  "key": "hteek",
+  "my": "ထီးကိုင်",
+  "en": "Umbrella",
+  "th": "ร่ม",
+  "image": "hteekaing_066.jpg"
+ },
+ {
+  "no": "067",
+  "dream": "588",
+  "key": "htwkkp",
+  "my": "ထောက်ကွန်ပါ",
+  "en": "Trammel",
+  "th": "วงเวียน",
+  "image": "talkkonpar_067.jpg"
+ },
+ {
+  "no": "068",
+  "dream": "578",
+  "key": "bell",
+  "my": "ဘဲ",
+  "en": "Duck",
+  "th": "เป็ด",
+  "image": "bae_068.jpg"
+ },
+ {
+  "no": "069",
+  "dream": "562",
+  "key": "thaminn",
+  "my": "သမင်နက်",
+  "en": "Black Deer",
+  "th": "กวางดำ",
+  "image": "thaminnet_069.jpg"
+ },
+ {
+  "no": "070",
+  "dream": "572",
+  "key": "tttt",
+  "my": "သိမ်",
+  "en": "Sanctuary",
+  "th": "โบสถ์",
+  "image": "thain_070.jpg"
+ },
+ {
+  "no": "071",
+  "dream": "593",
+  "key": "alayp",
+  "my": "အလေးပြု",
+  "en": "Respect",
+  "th": "ทำความเคารพ",
+  "image": "alaypyut_071.jpg"
+ },
+ {
+  "no": "072",
+  "dream": "570",
+  "key": "outlmee",
+  "my": "အောက်လင်းမီး",
+  "en": "Lantern",
+  "th": "ตะเกียง",
+  "image": "awtmeelin_072.jpg"
+ },
+ {
+  "no": "073",
+  "dream": "584",
+  "key": "dtking",
+  "my": "ဒေါင်းတောင်ကိုင်",
+  "en": "Holding Tail of Peacock",
+  "th": "ถือหางนกยูง",
+  "image": "daungtaungkaing_073.jpg"
+ },
+ {
+  "no": "074",
+  "dream": "566",
+  "key": "ming",
+  "my": "မြင်းကျား",
+  "en": "Zebra",
+  "th": "ม้าลาย",
+  "image": "myinkyar_074.jpg"
+ },
+ {
+  "no": "075",
+  "dream": "585",
+  "key": "dphyu",
+  "my": "ခွေးဖြူ",
+  "en": "White Dog",
+  "th": "มาขาว",
+  "image": "kwayphyu_075.jpg"
+ },
+ {
+  "no": "076",
+  "dream": "590",
+  "key": "dpyab",
+  "my": "ဓါးပြဗိုလ်",
+  "en": "Bandit Leader",
+  "th": "หัวหน้าโจร",
+  "image": "darmyabo_076.jpg"
+ },
+ {
+  "no": "077",
+  "dream": "561",
+  "key": "cat",
+  "my": "ကြောင်",
+  "en": "Cat",
+  "th": "แมว",
+  "image": "kyaung_077.jpg"
+ },
+ {
+  "no": "078",
+  "dream": "568",
+  "key": "linswee",
+  "my": "လင်းဆွဲ",
+  "en": "Bat",
+  "th": "ค้างคาว",
+  "image": "linswel_078.jpg"
+ },
+ {
+  "no": "079",
+  "dream": "563",
+  "key": "pank",
+  "my": "ပန်းကိုင်",
+  "en": "Holding Flower",
+  "th": "ถือดอกไม้",
+  "image": "pankaing_079.jpg"
+ },
+ {
+  "no": "080",
+  "dream": "599",
+  "key": "jf",
+  "my": "ကြက်ဖ",
+  "en": "Rooster",
+  "th": "ไก่ตัวผู้",
+  "image": "kyetpha_080.jpg"
+ },
+ {
+  "no": "081",
+  "dream": "594",
+  "key": "mkhwe",
+  "my": "မြေခွေး",
+  "en": "Fox",
+  "th": "หมาจิ้งจอก",
+  "image": "myaykway_081.jpg"
+ },
+ {
+  "no": "082",
+  "dream": "560",
+  "key": "skl",
+  "my": "စာကလေး",
+  "en": "Sparrow",
+  "th": "นกกระจอก",
+  "image": "sarkalay_082.jpg"
+ },
+ {
+  "no": "083",
+  "dream": "586",
+  "key": "y",
+  "my": "ယုန်",
+  "en": "Rabbit",
+  "th": "กระต่าย",
+  "image": "yong_083.jpg"
+ },
+ {
+  "no": "084",
+  "dream": "573",
+  "key": "ytkhai",
+  "my": "ရပ်တန့်ခိုင်း",
+  "en": "Stop",
+  "th": "หยุด",
+  "image": "yarttantkhainethe_084.jpg"
+ },
+ {
+  "no": "085",
+  "dream": "575",
+  "key": "jjj",
+  "my": "ကြွက်",
+  "en": "Mouse",
+  "th": "หนู",
+  "image": "kyewt_085.jpg"
+ },
+ {
+  "no": "086",
+  "dream": "583",
+  "key": "kinq",
+  "my": "ကင်းခြေများ",
+  "en": "Centipede",
+  "th": "ตะขาบ",
+  "image": "kinchaymyar_086.jpg"
+ },
+ {
+  "no": "087",
+  "dream": "559",
+  "key": "lsatthu",
+  "my": "လက်ဆတ်သူ",
+  "en": "Interlocking Fingers",
+  "th": "สานนิ้ว",
+  "image": "letsatthu_087.jpg"
+ },
+ {
+  "no": "088",
+  "dream": "567",
+  "key": "lpt",
+  "my": "လက်ပိုက်သူ",
+  "en": "Crossed Arms",
+  "th": "กอดอก",
+  "image": "letpikethu_088.jpg"
+ },
+ {
+  "no": "089",
+  "dream": "555",
+  "key": "mich",
+  "my": "မိချောင်း",
+  "en": "Crocodile",
+  "th": "จระเข้",
+  "image": "michaung_089.jpg"
+ },
+ {
+  "no": "090",
+  "dream": "576",
+  "key": "pzin",
+  "my": "ပုစဥ်း",
+  "en": "Dragonfly",
+  "th": "แมลงปอ",
+  "image": "pasin_090.jpg"
+ },
+ {
+  "no": "091",
+  "dream": "556",
+  "key": "ayarm",
+  "my": "ဧရာမငါးကြီး",
+  "en": "Whale",
+  "th": "ปลาวาฬ",
+  "image": "ayarmanyarkyi_091.jpg"
+ },
+ {
+  "no": "092",
+  "dream": "597",
+  "key": "msma",
+  "my": "မြို့စား(မြို့အုပ်)",
+  "en": "Governor",
+  "th": "ผู้ว่าฯ",
+  "image": "myoesarmyooak_092.jpg"
+ },
+ {
+  "no": "093",
+  "dream": "571",
+  "key": "tmmt",
+  "my": "သာမိုမီတာ",
+  "en": "Thermometer",
+  "th": "ปรอทวัดไข้",
+  "image": "tharmometer_093.jpg"
+ },
+ {
+  "no": "094",
+  "dream": "581",
+  "key": "nelsar",
+  "my": "နယ်စား",
+  "en": "Village Headman",
+  "th": "กำนัน",
+  "image": "nalsarr_094.jpg"
+ },
+ {
+  "no": "095",
+  "dream": "551",
+  "key": "payyhtam",
+  "my": "ပေရွက်ထမ်း",
+  "en": "Holding a palm leaf",
+  "th": "ถือใบตาล",
+  "image": "payywathtan_095.jpg"
+ },
+ {
+  "no": "096",
+  "dream": "564",
+  "key": "ganan",
+  "my": "ဂဏန်း",
+  "en": "Crab",
+  "th": "ปู",
+  "image": "ganann_096.jpg"
+ },
+ {
+  "no": "097",
+  "dream": "592",
+  "key": "lakepyar",
+  "my": "လိပ်ပြာ",
+  "en": "Butterfly",
+  "th": "ผีเสื้อ",
+  "image": "lekpyar_097.jpg"
+ },
+ {
+  "no": "098",
+  "dream": "600",
+  "key": "kmss",
+  "my": "ခမောက်ဆောင်း",
+  "en": "Wear a hat",
+  "th": "สวมงอบ",
+  "image": "kamauksaung_098.jpg"
+ },
+ {
+  "no": "099",
+  "dream": "580",
+  "key": "lhtt",
+  "my": "လေထိုးတံ",
+  "en": "Air cylinder",
+  "th": "กระบอกสูบลม",
+  "image": "layhtoetan_099.jpg"
+ },
+ {
+  "no": "100",
+  "dream": "598",
+  "key": "jnyarthu",
+  "my": "ကြေငြာသူ",
+  "en": "Announcer",
+  "th": "ผู้ประกาศ",
+  "image": "kyaynyarthu_100.jpg"
+ },
+ {
+  "no": "101",
+  "dream": "645",
+  "key": "kk",
+  "my": "ကောင်းကင်",
+  "en": "Sky",
+  "th": "ท้องฟ้า",
+  "image": "kaungkin_101.jpg"
+ },
+ {
+  "no": "102",
+  "dream": "603",
+  "key": "kbar",
+  "my": "ကမ္ဘာ",
+  "en": "World",
+  "th": "โลก",
+  "image": "kabar_102.jpg"
+ },
+ {
+  "no": "103",
+  "dream": "602",
+  "key": "sun",
+  "my": "နေ",
+  "en": "Sun",
+  "th": "พระอาทิตย์",
+  "image": "nay_103.jpg"
+ },
+ {
+  "no": "104",
+  "dream": "639",
+  "key": "moon",
+  "my": "လ",
+  "en": "Moon",
+  "th": "พระจันทร์",
+  "image": "la_104.jpg"
+ },
+ {
+  "no": "105",
+  "dream": "637",
+  "key": "moejyo",
+  "my": "မိုးကြိုး",
+  "en": "Thunderclap",
+  "th": "ฟ้าผ่า",
+  "image": "moekyoe_105.jpg"
+ },
+ {
+  "no": "106",
+  "dream": "641",
+  "key": "mywar",
+  "my": "မိုးရွာ",
+  "en": "Rain",
+  "th": "ฝนตก",
+  "image": "moeywar_106.jpg"
+ },
+ {
+  "no": "107",
+  "dream": "608",
+  "key": "lay",
+  "my": "လေ",
+  "en": "Wind",
+  "th": "ลม",
+  "image": "lay_107.jpg"
+ },
+ {
+  "no": "108",
+  "dream": "607",
+  "key": "tain",
+  "my": "တိမ်",
+  "en": "Cloud",
+  "th": "เมฆ",
+  "image": "tain_108.jpg"
+ },
+ {
+  "no": "109",
+  "dream": "615",
+  "key": "ych",
+  "my": "ရေခဲ",
+  "en": "Ice",
+  "th": "น้ำแข็ง",
+  "image": "yaykhae_109.jpg"
+ },
+ {
+  "no": "110",
+  "dream": "632",
+  "key": "ninn",
+  "my": "နှင်း",
+  "en": "Snow",
+  "th": "หิมะ",
+  "image": "hnin_110.jpg"
+ },
+ {
+  "no": "111",
+  "dream": "627",
+  "key": "star",
+  "my": "ကြယ်",
+  "en": "Star",
+  "th": "ดาว",
+  "image": "kyal_111.jpg"
+ },
+ {
+  "no": "112",
+  "dream": "619",
+  "key": "lseel",
+  "my": "လျှပ်စီးလျက်",
+  "en": "Lightning",
+  "th": "ฟ้าแลบ",
+  "image": "hlyetseelyet_112.jpg"
+ },
+ {
+  "no": "113",
+  "dream": "629",
+  "key": "rayi",
+  "my": "ရေအိုင်",
+  "en": "Marsh",
+  "th": "หนองน้ำ",
+  "image": "yayi_113.jpg"
+ },
+ {
+  "no": "114",
+  "dream": "646",
+  "key": "ttaung",
+  "my": "တောင်",
+  "en": "Mountain",
+  "th": "ภูเขา",
+  "image": "taung_114.jpg"
+ },
+ {
+  "no": "115",
+  "dream": "604",
+  "key": "ychang",
+  "my": "ရေချောင်း",
+  "en": "Stream",
+  "th": "ลำธาร",
+  "image": "yaychaung_115.jpg"
+ },
+ {
+  "no": "116",
+  "dream": "624",
+  "key": "kttt",
+  "my": "ကျောက်တုံး",
+  "en": "Rock",
+  "th": "หิน",
+  "image": "kyauktone_116.jpg"
+ },
+ {
+  "no": "117",
+  "dream": "638",
+  "key": "lanma",
+  "my": "လမ်းမ",
+  "en": "Road",
+  "th": "ถนน",
+  "image": "lanma_117.jpg"
+ },
+ {
+  "no": "118",
+  "dream": "628",
+  "key": "ytwin",
+  "my": "ရေတွင်း",
+  "en": "Pond water",
+  "th": "น้ำบอ",
+  "image": "yaytwin_118.jpg"
+ },
+ {
+  "no": "119",
+  "dream": "612",
+  "key": "myo",
+  "my": "မြို့",
+  "en": "City",
+  "th": "เมือง",
+  "image": "myoe_119.jpg"
+ },
+ {
+  "no": "120",
+  "dream": "622",
+  "key": "autt",
+  "my": "အုတ်တံတိုင်း",
+  "en": "Brick Wall",
+  "th": "กำแพง",
+  "image": "oaktandine_120.jpg"
+ },
+ {
+  "no": "121",
+  "dream": "643",
+  "key": "guu",
+  "my": "ဂူ",
+  "en": "Cave",
+  "th": "ถ้ำ",
+  "image": "gu_121.jpg"
+ },
+ {
+  "no": "122",
+  "dream": "620",
+  "key": "zkam",
+  "my": "ဆိပ်ကမ်း",
+  "en": "Harbor",
+  "th": "ท่าเรือ",
+  "image": "sakekan_122.jpg"
+ },
+ {
+  "no": "123",
+  "dream": "634",
+  "key": "lell",
+  "my": "လယ်",
+  "en": "Field",
+  "th": "ทุ่ง",
+  "image": "lal_123.jpg"
+ },
+ {
+  "no": "124",
+  "dream": "616",
+  "key": "tnchai",
+  "my": "သင်္ချိုင်း",
+  "en": "Riverbank",
+  "th": "แม่น้ำ",
+  "image": "thinchine_124.jpg"
+ },
+ {
+  "no": "125",
+  "dream": "635",
+  "key": "panchan",
+  "my": "ပန်းခြံ",
+  "en": "Garden",
+  "th": "สวน",
+  "image": "panchan_125.jpg"
+ },
+ {
+  "no": "126",
+  "dream": "640",
+  "key": "tawaut",
+  "my": "တောအုပ်",
+  "en": "Forest",
+  "th": "ป่าไม้",
+  "image": "tawoak_126.jpg"
+ },
+ {
+  "no": "127",
+  "dream": "611",
+  "key": "hawtel",
+  "my": "ဟော်တယ်",
+  "en": "Hotel",
+  "th": "โรงแรม",
+  "image": "hotel_127.jpg"
+ },
+ {
+  "no": "128",
+  "dream": "618",
+  "key": "nantaw",
+  "my": "နန်းတော်",
+  "en": "Palace",
+  "th": "พระราชวัง",
+  "image": "nanndaw_128.jpg"
+ },
+ {
+  "no": "129",
+  "dream": "613",
+  "key": "a",
+  "my": "အိမ်",
+  "en": "Home",
+  "th": "บ้าน",
+  "image": "eain_129.jpg"
+ },
+ {
+  "no": "130",
+  "dream": "649",
+  "key": "natsin",
+  "my": "နတ်စင်",
+  "en": "Spirit House",
+  "th": "ศาลพระภูมิ",
+  "image": "natsin_130.jpg"
+ },
+ {
+  "no": "131",
+  "dream": "644",
+  "key": "pyattt",
+  "my": "ပြဿဒ်",
+  "en": "Castle",
+  "th": "ปราสาท",
+  "image": "pyathat_131.jpg"
+ },
+ {
+  "no": "132",
+  "dream": "610",
+  "key": "kyang",
+  "my": "ကျောင်း",
+  "en": "Temple",
+  "th": "วัด",
+  "image": "kyaung_132.jpg"
+ },
+ {
+  "no": "133",
+  "dream": "636",
+  "key": "ttar",
+  "my": "တံတား",
+  "en": "Bridge",
+  "th": "สะพาน",
+  "image": "tandarr_133.jpg"
+ },
+ {
+  "no": "134",
+  "dream": "623",
+  "key": "zyap",
+  "my": "ဇရပ်",
+  "en": "Pavilion",
+  "th": "ศาลา",
+  "image": "zayart_134.jpg"
+ },
+ {
+  "no": "135",
+  "dream": "625",
+  "key": "stee",
+  "my": "စေတီ",
+  "en": "Pagoda",
+  "th": "เจดีย์",
+  "image": "sayti_135.jpg"
+ },
+ {
+  "no": "136",
+  "dream": "633",
+  "key": "apangs",
+  "my": "အပေါင်ဆိုင်",
+  "en": "Pawnshop",
+  "th": "โรงรับจํานํา",
+  "image": "apoundsaing_136.jpg"
+ },
+ {
+  "no": "137",
+  "dream": "609",
+  "key": "plell",
+  "my": "ပုလဲ",
+  "en": "Pearl",
+  "th": "ไข่มุก",
+  "image": "pale_137.jpg"
+ },
+ {
+  "no": "138",
+  "dream": "617",
+  "key": "shwechan",
+  "my": "ရွှေချောင်း",
+  "en": "Gold bars",
+  "th": "ทองแท่ง",
+  "image": "shwechaung_138.jpg"
+ },
+ {
+  "no": "139",
+  "dream": "605",
+  "key": "nc",
+  "my": "ငွေခဲ",
+  "en": "Silver nugget",
+  "th": "ก้อนเงิน",
+  "image": "ngwekhae_139.jpg"
+ },
+ {
+  "no": "140",
+  "dream": "626",
+  "key": "kplee",
+  "my": "ကပ္ပလီ",
+  "en": "Black people",
+  "th": "คนผิวดำ",
+  "image": "kuppali_140.jpg"
+ },
+ {
+  "no": "141",
+  "dream": "606",
+  "key": "lgya",
+  "my": "လေးဂွ",
+  "en": "Slingshot",
+  "th": "หนังสติ๊ก",
+  "image": "laygwa_141.jpg"
+ },
+ {
+  "no": "142",
+  "dream": "647",
+  "key": "taungway",
+  "my": "တောင်ဝှေး",
+  "en": "Staff",
+  "th": "ไม้เท้า",
+  "image": "taunghway_142.jpg"
+ },
+ {
+  "no": "143",
+  "dream": "621",
+  "key": "gin",
+  "my": "ဂျင်း",
+  "en": "Ginger",
+  "th": "ขิง",
+  "image": "gyain_143.jpg"
+ },
+ {
+  "no": "144",
+  "dream": "631",
+  "key": "minche",
+  "my": "မှင်ခဲ",
+  "en": "Ink stick",
+  "th": "แท่งหมึก",
+  "image": "hminkae_144.jpg"
+ },
+ {
+  "no": "145",
+  "dream": "601",
+  "key": "suttam",
+  "my": "စုတ်တံ",
+  "en": "Paintbrush",
+  "th": "ภู่กัน",
+  "image": "soaktan_145.jpg"
+ },
+ {
+  "no": "146",
+  "dream": "614",
+  "key": "mincyawe",
+  "my": "မှင်ခွက်",
+  "en": "Ink bottle",
+  "th": "ขวดหมึก",
+  "image": "hminkwet_146.jpg"
+ },
+ {
+  "no": "147",
+  "dream": "642",
+  "key": "skuuht",
+  "my": "စက္ကူထုပ်",
+  "en": "Wrapping paper",
+  "th": "ห่อกระดาษ",
+  "image": "setkuhtoke_147.jpg"
+ },
+ {
+  "no": "148",
+  "dream": "650",
+  "key": "postar",
+  "my": "ပိုစတာ",
+  "en": "Poster",
+  "th": "โปสเตอร์",
+  "image": "postar_148.jpg"
+ },
+ {
+  "no": "149",
+  "dream": "630",
+  "key": "tybibj",
+  "my": "တရုတ်ဘင်ဂျို",
+  "en": "Mandolin",
+  "th": "พิณ",
+  "image": "tayokebinkyo_149.jpg"
+ },
+ {
+  "no": "150",
+  "dream": "648",
+  "key": "kchon",
+  "my": "ကျားခုံ",
+  "en": "Chessboard",
+  "th": "กระดานหมากรุก",
+  "image": "kyarrkhon_150.jpg"
+ },
+ {
+  "no": "151",
+  "dream": "695",
+  "key": "htunset",
+  "my": "ထွန်စက်",
+  "en": "Tractor",
+  "th": "รถไถ",
+  "image": "htonsat_151.jpg"
+ },
+ {
+  "no": "152",
+  "dream": "653",
+  "key": "layker",
+  "my": "လှေကား",
+  "en": "Staircase",
+  "th": "บันได",
+  "image": "hlaykar_152.jpg"
+ },
+ {
+  "no": "153",
+  "dream": "652",
+  "key": "kutlinep",
+  "my": "ကောက်လှိုင်းပုံ",
+  "en": "Rice stalks",
+  "th": "กองต้นข้าว",
+  "image": "kokhlinepong_153.jpg"
+ },
+ {
+  "no": "154",
+  "dream": "665",
+  "key": "ptee",
+  "my": "ပေသီး",
+  "en": "Abacus",
+  "th": "ลูกคิด",
+  "image": "paltee_154.jpg"
+ },
+ {
+  "no": "155",
+  "dream": "689",
+  "key": "ltpwer",
+  "my": "လက်သုတ်ပဝါ",
+  "en": "Hand towel",
+  "th": "ผ้าเช็ดมือ",
+  "image": "letthokepawer_155.jpg"
+ },
+ {
+  "no": "156",
+  "dream": "691",
+  "key": "laye",
+  "my": "လေး",
+  "en": "Sagittarius",
+  "th": "ธนู",
+  "image": "lay_156.jpg"
+ },
+ {
+  "no": "157",
+  "dream": "658",
+  "key": "myar",
+  "my": "မြှား",
+  "en": "Arrow",
+  "th": "ลูกธนู",
+  "image": "hmyar_157.jpg"
+ },
+ {
+  "no": "158",
+  "dream": "657",
+  "key": "amyawt",
+  "my": "အမြောက်",
+  "en": "Cannon",
+  "th": "ปืนใหญ่",
+  "image": "ahmyauk_158.jpg"
+ },
+ {
+  "no": "159",
+  "dream": "687",
+  "key": "mteetam",
+  "my": "မောင်းတီးတံ",
+  "en": "Gong stick",
+  "th": "ไม้ตีฆ้อง",
+  "image": "moundteetan_159.jpg"
+ },
+ {
+  "no": "160",
+  "dream": "682",
+  "key": "sinleam",
+  "my": "ဆင်လိမ်",
+  "en": "Bamboo fish trap",
+  "th": "ไซ",
+  "image": "sinling_160.jpg"
+ },
+ {
+  "no": "161",
+  "dream": "677",
+  "key": "pl",
+  "my": "ပုလွေ",
+  "en": "Flute",
+  "th": "ปี่",
+  "image": "palway_161.jpg"
+ },
+ {
+  "no": "162",
+  "dream": "669",
+  "key": "mounge",
+  "my": "မောင်း",
+  "en": "Gong",
+  "th": "ฆ้อง",
+  "image": "mound_162.jpg"
+ },
+ {
+  "no": "163",
+  "dream": "679",
+  "key": "linkwin",
+  "my": "လင်းကွင်း",
+  "en": "Cymbal",
+  "th": "ฉาบ",
+  "image": "linkwin_163.jpg"
+ },
+ {
+  "no": "164",
+  "dream": "696",
+  "key": "chlaung",
+  "my": "ခေါင်းလောင်း",
+  "en": "Bell",
+  "th": "ระฆัง",
+  "image": "khaunglaung_164.jpg"
+ },
+ {
+  "no": "165",
+  "dream": "654",
+  "key": "aosee",
+  "my": "အိုးစည်",
+  "en": "Drum",
+  "th": "กลอง",
+  "image": "owlese_165.jpg"
+ },
+ {
+  "no": "166",
+  "dream": "674",
+  "key": "tamsch",
+  "my": "တံဆိပ်ခေါင်း",
+  "en": "Stamp",
+  "th": "แสตมป์",
+  "image": "tansakekaung_166.jpg"
+ },
+ {
+  "no": "167",
+  "dream": "688",
+  "key": "alay",
+  "my": "အလေး",
+  "en": "Scale",
+  "th": "ลูกชั่ง",
+  "image": "alay_167.jpg"
+ },
+ {
+  "no": "168",
+  "dream": "678",
+  "key": "geter",
+  "my": "ဂီတာ",
+  "en": "Guitar",
+  "th": "กีตาร์",
+  "image": "guitar_168.jpg"
+ },
+ {
+  "no": "169",
+  "dream": "662",
+  "key": "nell",
+  "my": "နှဲ",
+  "en": "Oboe",
+  "th": "ปี่โอโบ",
+  "image": "hnae_169.jpg"
+ },
+ {
+  "no": "170",
+  "dream": "672",
+  "key": "patsein",
+  "my": "ပေါက်ဆိန်",
+  "en": "Ax",
+  "th": "ขวาน",
+  "image": "pauksein_170.jpg"
+ },
+ {
+  "no": "171",
+  "dream": "693",
+  "key": "sannet",
+  "my": "ဆံညှပ်",
+  "en": "Hair clip",
+  "th": "กิ๊บหนีบผม",
+  "image": "sanhnyat_171.jpg"
+ },
+ {
+  "no": "172",
+  "dream": "670",
+  "key": "letkat",
+  "my": "လက်ကောက်",
+  "en": "Bracelet",
+  "th": "กําไล",
+  "image": "letkauk_172.jpg"
+ },
+ {
+  "no": "173",
+  "dream": "684",
+  "key": "letsowt",
+  "my": "လက်စွပ်",
+  "en": "Ring",
+  "th": "แหวน",
+  "image": "letsoat_173.jpg"
+ },
+ {
+  "no": "174",
+  "dream": "666",
+  "key": "shweckbee",
+  "my": "ရွှေခေါင်းဘီး",
+  "en": "Golden comb",
+  "th": "หวีทอง",
+  "image": "shwekaungbee_174.jpg"
+ },
+ {
+  "no": "175",
+  "dream": "685",
+  "key": "kyiman",
+  "my": "ကြည့်မှန်",
+  "en": "Mirror",
+  "th": "กระจก",
+  "image": "kyihman_175.jpg"
+ },
+ {
+  "no": "176",
+  "dream": "690",
+  "key": "katjay",
+  "my": "ကပ်ကျေး",
+  "en": "Scissors",
+  "th": "กรรไกร",
+  "image": "kutkyay_176.jpg"
+ },
+ {
+  "no": "177",
+  "dream": "661",
+  "key": "chonglong",
+  "my": "ခေါင်းအုံး",
+  "en": "Pillow",
+  "th": "หมอน",
+  "image": "kaungohn_177.jpg"
+ },
+ {
+  "no": "178",
+  "dream": "668",
+  "key": "phyarlake",
+  "my": "ဖျာလိပ်",
+  "en": "Rolling mat",
+  "th": "ม้วนเสื่อ",
+  "image": "phyarleik_178.jpg"
+ },
+ {
+  "no": "179",
+  "dream": "663",
+  "key": "chinhtoung",
+  "my": "ခြင်ထောင်",
+  "en": "Mosquito net",
+  "th": "มุ้งกันยุง",
+  "image": "chinhtaung_179.jpg"
+ },
+ {
+  "no": "180",
+  "dream": "699",
+  "key": "changechwin",
+  "my": "ချိန်ခွင်",
+  "en": "Balance",
+  "th": "ตราชู",
+  "image": "chainkwin_180.jpg"
+ },
+ {
+  "no": "181",
+  "dream": "694",
+  "key": "htaminpakam",
+  "my": "ထမင်းပန်းကန်",
+  "en": "Rice plate",
+  "th": "จานข้าว",
+  "image": "htaminpakan_181.jpg"
+ },
+ {
+  "no": "182",
+  "dream": "660",
+  "key": "chayaraoo",
+  "my": "ခရားအိုး",
+  "en": "Kettle",
+  "th": "กาน้ำ",
+  "image": "khayarowle_182.jpg"
+ },
+ {
+  "no": "183",
+  "dream": "686",
+  "key": "kanasoetee",
+  "my": "ကနစိုးသီး",
+  "en": "Mafai",
+  "th": "มะไฟ",
+  "image": "kanasoetee_183.jpg"
+ },
+ {
+  "no": "184",
+  "dream": "673",
+  "key": "yaysee",
+  "my": "ရေစည်",
+  "en": "Bathtub",
+  "th": "อ่างน้ำ",
+  "image": "yaysi_184.jpg"
+ },
+ {
+  "no": "185",
+  "dream": "675",
+  "key": "zinaoe",
+  "my": "စဥ့်အိုး",
+  "en": "Jar",
+  "th": "โอ่ง",
+  "image": "sintowle_185.jpg"
+ },
+ {
+  "no": "186",
+  "dream": "683",
+  "key": "zalong",
+  "my": "ဇလုံ",
+  "en": "Basin",
+  "th": "กะละมัง",
+  "image": "zalone_186.jpg"
+ },
+ {
+  "no": "187",
+  "dream": "659",
+  "key": "tmhtawk",
+  "my": "သုံးမြှောက်ထောက်",
+  "en": "Square",
+  "th": "ไม้ฉาก",
+  "image": "thonemyaukhtauk_187.jpg"
+ },
+ {
+  "no": "188",
+  "dream": "667",
+  "key": "lywa",
+  "my": "လွှ",
+  "en": "Saw",
+  "th": "เลื่อย",
+  "image": "hlwa_188.jpg"
+ },
+ {
+  "no": "189",
+  "dream": "655",
+  "key": "minguttee",
+  "my": "မင်းကွတ်သီး",
+  "en": "Mangosteen",
+  "th": "มังคุด",
+  "image": "minkoattee_189.jpg"
+ },
+ {
+  "no": "190",
+  "dream": "676",
+  "key": "laya",
+  "my": "လှေ",
+  "en": "Boat",
+  "th": "เรือ",
+  "image": "hlay_190.jpg"
+ },
+ {
+  "no": "191",
+  "dream": "656",
+  "key": "wwchai",
+  "my": "ဝက်ခြံ",
+  "en": "Pig pen",
+  "th": "คอกหมู",
+  "image": "wetchan_191.jpg"
+ },
+ {
+  "no": "192",
+  "dream": "697",
+  "key": "tawww",
+  "my": "သော့",
+  "en": "Key",
+  "th": "กุญแจ",
+  "image": "tawt_192.jpg"
+ },
+ {
+  "no": "193",
+  "dream": "671",
+  "key": "meepho",
+  "my": "မီးဖို",
+  "en": "Hearth",
+  "th": "เตาไฟ",
+  "image": "meepho_193.jpg"
+ },
+ {
+  "no": "194",
+  "dream": "681",
+  "key": "meepuu",
+  "my": "မီးပူ",
+  "en": "Iron",
+  "th": "เตารีด",
+  "image": "meepu_194.jpg"
+ },
+ {
+  "no": "195",
+  "dream": "651",
+  "key": "ynweaoe",
+  "my": "ရေနွေးအိုး",
+  "en": "Teapot",
+  "th": "กาน้ำชา",
+  "image": "yayngweowle_195.jpg"
+ },
+ {
+  "no": "196",
+  "dream": "664",
+  "key": "tammatse",
+  "my": "တံမြက်စည်း",
+  "en": "Broom",
+  "th": "ไม้กวาด",
+  "image": "tanmyetsee_196.jpg"
+ },
+ {
+  "no": "197",
+  "dream": "692",
+  "key": "paitekun",
+  "my": "ပိုက်ကွန်",
+  "en": "Net",
+  "th": "แห",
+  "image": "pikekon_197.jpg"
+ },
+ {
+  "no": "198",
+  "dream": "700",
+  "key": "jyochaw",
+  "my": "ကြိုးခွေ",
+  "en": "Rope Roll",
+  "th": "ม้วนเชือก",
+  "image": "kyoekway_198.jpg"
+ },
+ {
+  "no": "199",
+  "dream": "680",
+  "key": "nmyant",
+  "my": "ငါးမျှားတံ",
+  "en": "Fishing stick",
+  "th": "คันเบ็ด",
+  "image": "ngarmyartan_199.jpg"
+ },
+ {
+  "no": "200",
+  "dream": "698",
+  "key": "padownlm",
+  "my": "ပဒေါင်လူမျိုး",
+  "en": "Padang",
+  "th": "กะเหรี่ยงคอยาว",
+  "image": "padaunglumyo_200.jpg"
+ },
+ {
+  "no": "201",
+  "dream": "745",
+  "key": "beelu",
+  "my": "ဘီလူး",
+  "en": "Giant",
+  "th": "ยักษ์",
+  "image": "beluu_201.jpg"
+ },
+ {
+  "no": "202",
+  "dream": "703",
+  "key": "zatyong",
+  "my": "ဇာတ်ရုံ",
+  "en": "Likay Theater",
+  "th": "โรงละครลิเก",
+  "image": "sartyoan_202.jpg"
+ },
+ {
+  "no": "203",
+  "dream": "702",
+  "key": "nseebuu",
+  "my": "နို့ဆီဗူး",
+  "en": "Milk Can",
+  "th": "กระป๋องนม",
+  "image": "noesibuu_203.jpg"
+ },
+ {
+  "no": "204",
+  "dream": "715",
+  "key": "amatkyee",
+  "my": "အမတ်ကြီး",
+  "en": "MP",
+  "th": "อามาตย์",
+  "image": "amartkyi_204.jpg"
+ },
+ {
+  "no": "205",
+  "dream": "739",
+  "key": "ymintanjyar",
+  "my": "ရုပ်မြင်သံကြား",
+  "en": "Television",
+  "th": "โทรทัศน์",
+  "image": "yoakmyinthankyarr_205.jpg"
+ },
+ {
+  "no": "206",
+  "dream": "741",
+  "key": "htinshthu",
+  "my": "ထင်ရှားသူ",
+  "en": "Wood collector",
+  "th": "คนเก็บฟืน",
+  "image": "htinsharthu_206.jpg"
+ },
+ {
+  "no": "207",
+  "dream": "708",
+  "key": "leepoplin",
+  "my": "လီပိုပုလင်း",
+  "en": "Lipo Bottle",
+  "th": "ขวดลิโพ",
+  "image": "lepopalin_207.jpg"
+ },
+ {
+  "no": "208",
+  "dream": "707",
+  "key": "zawgyi",
+  "my": "ဇော်ဂျီ",
+  "en": "Zawgyi",
+  "th": "ซอว์จี",
+  "image": "zawgyi_208.jpg"
+ },
+ {
+  "no": "209",
+  "dream": "737",
+  "key": "namkung",
+  "my": "နှံကောင်",
+  "en": "Grasshopper",
+  "th": "ตั๊กแตน",
+  "image": "hnankaung_209.jpg"
+ },
+ {
+  "no": "210",
+  "dream": "732",
+  "key": "telchay",
+  "my": "သည်းခြေ",
+  "en": "Gallbladder",
+  "th": "ถุงน้ำดี",
+  "image": "thaechay_210.jpg"
+ },
+ {
+  "no": "211",
+  "dream": "727",
+  "key": "katem",
+  "my": "ကိတ်မုန့်",
+  "en": "Cake",
+  "th": "ขนมเค็ก",
+  "image": "katemoke_211.jpg"
+ },
+ {
+  "no": "212",
+  "dream": "719",
+  "key": "myawt",
+  "my": "မျှော့",
+  "en": "Leech",
+  "th": "ปลิง",
+  "image": "myawt_212.jpg"
+ },
+ {
+  "no": "213",
+  "dream": "729",
+  "key": "nettike",
+  "my": "ငှက်သိုက်",
+  "en": "Bird nest",
+  "th": "รังนก",
+  "image": "ngetthike_213.jpg"
+ },
+ {
+  "no": "214",
+  "dream": "746",
+  "key": "luyoek",
+  "my": "လူခေါင်းရိုး",
+  "en": "Skull",
+  "th": "กะโหลก",
+  "image": "lukhaungyoe_214.jpg"
+ },
+ {
+  "no": "215",
+  "dream": "704",
+  "key": "sapin",
+  "my": "ဆံပင်",
+  "en": "Hair",
+  "th": "ผม",
+  "image": "sanpin_215.jpg"
+ },
+ {
+  "no": "216",
+  "dream": "724",
+  "key": "alyarchon",
+  "my": "အလျားခုန်",
+  "en": "Long Jump",
+  "th": "กระโดดไกล",
+  "image": "alyarkhon_216.jpg"
+ },
+ {
+  "no": "217",
+  "dream": "738",
+  "key": "yayp",
+  "my": "ရေပြွတ်",
+  "en": "Water spray bottle",
+  "th": "กระบอกฉีดน้ำ",
+  "image": "yaypwet_217.jpg"
+ },
+ {
+  "no": "218",
+  "dream": "728",
+  "key": "nntee",
+  "my": "နာနတ်သီး",
+  "en": "Pineapple",
+  "th": "สับปะรด",
+  "image": "narnatthee_218.jpg"
+ },
+ {
+  "no": "219",
+  "dream": "712",
+  "key": "atokehtam",
+  "my": "အထုပ်ထမ်း",
+  "en": "Bag carrier",
+  "th": "คนแบกถุง",
+  "image": "ahtokehtan_219.jpg"
+ },
+ {
+  "no": "220",
+  "dream": "722",
+  "key": "baoe",
+  "my": "ပျောက်အိုး",
+  "en": "Firecrackers",
+  "th": "ประทัด",
+  "image": "byaukowle_220.jpg"
+ },
+ {
+  "no": "221",
+  "dream": "743",
+  "key": "amatoohtoke",
+  "my": "အမတ်ဦးထုပ်",
+  "en": "MP hat",
+  "th": "หมวกอำมาตย์",
+  "image": "amartoakhtoke_221.jpg"
+ },
+ {
+  "no": "222",
+  "dream": "720",
+  "key": "shankswee",
+  "my": "ရှမ်းခေါက်ဆွဲ",
+  "en": "Shan Noodles",
+  "th": "บะหมี่เหนียว",
+  "image": "shankhaukswel_222.jpg"
+ },
+ {
+  "no": "223",
+  "dream": "734",
+  "key": "htanbl",
+  "my": "သံဘရပ်(ရှ်)",
+  "en": "Steel brush",
+  "th": "แปรงเหล็ก",
+  "image": "thanbrush_223.jpg"
+ },
+ {
+  "no": "224",
+  "dream": "716",
+  "key": "tywartikesay",
+  "my": "သွားတိုက်ဆေး",
+  "en": "Toothpaste",
+  "th": "ยาสีฟัน",
+  "image": "thwartikesay_224.jpg"
+ },
+ {
+  "no": "225",
+  "dream": "735",
+  "key": "skuulake",
+  "my": "စက္ကူလိပ်",
+  "en": "Paper roll",
+  "th": "ม้วนกระดาษ",
+  "image": "setkuleik_225.jpg"
+ },
+ {
+  "no": "226",
+  "dream": "740",
+  "key": "ajee",
+  "my": "အင်္ကျီ",
+  "en": "Shirt",
+  "th": "เสื้อ",
+  "image": "eaintkyi_226.jpg"
+ },
+ {
+  "no": "227",
+  "dream": "711",
+  "key": "tammseel",
+  "my": "တံမျက်စည်းလှည်း",
+  "en": "Broom holder",
+  "th": "คนถือไม้กวาด",
+  "image": "tanmyetseehle_227.jpg"
+ },
+ {
+  "no": "228",
+  "dream": "718",
+  "key": "nlon",
+  "my": "နှလုံး",
+  "en": "Heart",
+  "th": "หัวใจ",
+  "image": "hnalone_228.jpg"
+ },
+ {
+  "no": "229",
+  "dream": "713",
+  "key": "kawpyare",
+  "my": "ကော်ပြား",
+  "en": "Shovel",
+  "th": "พลั่ว",
+  "image": "kawpyar_229.jpg"
+ },
+ {
+  "no": "230",
+  "dream": "749",
+  "key": "lsthu",
+  "my": "လှည်းဆွဲသူ",
+  "en": "Cart puller",
+  "th": "คนลากรถ",
+  "image": "hleswelthu_230.jpg"
+ },
+ {
+  "no": "231",
+  "dream": "744",
+  "key": "ntnyin",
+  "my": "ငှက်တိန်ညင်",
+  "en": "Sparrow",
+  "th": "นกกระจิบ",
+  "image": "ngettainnyin_231.jpg"
+ },
+ {
+  "no": "232",
+  "dream": "710",
+  "key": "phosphyu",
+  "my": "ဖိုးဆိတ်ဖြူ",
+  "en": "Whitebeard",
+  "th": "คนหนวดขาว",
+  "image": "phoesatephyu_232.jpg"
+ },
+ {
+  "no": "233",
+  "dream": "736",
+  "key": "somm",
+  "my": "ဆုံ",
+  "en": "Mortar",
+  "th": "ครก",
+  "image": "zone_233.jpg"
+ },
+ {
+  "no": "234",
+  "dream": "723",
+  "key": "skoohtoke",
+  "my": "ဆိုင်ကယ်ဦးထုပ်",
+  "en": "Motorcycle Helmet",
+  "th": "หมวกกันน็อค",
+  "image": "saikaloakhtoke_234.jpg"
+ },
+ {
+  "no": "235",
+  "dream": "725",
+  "key": "ygmell",
+  "my": "ယောဂီမယ်",
+  "en": "Yogini",
+  "th": "โยคินี",
+  "image": "yawkimel_235.jpg"
+ },
+ {
+  "no": "236",
+  "dream": "733",
+  "key": "nattrphu",
+  "my": "နတ်သရဖူ",
+  "en": "Chadaphi",
+  "th": "ชฏาผี",
+  "image": "nattharaphu_236.jpg"
+ },
+ {
+  "no": "237",
+  "dream": "709",
+  "key": "pyh",
+  "my": "ပုတ်ရဟန်း",
+  "en": "Priest",
+  "th": "บาทหลวง",
+  "image": "pokeyahan_237.jpg"
+ },
+ {
+  "no": "238",
+  "dream": "717",
+  "key": "chngbee",
+  "my": "ခေါင်းဘီး",
+  "en": "Comb",
+  "th": "หวี",
+  "image": "khaungbee_238.jpg"
+ },
+ {
+  "no": "239",
+  "dream": "705",
+  "key": "seattb",
+  "my": "စစ်သင်္ဘော",
+  "en": "Warship",
+  "th": "เรือรบทหาร",
+  "image": "sitthinbaw_239.jpg"
+ },
+ {
+  "no": "240",
+  "dream": "726",
+  "key": "overtin",
+  "my": "အိုဗာတင်း",
+  "en": "Ovaltine",
+  "th": "โอวัลติน",
+  "image": "overtein_240.jpg"
+ },
+ {
+  "no": "241",
+  "dream": "706",
+  "key": "asrein",
+  "my": "အစာအိမ်",
+  "en": "Stomach",
+  "th": "กระเพาะอาหาร",
+  "image": "asareain_241.jpg"
+ },
+ {
+  "no": "242",
+  "dream": "747",
+  "key": "kbr",
+  "my": "ကော်ဘရပ်(ရှ်)",
+  "en": "Plastic brush",
+  "th": "แปรงพลาสติก",
+  "image": "kawbrush_242.jpg"
+ },
+ {
+  "no": "243",
+  "dream": "721",
+  "key": "ws",
+  "my": "ဝတ်စုံ",
+  "en": "Outfit",
+  "th": "ผ้าชุด",
+  "image": "wutsone_243.jpg"
+ },
+ {
+  "no": "244",
+  "dream": "731",
+  "key": "matsu",
+  "my": "မှတ်စုစာအုပ်",
+  "en": "Notebook",
+  "th": "สมุดโน้ต",
+  "image": "hmartsusaroak_244.jpg"
+ },
+ {
+  "no": "245",
+  "dream": "701",
+  "key": "uhtot",
+  "my": "ဦးထုပ်",
+  "en": "Hat",
+  "th": "หมวก",
+  "image": "oakhtoke_245.jpg"
+ },
+ {
+  "no": "246",
+  "dream": "714",
+  "key": "yetkhatthu",
+  "my": "ယပ်ခပ်သူ",
+  "en": "Fan",
+  "th": "พัดลม",
+  "image": "yartkhartthu_246.jpg"
+ },
+ {
+  "no": "247",
+  "dream": "742",
+  "key": "sparseat",
+  "my": "စပါးစေ့",
+  "en": "Rice Grain",
+  "th": "เมล็ดข้าวเปลือก",
+  "image": "saparsae_247.jpg"
+ },
+ {
+  "no": "248",
+  "dream": "750",
+  "key": "tyy",
+  "my": "သရက်ရွက်",
+  "en": "Spleen",
+  "th": "ม้าม",
+  "image": "thayetywet_248.jpg"
+ },
+ {
+  "no": "249",
+  "dream": "730",
+  "key": "metst",
+  "my": "မျှစ်စားသူ",
+  "en": "Eating bamboo shoots",
+  "th": "ทานหน่อไม้",
+  "image": "hmyitsarthu_249.jpg"
+ },
+ {
+  "no": "250",
+  "dream": "748",
+  "key": "vybn",
+  "my": "လည်ရှည်ဘိနပ်",
+  "en": "Boots",
+  "th": "รองเท้าบู๊ท",
+  "image": "lalshayphanut_250.jpg"
+ },
+ {
+  "no": "251",
+  "dream": "795",
+  "key": "achoy",
+  "my": "အချိုရည်",
+  "en": "Sweet Drink",
+  "th": "เครื่องดื่มหวาน",
+  "image": "achoyay_251.jpg"
+ },
+ {
+  "no": "252",
+  "dream": "753",
+  "key": "nbn",
+  "my": "ညှပ်ဘိနပ်",
+  "en": "Slippers",
+  "th": "รองเท้าแตะ",
+  "image": "nyatphanut_252.jpg"
+ },
+ {
+  "no": "253",
+  "dream": "752",
+  "key": "bettr",
+  "my": "ဘက်ထရီအိုး",
+  "en": "Battery",
+  "th": "แบตเตอรี่",
+  "image": "batteryowle_253.jpg"
+ },
+ {
+  "no": "254",
+  "dream": "765",
+  "key": "wul",
+  "my": "ဝက်အူလှည့်",
+  "en": "Screwdriver",
+  "th": "ไขควง",
+  "image": "wetouhlae_254.jpg"
+ },
+ {
+  "no": "255",
+  "dream": "789",
+  "key": "mb",
+  "my": "မိုင်းဗုံး",
+  "en": "Rocket",
+  "th": "จรวด",
+  "image": "hminebone_255.jpg"
+ },
+ {
+  "no": "256",
+  "dream": "791",
+  "key": "khp",
+  "my": "ခါးပတ်",
+  "en": "Belt",
+  "th": "เข็มขัด",
+  "image": "kharpart_256.jpg"
+ },
+ {
+  "no": "257",
+  "dream": "758",
+  "key": "sarep",
+  "my": "စားပွဲ",
+  "en": "Table",
+  "th": "โต๊ะ",
+  "image": "sarpwe_257.jpg"
+ },
+ {
+  "no": "258",
+  "dream": "757",
+  "key": "ssmkyi",
+  "my": "စစ်မှူးကြီး",
+  "en": "Colonel",
+  "th": "ร้อยเอก",
+  "image": "sitmookyi_258.jpg"
+ },
+ {
+  "no": "259",
+  "dream": "787",
+  "key": "ouchel",
+  "my": "အုတ်ခဲ",
+  "en": "Brick",
+  "th": "อิฐ",
+  "image": "oakkhae_259.jpg"
+ },
+ {
+  "no": "260",
+  "dream": "782",
+  "key": "nny",
+  "my": "ငါး",
+  "en": "Fish",
+  "th": "ปลา",
+  "image": "ngarr_260.jpg"
+ },
+ {
+  "no": "261",
+  "dream": "777",
+  "key": "mayp",
+  "my": "မြေပုံ",
+  "en": "Map",
+  "th": "แผนที่",
+  "image": "myaypon_261.jpg"
+ },
+ {
+  "no": "262",
+  "dream": "769",
+  "key": "htee",
+  "my": "ထီး",
+  "en": "Umbrella",
+  "th": "ร่ม",
+  "image": "htee_262.jpg"
+ },
+ {
+  "no": "263",
+  "dream": "779",
+  "key": "taynat",
+  "my": "သေနတ်",
+  "en": "Rifle",
+  "th": "ปืนยาว",
+  "image": "taynut_263.jpg"
+ },
+ {
+  "no": "264",
+  "dream": "796",
+  "key": "kinmk",
+  "my": "ကင်းမြီးကောက်",
+  "en": "Scorpion",
+  "th": "แมงป่อง",
+  "image": "kinmeekauk_264.jpg"
+ },
+ {
+  "no": "265",
+  "dream": "754",
+  "key": "leat",
+  "my": "လွယ်အိတ်",
+  "en": "Bag",
+  "th": "ย่าม",
+  "image": "hwaleight_265.jpg"
+ },
+ {
+  "no": "266",
+  "dream": "774",
+  "key": "tank",
+  "my": "တံခါး",
+  "en": "Door",
+  "th": "ประตู",
+  "image": "tankhar_266.jpg"
+ },
+ {
+  "no": "267",
+  "dream": "788",
+  "key": "pantee",
+  "my": "ပန်းသီး",
+  "en": "Apple",
+  "th": "แอปเปิ้ล",
+  "image": "panthee_267.jpg"
+ },
+ {
+  "no": "268",
+  "dream": "778",
+  "key": "at",
+  "my": "အိမ်သာ",
+  "en": "Toilet",
+  "th": "ห้องน้ำ",
+  "image": "eainthar_268.jpg"
+ },
+ {
+  "no": "269",
+  "dream": "762",
+  "key": "nk",
+  "my": "နောက်ကျော",
+  "en": "Back",
+  "th": "แผ่นหลัง",
+  "image": "naukkyawe_269.jpg"
+ },
+ {
+  "no": "270",
+  "dream": "772",
+  "key": "lptu",
+  "my": "လှံပစ်သူ",
+  "en": "Spearthrower",
+  "th": "คนพุ่งหอก",
+  "image": "hlanpyitthu_270.jpg"
+ },
+ {
+  "no": "271",
+  "dream": "793",
+  "key": "monlp",
+  "my": "မုန့်လေပွေ",
+  "en": "Crispy rice",
+  "th": "ข้าวแคบ",
+  "image": "motelaypway_271.jpg"
+ },
+ {
+  "no": "272",
+  "dream": "770",
+  "key": "ks",
+  "my": "ကက်ဆက်",
+  "en": "Tape player",
+  "th": "เทป",
+  "image": "ketset_272.jpg"
+ },
+ {
+  "no": "273",
+  "dream": "784",
+  "key": "prs",
+  "my": "ပုရွက်ဆိတ်",
+  "en": "Ant",
+  "th": "มด",
+  "image": "paywetsate_273.jpg"
+ },
+ {
+  "no": "274",
+  "dream": "767",
+  "key": "kp",
+  "my": "ကျောက်ကပ်",
+  "en": "Kidney",
+  "th": "ไต",
+  "image": "kyaukkart_274.jpg"
+ },
+ {
+  "no": "275",
+  "dream": "785",
+  "key": "bb",
+  "my": "ဘောင်းဘီ",
+  "en": "Pants",
+  "th": "กางเกง",
+  "image": "boundbe_275.jpg"
+ },
+ {
+  "no": "276",
+  "dream": "790",
+  "key": "hhypin",
+  "my": "ဟင်းရွက်ပင်",
+  "en": "Vegetable",
+  "th": "ต้นผัก",
+  "image": "hinywetpin_276.jpg"
+ },
+ {
+  "no": "277",
+  "dream": "761",
+  "key": "alk",
+  "my": "အလံကိုင်",
+  "en": "Flag Holder",
+  "th": "ถือธง",
+  "image": "alankyaing_277.jpg"
+ },
+ {
+  "no": "278",
+  "dream": "768",
+  "key": "shupn",
+  "my": "ရှူးဘိနပ်",
+  "en": "Shoe",
+  "th": "รองเท้า",
+  "image": "shoephanut_278.jpg"
+ },
+ {
+  "no": "279",
+  "dream": "763",
+  "key": "blk",
+  "my": "ဘောလုံးကန်",
+  "en": "Kick the football",
+  "th": "เตะฟุตบอล",
+  "image": "bawlonekan_279.jpg"
+ },
+ {
+  "no": "280",
+  "dream": "799",
+  "key": "pane",
+  "my": "ပန်း",
+  "en": "Flowers",
+  "th": "ดอกไม้",
+  "image": "pann_280.jpg"
+ },
+ {
+  "no": "281",
+  "dream": "794",
+  "key": "oht",
+  "my": "ဦးထုပ်",
+  "en": "Hat",
+  "th": "หมวก",
+  "image": "oohtoke_281.jpg"
+ },
+ {
+  "no": "282",
+  "dream": "760",
+  "key": "dello",
+  "my": "ဒယ်အိုး",
+  "en": "Frying pan",
+  "th": "กะทะ",
+  "image": "dalowle_282.jpg"
+ },
+ {
+  "no": "283",
+  "dream": "786",
+  "key": "pomower",
+  "my": "ပိုးမွှား",
+  "en": "Insect",
+  "th": "แมลง",
+  "image": "poemwar_283.jpg"
+ },
+ {
+  "no": "284",
+  "dream": "773",
+  "key": "shaye",
+  "my": "ခြေအိတ်",
+  "en": "Socks",
+  "th": "ถุงเท้า",
+  "image": "chayeight_284.jpg"
+ },
+ {
+  "no": "285",
+  "dream": "775",
+  "key": "thayst",
+  "my": "သားစိမ်းသည်",
+  "en": "Butcher",
+  "th": "คนขายเนื้อ",
+  "image": "tharseinthel_285.jpg"
+ },
+ {
+  "no": "286",
+  "dream": "783",
+  "key": "sty",
+  "my": "စစ်သူရဲ",
+  "en": "Soldier",
+  "th": "ทหาร",
+  "image": "sithuye_286.jpg"
+ },
+ {
+  "no": "287",
+  "dream": "759",
+  "key": "dc",
+  "my": "ဓာတ်ခဲ",
+  "en": "Flashlight battery",
+  "th": "ถ่านไฟฉาย",
+  "image": "dartkhae_287.jpg"
+ },
+ {
+  "no": "288",
+  "dream": "766",
+  "key": "shtp",
+  "my": "စာထည့်ပုံး",
+  "en": "Mailbox",
+  "th": "ตู้รับจดหมาย",
+  "image": "sarhtaepone_288.jpg"
+ },
+ {
+  "no": "289",
+  "dream": "755",
+  "key": "asot",
+  "my": "အဆုတ်",
+  "en": "Lung",
+  "th": "ปอด",
+  "image": "asoke_289.jpg"
+ },
+ {
+  "no": "290",
+  "dream": "776",
+  "key": "sppl",
+  "my": "စာပို့ပုလင်",
+  "en": "Postman",
+  "th": "กล่องจดหมาย",
+  "image": "sarpoepulin_290.jpg"
+ },
+ {
+  "no": "291",
+  "dream": "756",
+  "key": "tikny",
+  "my": "တိုင်ကပ်နာရီ",
+  "en": "Wall clock",
+  "th": "นาฬิกาแขวน",
+  "image": "taingkartnarye_291.jpg"
+ },
+ {
+  "no": "292",
+  "dream": "797",
+  "key": "sp",
+  "my": "ဆပ်ပြာ",
+  "en": "Soap",
+  "th": "สบู่",
+  "image": "satpyar_292.jpg"
+ },
+ {
+  "no": "293",
+  "dream": "771",
+  "key": "tell",
+  "my": "တဲ",
+  "en": "Cottage",
+  "th": "กระต๊อบ",
+  "image": "tae_293.jpg"
+ },
+ {
+  "no": "294",
+  "dream": "781",
+  "key": "topat",
+  "my": "တွယ်အပ်",
+  "en": "Safety pin",
+  "th": "เข็มกลัด",
+  "image": "twalkart_294.jpg"
+ },
+ {
+  "no": "295",
+  "dream": "751",
+  "key": "chayu",
+  "my": "ခရု",
+  "en": "Snail",
+  "th": "หอยทาก",
+  "image": "khayu_295.jpg"
+ },
+ {
+  "no": "296",
+  "dream": "764",
+  "key": "gttee",
+  "my": "ဂစ်တာတီး",
+  "en": "Play guitar",
+  "th": "เล่นกีต้าร์",
+  "image": "guitartee_296.jpg"
+ },
+ {
+  "no": "297",
+  "dream": "792",
+  "key": "fll",
+  "my": "ဖလင်လိပ်",
+  "en": "Film",
+  "th": "ฟิล์ม",
+  "image": "filmlake_297.jpg"
+ },
+ {
+  "no": "298",
+  "dream": "800",
+  "key": "sdy",
+  "my": "ဆော်ဒါရည်",
+  "en": "Soda",
+  "th": "โซดา",
+  "image": "sawdaryay_298.jpg"
+ },
+ {
+  "no": "299",
+  "dream": "780",
+  "key": "mshd",
+  "my": "မောင်းချဓါး",
+  "en": "Pocket knife",
+  "th": "มีดพับ",
+  "image": "moundchadarr_299.jpg"
+ },
+ {
+  "no": "300",
+  "dream": "798",
+  "key": "lshun",
+  "my": "လေချွန်",
+  "en": "Whistle",
+  "th": "ผิวปาก",
+  "image": "laychon_300.jpg"
+ },
+ {
+  "no": "301",
+  "dream": "845",
+  "key": "chaynt",
+  "my": "ခြေနာသူ",
+  "en": "Sore leg",
+  "th": "ขาเจ็บ",
+  "image": "chaynarthu_301.jpg"
+ },
+ {
+  "no": "302",
+  "dream": "803",
+  "key": "topj",
+  "my": "သွပ်ကြိုး",
+  "en": "Wire",
+  "th": "สายลวด",
+  "image": "thoatkyoe_302.jpg"
+ },
+ {
+  "no": "303",
+  "dream": "802",
+  "key": "mangtee",
+  "my": "မန်ကျည်းသီး",
+  "en": "Tamarind",
+  "th": "มะขาม",
+  "image": "mankyitee_303.jpg"
+ },
+ {
+  "no": "304",
+  "dream": "815",
+  "key": "sdyayy",
+  "my": "စန္ဒယား",
+  "en": "Piano",
+  "th": "เปียโน",
+  "image": "sandaryar_304.jpg"
+ },
+ {
+  "no": "305",
+  "dream": "839",
+  "key": "asaykham",
+  "my": "အစေခံ",
+  "en": "Servant",
+  "th": "คนใช้",
+  "image": "asaykhan_305.jpg"
+ },
+ {
+  "no": "306",
+  "dream": "841",
+  "key": "tysmtm",
+  "my": "သရုပ်ဆောင်မင်းသ္မီး",
+  "en": "Actress",
+  "th": "นางเอก",
+  "image": "thayokesaungminthamee_306.jpg"
+ },
+ {
+  "no": "307",
+  "dream": "808",
+  "key": "sts",
+  "my": "ရွှေတံဆိပ်",
+  "en": "Gold Medal",
+  "th": "เหรียญทอง",
+  "image": "shwetansate_307.jpg"
+ },
+ {
+  "no": "308",
+  "dream": "807",
+  "key": "ggy",
+  "my": "ဂျုံကောက်ရိုး",
+  "en": "Wheat straw",
+  "th": "ฟางข้าวโพด",
+  "image": "kyonkokyoe_308.jpg"
+ },
+ {
+  "no": "309",
+  "dream": "837",
+  "key": "yatt",
+  "my": "ယပ်တောင်",
+  "en": "Fan",
+  "th": "พัด",
+  "image": "yarttaung_309.jpg"
+ },
+ {
+  "no": "310",
+  "dream": "832",
+  "key": "shwet",
+  "my": "ရွှေတုတ်",
+  "en": "Golden staff",
+  "th": "ไม้เท้าทองคำ",
+  "image": "shwetoke_310.jpg"
+ },
+ {
+  "no": "311",
+  "dream": "827",
+  "key": "tt",
+  "my": "တောင်ထိပ်",
+  "en": "Mountaintop",
+  "th": "ยอดดอย",
+  "image": "taunghtake_311.jpg"
+ },
+ {
+  "no": "312",
+  "dream": "819",
+  "key": "mtharthu",
+  "my": "မုန့်သားသူ",
+  "en": "Eat snacks",
+  "th": "ทานขนม",
+  "image": "mokesarthu_312.jpg"
+ },
+ {
+  "no": "313",
+  "dream": "829",
+  "key": "lyo",
+  "my": "လျှို",
+  "en": "Stream",
+  "th": "ลำห้วย",
+  "image": "shyao_313.jpg"
+ },
+ {
+  "no": "314",
+  "dream": "846",
+  "key": "taing",
+  "my": "တိုင်",
+  "en": "Pole",
+  "th": "เสา",
+  "image": "taing_314.jpg"
+ },
+ {
+  "no": "315",
+  "dream": "804",
+  "key": "em",
+  "my": "အိမ်မြှောင်",
+  "en": "Gecko",
+  "th": "จิ้งจก",
+  "image": "eainhmyaung_315.jpg"
+ },
+ {
+  "no": "316",
+  "dream": "834",
+  "key": "mepho",
+  "my": "မီးဖို",
+  "en": "Stove",
+  "th": "เตาไฟ",
+  "image": "meepho_316.jpg"
+ },
+ {
+  "no": "317",
+  "dream": "838",
+  "key": "lndm",
+  "my": "လက်နှိပ်ဓာတ်မီး",
+  "en": "Flashlight",
+  "th": "ไฟฉาย",
+  "image": "letnakedutmee_317.jpg"
+ },
+ {
+  "no": "318",
+  "dream": "828",
+  "key": "laykhtayt",
+  "my": "လှေကားထစ်",
+  "en": "Stairs",
+  "th": "ขั้นบันได",
+  "image": "hlaykarhtit_318.jpg"
+ },
+ {
+  "no": "319",
+  "dream": "812",
+  "key": "aysing",
+  "my": "အရက်ဆိုင်",
+  "en": "Bar",
+  "th": "ร้านเหล้า",
+  "image": "ayetsaing_319.jpg"
+ },
+ {
+  "no": "320",
+  "dream": "822",
+  "key": "dkthu",
+  "my": "ဓားကိုင်သူ",
+  "en": "Sword Holder",
+  "th": "คนถืดาบ",
+  "image": "darrkaingthu_320.jpg"
+ },
+ {
+  "no": "321",
+  "dream": "843",
+  "key": "rkter",
+  "my": "ရေကာတာ",
+  "en": "Dam",
+  "th": "เขื่อน",
+  "image": "yaykarthar_321.jpg"
+ },
+ {
+  "no": "322",
+  "dream": "820",
+  "key": "aphoo",
+  "my": "အဖိုးအို",
+  "en": "Old man",
+  "th": "คนแก่",
+  "image": "aphoeo_322.jpg"
+ },
+ {
+  "no": "323",
+  "dream": "823",
+  "key": "rtkhun",
+  "my": "ရေတံခွန်",
+  "en": "Waterfall",
+  "th": "น้ำตก",
+  "image": "yaytankhon_323.jpg"
+ },
+ {
+  "no": "324",
+  "dream": "816",
+  "key": "rchok",
+  "my": "ရေချိုးခန်း",
+  "en": "Shower",
+  "th": "ห้องอาบน้ำ",
+  "image": "yaychoekhan_324.jpg"
+ },
+ {
+  "no": "325",
+  "dream": "835",
+  "key": "pyatip",
+  "my": "ပြတင်းပေါက်",
+  "en": "Window",
+  "th": "หน้าต่าง",
+  "image": "pyadinpauk_325.jpg"
+ },
+ {
+  "no": "326",
+  "dream": "840",
+  "key": "steee",
+  "my": "ရှောက်ချိုသီး",
+  "en": "Smooth orange",
+  "th": "ส้มเกลี้ยง",
+  "image": "shaukchotee_326.jpg"
+ },
+ {
+  "no": "327",
+  "dream": "811",
+  "key": "eyek",
+  "my": "ဧည့်ခန်း",
+  "en": "Living Room",
+  "th": "ห้องรับแขก",
+  "image": "eaekhan_327.jpg"
+ },
+ {
+  "no": "328",
+  "dream": "818",
+  "key": "achl",
+  "my": "အပ်ချည်လုံး",
+  "en": "Silk tube",
+  "th": "หลอดไหม",
+  "image": "artcheylone_328.jpg"
+ },
+ {
+  "no": "329",
+  "dream": "813",
+  "key": "ajs",
+  "my": "အကြွေစေ့",
+  "en": "Chain of money",
+  "th": "เศษเงิน",
+  "image": "agywaysae_329.jpg"
+ },
+ {
+  "no": "330",
+  "dream": "849",
+  "key": "sanex",
+  "my": "ဆန်အိတ်",
+  "en": "Rice sack",
+  "th": "กระสอบข้าวสาร",
+  "image": "saneight_330.jpg"
+ },
+ {
+  "no": "331",
+  "dream": "844",
+  "key": "pyt",
+  "my": "ပန်းရောင်းသူ",
+  "en": "Flower seller",
+  "th": "คนขายดอกไม้",
+  "image": "panyaungthu_331.jpg"
+ },
+ {
+  "no": "332",
+  "dream": "810",
+  "key": "pyarong",
+  "my": "ပျားအုံ",
+  "en": "Beehive",
+  "th": "รังผึ้ง",
+  "image": "pyarong_332.jpg"
+ },
+ {
+  "no": "333",
+  "dream": "825",
+  "key": "ydk",
+  "my": "ရဲဒင်းကိုင်",
+  "en": "Holding an axe",
+  "th": "ถือขวาน",
+  "image": "yedinkaing_333.jpg"
+ },
+ {
+  "no": "334",
+  "dream": "836",
+  "key": "ball",
+  "my": "ဘော",
+  "en": "Ball",
+  "th": "ลูกลื่น",
+  "image": "baw_334.jpg"
+ },
+ {
+  "no": "335",
+  "dream": "824",
+  "key": "carplus",
+  "my": "ကားပလပ်",
+  "en": "Spark plug",
+  "th": "หัวเทียน",
+  "image": "carplus_335.jpg"
+ },
+ {
+  "no": "336",
+  "dream": "833",
+  "key": "ktcar",
+  "my": "ကုန်တင်ကား",
+  "en": "Truck",
+  "th": "รถบรรทุก",
+  "image": "kontincar_336.jpg"
+ },
+ {
+  "no": "337",
+  "dream": "809",
+  "key": "mkyi",
+  "my": "မှန်ကြည့်",
+  "en": "Look in the mirror",
+  "th": "ส่องกระจก",
+  "image": "hmankyi_337.jpg"
+ },
+ {
+  "no": "338",
+  "dream": "817",
+  "key": "ykthu",
+  "my": "ယပ်ကိုင်သူ",
+  "en": "Fan Holder",
+  "th": "คนถือพัด",
+  "image": "yutkaingthu_338.jpg"
+ },
+ {
+  "no": "339",
+  "dream": "805",
+  "key": "ppk",
+  "my": "ပဲပန်းကန်",
+  "en": "Bean dish",
+  "th": "จัานถัว",
+  "image": "paepankan_339.jpg"
+ },
+ {
+  "no": "340",
+  "dream": "826",
+  "key": "tchinsa",
+  "my": "သီချင်းစာအုပ်",
+  "en": "Songbook",
+  "th": "สมุดเพลง",
+  "image": "thechinsaroak_340.jpg"
+ },
+ {
+  "no": "341",
+  "dream": "806",
+  "key": "astaw",
+  "my": "အဆိုတော်",
+  "en": "Singer",
+  "th": "นักร้อง",
+  "image": "asodaw_341.jpg"
+ },
+ {
+  "no": "342",
+  "dream": "847",
+  "key": "dwaivesar",
+  "my": "ဓါးဝိဇ္ဇာ",
+  "en": "Ethereal Knives",
+  "th": "มีดเวทมนตร์",
+  "image": "darrwizar_342.jpg"
+ },
+ {
+  "no": "343",
+  "dream": "821",
+  "key": "yarnthu",
+  "my": "ရေနှစ်သူ",
+  "en": "Drowning man",
+  "th": "คนจมน้ำ",
+  "image": "yayhnitthu_343.jpg"
+ },
+ {
+  "no": "344",
+  "dream": "831",
+  "key": "ytk",
+  "my": "ရေတကောင်း",
+  "en": "Clogged water",
+  "th": "น้ำตัน",
+  "image": "yaytakaung_344.jpg"
+ },
+ {
+  "no": "345",
+  "dream": "801",
+  "key": "yeet",
+  "my": "ရဲသား",
+  "en": "Policeman",
+  "th": "ตำรวจ",
+  "image": "yethar_345.jpg"
+ },
+ {
+  "no": "346",
+  "dream": "814",
+  "key": "mlm",
+  "my": "မလိုင်မုန့်",
+  "en": "Milk snacks",
+  "th": "ขนมนม",
+  "image": "mahlaingmote_346.jpg"
+ },
+ {
+  "no": "347",
+  "dream": "842",
+  "key": "acs",
+  "my": "အပ်ချုပ်စက်",
+  "en": "Sewing machine",
+  "th": "จักรเย็บผ้า",
+  "image": "artchokethu_347.jpg"
+ },
+ {
+  "no": "348",
+  "dream": "850",
+  "key": "ym",
+  "my": "ရေမွှေး",
+  "en": "Perfume",
+  "th": "น้ำหอม",
+  "image": "yaymway_348.jpg"
+ },
+ {
+  "no": "349",
+  "dream": "830",
+  "key": "py",
+  "my": "ဘုရား",
+  "en": "Buddha",
+  "th": "พระพุทเจ้า",
+  "image": "phayar_349.jpg"
+ },
+ {
+  "no": "350",
+  "dream": "848",
+  "key": "sst",
+  "my": "စာဆိုတော်",
+  "en": "Sage",
+  "th": "นักปราชญ์",
+  "image": "sarsodaw_350.jpg"
+ },
+ {
+  "no": "351",
+  "dream": "895",
+  "key": "spnm",
+  "my": "ဆုပေးနတ်မင်း",
+  "en": "God of blessings",
+  "th": "เทพแห่งพร",
+  "image": "supaynatmin_351.jpg"
+ },
+ {
+  "no": "352",
+  "dream": "853",
+  "key": "seekr",
+  "my": "စီးကရက်",
+  "en": "Cigarette",
+  "th": "บุหรี่",
+  "image": "seekaret_352.jpg"
+ },
+ {
+  "no": "353",
+  "dream": "852",
+  "key": "nng",
+  "my": "နတ်နဂါး",
+  "en": "Dragon Spirit",
+  "th": "วิญญาณมังกร",
+  "image": "natnakar_353.jpg"
+ },
+ {
+  "no": "354",
+  "dream": "865",
+  "key": "tettan",
+  "my": "သက်တန့်",
+  "en": "Rainbow",
+  "th": "รุ้ง",
+  "image": "thetthant_354.jpg"
+ },
+ {
+  "no": "355",
+  "dream": "889",
+  "key": "smthu",
+  "my": "စောင့်မျှော်သူ",
+  "en": "Waiter",
+  "th": "ผู้รอคอย",
+  "image": "sauntmyawthu_355.jpg"
+ },
+ {
+  "no": "356",
+  "dream": "891",
+  "key": "jltee",
+  "my": "ကြောင်လျှာသီး",
+  "en": "Sky Tongue",
+  "th": "ลิ้นฟ้า",
+  "image": "kyaungshyarthee_356.jpg"
+ },
+ {
+  "no": "357",
+  "dream": "858",
+  "key": "butee",
+  "my": "ဗူးသီး",
+  "en": "Gourd",
+  "th": "น้ำเต้า",
+  "image": "buuthee_357.jpg"
+ },
+ {
+  "no": "358",
+  "dream": "857",
+  "key": "natgun",
+  "my": "နတ်ကွန်း",
+  "en": "Shrine",
+  "th": "กลุ่มเทพ",
+  "image": "natkone_358.jpg"
+ },
+ {
+  "no": "359",
+  "dream": "887",
+  "key": "pslyar",
+  "my": "ပဲစောင်းလျား",
+  "en": "Long Bean",
+  "th": "ถั่วฝักยาว",
+  "image": "paesuanglyar_359.jpg"
+ },
+ {
+  "no": "360",
+  "dream": "882",
+  "key": "nyht",
+  "my": "ငရဲထိန်း",
+  "en": "Grim Reaper",
+  "th": "ยมทูต",
+  "image": "ngayehtein_360.jpg"
+ },
+ {
+  "no": "361",
+  "dream": "877",
+  "key": "meterp",
+  "my": "မီတာပုံး",
+  "en": "Switchbox",
+  "th": "ตู้สวิทไฟ",
+  "image": "meterpone_361.jpg"
+ },
+ {
+  "no": "362",
+  "dream": "869",
+  "key": "meltaw",
+  "my": "မယ်တော်ရီ",
+  "en": "Mother Mary",
+  "th": "เจ้าแม่มารี",
+  "image": "meldawmarry_362.jpg"
+ },
+ {
+  "no": "363",
+  "dream": "879",
+  "key": "seekret",
+  "my": "စီးကရက်ဗူး",
+  "en": "Cigarette Packet",
+  "th": "ซองบุหรี่",
+  "image": "cigarettbu_363.jpg"
+ },
+ {
+  "no": "364",
+  "dream": "896",
+  "key": "llthu",
+  "my": "လဲလျောင်းသူ",
+  "en": "Sleeping on Back",
+  "th": "คนนอนหงาย",
+  "image": "hlehlyaungthu_364.jpg"
+ },
+ {
+  "no": "365",
+  "dream": "854",
+  "key": "pan",
+  "my": "ပန်း",
+  "en": "Flower",
+  "th": "ดอกไม้",
+  "image": "pan_365.jpg"
+ },
+ {
+  "no": "366",
+  "dream": "874",
+  "key": "nkan",
+  "my": "ငါးကန်",
+  "en": "Fish Pond",
+  "th": "บ่อน้ำ",
+  "image": "ngarkan_366.jpg"
+ },
+ {
+  "no": "367",
+  "dream": "888",
+  "key": "eing",
+  "my": "အင်္ကျီ",
+  "en": "Shirt",
+  "th": "เสื้อ",
+  "image": "eaingy_367.jpg"
+ },
+ {
+  "no": "368",
+  "dream": "878",
+  "key": "ksunau",
+  "my": "ကန်စွန်းဥ",
+  "en": "Sweet Potato",
+  "th": "มันเทศ",
+  "image": "kansounu_368.jpg"
+ },
+ {
+  "no": "369",
+  "dream": "862",
+  "key": "skel",
+  "my": "ဆိုင်ကယ်",
+  "en": "Motorcycle",
+  "th": "มอเตอร์ไซค์",
+  "image": "saingkal_369.jpg"
+ },
+ {
+  "no": "370",
+  "dream": "872",
+  "key": "ty",
+  "my": "တယော",
+  "en": "Lyre",
+  "th": "พิณ",
+  "image": "tayow_370.jpg"
+ },
+ {
+  "no": "371",
+  "dream": "893",
+  "key": "mshkyi",
+  "my": "မြေရှင်ကြီး",
+  "en": "Landowner",
+  "th": "เจ้าของที่ดิน",
+  "image": "myayshinkyi_371.jpg"
+ },
+ {
+  "no": "372",
+  "dream": "870",
+  "key": "plel",
+  "my": "ပင်လယ်",
+  "en": "Sea",
+  "th": "ทะเล",
+  "image": "pinlel_372.jpg"
+ },
+ {
+  "no": "373",
+  "dream": "884",
+  "key": "jmtmsee",
+  "my": "ကြက်မွေးတံမြက်စည်း",
+  "en": "Feather Duster",
+  "th": "ไม้ปัดขนไก่",
+  "image": "jetmwaytanmyetsee_373.jpg"
+ },
+ {
+  "no": "374",
+  "dream": "866",
+  "key": "psa",
+  "my": "ပိုက်ဆံအိတ်",
+  "en": "Wallet",
+  "th": "กระเป๋าเงิน",
+  "image": "pikesaneight_374.jpg"
+ },
+ {
+  "no": "375",
+  "dream": "885",
+  "key": "dlthu",
+  "my": "ဓါးလွယ်သူ",
+  "en": "Sword Holder",
+  "th": "ผู้ถือดาบ",
+  "image": "darlwalthu_375.jpg"
+ },
+ {
+  "no": "376",
+  "dream": "890",
+  "key": "spm",
+  "my": "ဆပ်ပြာမှုန့်",
+  "en": "Detergent",
+  "th": "ผงซักฟอก",
+  "image": "sappyarmote_376.jpg"
+ },
+ {
+  "no": "377",
+  "dream": "861",
+  "key": "nsweet",
+  "my": "နွားဆွဲသူ",
+  "en": "Cow Leader",
+  "th": "คนจูงวัว",
+  "image": "nwarswelthu_377.jpg"
+ },
+ {
+  "no": "378",
+  "dream": "868",
+  "key": "lphpin",
+  "my": "လ္ဘက်ပင်",
+  "en": "Tea Tree",
+  "th": "ต้นชา",
+  "image": "letphetpin_378.jpg"
+ },
+ {
+  "no": "379",
+  "dream": "863",
+  "key": "nattway",
+  "my": "နတ်တောင်ဝှေး",
+  "en": "Ghost Staff",
+  "th": "ไม้เท้าผี",
+  "image": "nattaungwaie_379.jpg"
+ },
+ {
+  "no": "380",
+  "dream": "899",
+  "key": "wb",
+  "my": "ဝမ်းဗိုက်",
+  "en": "Belly",
+  "th": "พุง",
+  "image": "wanbite_380.jpg"
+ },
+ {
+  "no": "381",
+  "dream": "894",
+  "key": "ntj",
+  "my": "ငန်းတော်ကျား",
+  "en": "Banded krait",
+  "th": "งูสามเหลี่ยมแถบ",
+  "image": "ngandawjyar_381.jpg"
+ },
+ {
+  "no": "382",
+  "dream": "860",
+  "key": "ghost",
+  "my": "သရဲ",
+  "en": "Ghost",
+  "th": "ผี",
+  "image": "thaye_382.jpg"
+ },
+ {
+  "no": "383",
+  "dream": "886",
+  "key": "panep",
+  "my": "ပန်းပွင့်",
+  "en": "Blooming Flower",
+  "th": "ดอกไม้บาน",
+  "image": "panpwint_383.jpg"
+ },
+ {
+  "no": "384",
+  "dream": "873",
+  "key": "teek",
+  "my": "တီကောင်",
+  "en": "Earthworm",
+  "th": "ไส้เดือน",
+  "image": "tekaung_384.jpg"
+ },
+ {
+  "no": "385",
+  "dream": "875",
+  "key": "yept",
+  "my": "ယပ်တောင်",
+  "en": "Fan",
+  "th": "พัด",
+  "image": "yuttaung_385.jpg"
+ },
+ {
+  "no": "386",
+  "dream": "883",
+  "key": "shtpone",
+  "my": "စာထည့်ပုံး",
+  "en": "Mailbox",
+  "th": "ตู้รับจดหมาย",
+  "image": "sarhtaepone_386.jpg"
+ },
+ {
+  "no": "387",
+  "dream": "859",
+  "key": "mikhinnt",
+  "my": "မိခင်နို့တိုက်",
+  "en": "Breastfeeding",
+  "th": "ให้นมลูก",
+  "image": "mikhinnoetike_387.jpg"
+ },
+ {
+  "no": "388",
+  "dream": "867",
+  "key": "pchon",
+  "my": "ပုခုံး",
+  "en": "Shoulder",
+  "th": "บ่า",
+  "image": "pukhone_388.jpg"
+ },
+ {
+  "no": "389",
+  "dream": "855",
+  "key": "htaminsar",
+  "my": "ထမင်းစား",
+  "en": "Eating",
+  "th": "ทานข้าว",
+  "image": "htaminsar_389.jpg"
+ },
+ {
+  "no": "390",
+  "dream": "876",
+  "key": "lanshawt",
+  "my": "လမ်းလျှောက်",
+  "en": "Walking",
+  "th": "เดิน",
+  "image": "lanshout_390.jpg"
+ },
+ {
+  "no": "391",
+  "dream": "856",
+  "key": "kt",
+  "my": "သံချွန်ကုတင်",
+  "en": "Bed with nails",
+  "th": "เตียงตะปู",
+  "image": "thanchonkhutin_391.jpg"
+ },
+ {
+  "no": "392",
+  "dream": "897",
+  "key": "paot",
+  "my": "ပိတ်အုပ်",
+  "en": "Cloth",
+  "th": "ผ้า",
+  "image": "pigoak_392.jpg"
+ },
+ {
+  "no": "393",
+  "dream": "871",
+  "key": "pyshicho",
+  "my": "ဘုရားရှိခိုး",
+  "en": "Worship",
+  "th": "ไหว้พระ",
+  "image": "phayarshikhoe_393.jpg"
+ },
+ {
+  "no": "394",
+  "dream": "881",
+  "key": "tyhaw",
+  "my": "တရားဟော",
+  "en": "Sermon",
+  "th": "เทศนา",
+  "image": "tayarhawsayar_394.jpg"
+ },
+ {
+  "no": "395",
+  "dream": "851",
+  "key": "psshawt",
+  "my": "ပုဇွန်ခြောက်",
+  "en": "Dried Shrimp",
+  "th": "กุ้งแห้ง",
+  "image": "puzonchauk_395.jpg"
+ },
+ {
+  "no": "396",
+  "dream": "864",
+  "key": "phayontee",
+  "my": "ဖရုံသီး",
+  "en": "Pumpkin",
+  "th": "ฟักทอง",
+  "image": "phayontee_396.jpg"
+ },
+ {
+  "no": "397",
+  "dream": "892",
+  "key": "carm",
+  "my": "ကားမောင်း",
+  "en": "Driving Car",
+  "th": "ขับรถ",
+  "image": "carmoung_397.jpg"
+ },
+ {
+  "no": "398",
+  "dream": "900",
+  "key": "tchar",
+  "my": "သခွါးသီး",
+  "en": "Cucumber",
+  "th": "แตงกวา",
+  "image": "thakhwartee_398.jpg"
+ },
+ {
+  "no": "399",
+  "dream": "880",
+  "key": "sontwee",
+  "my": "စုံတွဲအက",
+  "en": "Dancing couple",
+  "th": "ฟ้อนคู่",
+  "image": "sonetwelaka_399.jpg"
+ },
+ {
+  "no": "400",
+  "dream": "898",
+  "key": "tyainn",
+  "my": "တရုတ်အင်း",
+  "en": "Chinese Yatra",
+  "th": "ยาตร์จีน",
+  "image": "tayokeein_400.jpg"
+ },
+ {
+  "no": "401",
+  "dream": "945",
+  "key": "tsyarr",
+  "my": "သိုင်းဆရာ",
+  "en": "Boxing teacher",
+  "th": "ครูมวย",
+  "image": "thaingsayar_401.jpg"
+ },
+ {
+  "no": "402",
+  "dream": "903",
+  "key": "gks",
+  "my": "ဂျုံခေါက်ဆွဲ",
+  "en": "Noodles",
+  "th": "บะหมี่",
+  "image": "jhonkaukswel_402.jpg"
+ },
+ {
+  "no": "403",
+  "dream": "902",
+  "key": "sare",
+  "my": "စာအိတ်",
+  "en": "Envelope",
+  "th": "ซองจดหมาย",
+  "image": "sareight_403.jpg"
+ },
+ {
+  "no": "404",
+  "dream": "915",
+  "key": "klarht",
+  "my": "ကုလားထိုင်",
+  "en": "Chair",
+  "th": "เก้าอี้",
+  "image": "kularrhtaing_404.jpg"
+ },
+ {
+  "no": "405",
+  "dream": "939",
+  "key": "laylaw",
+  "my": "လှေလှော်",
+  "en": "Sailing",
+  "th": "ฟายเรือ",
+  "image": "hlaylaw_405.jpg"
+ },
+ {
+  "no": "406",
+  "dream": "941",
+  "key": "amuayt",
+  "my": "အမွှေးတိုင်",
+  "en": "Incense",
+  "th": "ธูป",
+  "image": "ahmwetaing_406.jpg"
+ },
+ {
+  "no": "407",
+  "dream": "908",
+  "key": "luutayk",
+  "my": "လူသေကောင်",
+  "en": "Corpse",
+  "th": "คนตาย",
+  "image": "lutaykaung_407.jpg"
+ },
+ {
+  "no": "408",
+  "dream": "907",
+  "key": "dchatel",
+  "my": "ဒုက္ခသည်",
+  "en": "Refugee",
+  "th": "ผู้ลี้ภัย",
+  "image": "doakkatel_408.jpg"
+ },
+ {
+  "no": "409",
+  "dream": "937",
+  "key": "zeetee",
+  "my": "ဇီးသီး",
+  "en": "Plum",
+  "th": "ลูกพลัม",
+  "image": "zeetee_409.jpg"
+ },
+ {
+  "no": "410",
+  "dream": "932",
+  "key": "plmot",
+  "my": "ပုလွေမှုတ်",
+  "en": "Playing flute",
+  "th": "เป่าปี่",
+  "image": "pulwayhmoke_410.jpg"
+ },
+ {
+  "no": "411",
+  "dream": "927",
+  "key": "kontell",
+  "my": "ကုန်သည်",
+  "en": "Merchant",
+  "th": "พ่อค้า",
+  "image": "gontel_411.jpg"
+ },
+ {
+  "no": "412",
+  "dream": "919",
+  "key": "engyi",
+  "my": "အင်္ကျီ",
+  "en": "Shirt",
+  "th": "เสื้อ",
+  "image": "eaingy_412.jpg"
+ },
+ {
+  "no": "413",
+  "dream": "929",
+  "key": "nchai",
+  "my": "နွားခြံ",
+  "en": "Cow pen",
+  "th": "คอกวัว",
+  "image": "nwarchan_413.jpg"
+ },
+ {
+  "no": "414",
+  "dream": "946",
+  "key": "luuo",
+  "my": "လူအို",
+  "en": "Old Person",
+  "th": "คนแก่",
+  "image": "luo_414.jpg"
+ },
+ {
+  "no": "415",
+  "dream": "904",
+  "key": "sanaoe",
+  "my": "ဆန်အိုး",
+  "en": "Rice Pot",
+  "th": "หม้อข้าว",
+  "image": "sanowle_415.jpg"
+ },
+ {
+  "no": "416",
+  "dream": "924",
+  "key": "nppin",
+  "my": "ငှက်ပျောပင်",
+  "en": "Orchid",
+  "th": "กล้วยไม้",
+  "image": "ngetpyawpin_416.jpg"
+ },
+ {
+  "no": "417",
+  "dream": "938",
+  "key": "meepon",
+  "my": "မီးပုံ",
+  "en": "Flame",
+  "th": "เปลวไฟ",
+  "image": "meepone_417.jpg"
+ },
+ {
+  "no": "418",
+  "dream": "928",
+  "key": "amthtot",
+  "my": "အမွှေးတိုင်ထုပ်",
+  "en": "Wrapped incense sticks",
+  "th": "ห่อธูป",
+  "image": "amwaydainghtoke_418.jpg"
+ },
+ {
+  "no": "419",
+  "dream": "912",
+  "key": "saytam",
+  "my": "ဆေးတံ",
+  "en": "Pipe",
+  "th": "ไปป์",
+  "image": "saytan_419.jpg"
+ },
+ {
+  "no": "420",
+  "dream": "922",
+  "key": "atskmoe",
+  "my": "အက်စကီးမိုး",
+  "en": "Eskimo",
+  "th": "ชาวเอสกิโม",
+  "image": "askiemoe_420.jpg"
+ },
+ {
+  "no": "421",
+  "dream": "943",
+  "key": "plpnm",
+  "my": "ပလောပီနံမှုန့်",
+  "en": "Flour",
+  "th": "แป้งมัน",
+  "image": "pylawpynan_421.jpg"
+ },
+ {
+  "no": "422",
+  "dream": "920",
+  "key": "msinpon",
+  "my": "မစင်ပုံ",
+  "en": "Pile of shit",
+  "th": "กองขี้",
+  "image": "masinpong_422.jpg"
+ },
+ {
+  "no": "423",
+  "dream": "934",
+  "key": "matekap",
+  "my": "မိတ်ကပ်",
+  "en": "Compact powder",
+  "th": "ตลับแป้ง",
+  "image": "makeup_423.jpg"
+ },
+ {
+  "no": "424",
+  "dream": "916",
+  "key": "sk",
+  "my": "စကော",
+  "en": "Round Bamboo Tray",
+  "th": "กระดัง",
+  "image": "sakaw_424.jpg"
+ },
+ {
+  "no": "425",
+  "dream": "935",
+  "key": "oythu",
+  "my": "အိုးရောင်းသူ",
+  "en": "Pot Seller",
+  "th": "ผู้ขายหม้อ",
+  "image": "owleyaungthu_425.jpg"
+ },
+ {
+  "no": "426",
+  "dream": "940",
+  "key": "aat",
+  "my": "အပ်",
+  "en": "Needle",
+  "th": "เข็ม",
+  "image": "arp_426.jpg"
+ },
+ {
+  "no": "427",
+  "dream": "911",
+  "key": "chaychintee",
+  "my": "ခရမ်းချဥ်သီး",
+  "en": "Tomato",
+  "th": "มะเขือเทศ",
+  "image": "khayantee_427.jpg"
+ },
+ {
+  "no": "428",
+  "dream": "918",
+  "key": "pharp",
+  "my": "ဖါးပြုတ်",
+  "en": "Frog",
+  "th": "กบ",
+  "image": "pharpyoke_428.jpg"
+ },
+ {
+  "no": "429",
+  "dream": "913",
+  "key": "mgyi",
+  "my": "မြေကြီး",
+  "en": "Land",
+  "th": "แผ่นดิน",
+  "image": "myaykyi_429.jpg"
+ },
+ {
+  "no": "430",
+  "dream": "949",
+  "key": "ymt",
+  "my": "ရယ်မောသူ",
+  "en": "Laugher",
+  "th": "คนที่หัวเราะ",
+  "image": "yemawthu_430.jpg"
+ },
+ {
+  "no": "431",
+  "dream": "944",
+  "key": "aypl",
+  "my": "အရက်ပုလင်း",
+  "en": "Liquor Bottle",
+  "th": "ขวดเหล้า",
+  "image": "ayetpulin_431.jpg"
+ },
+ {
+  "no": "432",
+  "dream": "910",
+  "key": "jetc",
+  "my": "ကြက်ခြံ",
+  "en": "Chicken coop",
+  "th": "เล้าไก่",
+  "image": "jetchan_432.jpg"
+ },
+ {
+  "no": "433",
+  "dream": "936",
+  "key": "toht",
+  "my": "တိုဟူးတုံး",
+  "en": "Tofu Block",
+  "th": "ก้อนเต้อหู้",
+  "image": "tohutone_433.jpg"
+ },
+ {
+  "no": "434",
+  "dream": "923",
+  "key": "pinrt",
+  "my": "ပျင်းရိသူ",
+  "en": "Lazy person",
+  "th": "คนที่เหนื่อย",
+  "image": "pyinyeithu_434.jpg"
+ },
+ {
+  "no": "435",
+  "dream": "925",
+  "key": "ptong",
+  "my": "ပြည်တောင်း",
+  "en": "Rice bin",
+  "th": "ถังข้าว",
+  "image": "pyitaung_435.jpg"
+ },
+ {
+  "no": "436",
+  "dream": "933",
+  "key": "sthee",
+  "my": "ရှောက်သီး",
+  "en": "Lemon",
+  "th": "เลมอน",
+  "image": "shouttee_436.jpg"
+ },
+ {
+  "no": "437",
+  "dream": "909",
+  "key": "msk",
+  "my": "မုတ်ဆိတ်ကိုင်",
+  "en": "Grab a mustache",
+  "th": "จับหนวด",
+  "image": "motesatekaing_437.jpg"
+ },
+ {
+  "no": "438",
+  "dream": "917",
+  "key": "yinnt",
+  "my": "ရေအင်တုံ",
+  "en": "Water basin",
+  "th": "อ่างน้ำ",
+  "image": "yayintong_438.jpg"
+ },
+ {
+  "no": "439",
+  "dream": "905",
+  "key": "nchi",
+  "my": "ငန်းခြံ",
+  "en": "Goose coop",
+  "th": "เล้าห่าน",
+  "image": "nganchan_439.jpg"
+ },
+ {
+  "no": "440",
+  "dream": "926",
+  "key": "dking",
+  "my": "ဓါးကိုင်သူ",
+  "en": "Sword Holder",
+  "th": "ผู้ถือดาบ",
+  "image": "darkaingthu_440.jpg"
+ },
+ {
+  "no": "441",
+  "dream": "906",
+  "key": "htkham",
+  "my": "ထွေးခံ",
+  "en": "Chamber pot",
+  "th": "กระโถน",
+  "image": "htwekhan_441.jpg"
+ },
+ {
+  "no": "442",
+  "dream": "947",
+  "key": "pysc",
+  "my": "ဘုရားရှိခိုး",
+  "en": "Worship",
+  "th": "ไหว้พระ",
+  "image": "phayarshikhoe_442.jpg"
+ },
+ {
+  "no": "443",
+  "dream": "921",
+  "key": "hypk",
+  "my": "ဟင်းရည်ပန်းကန်",
+  "en": "Soup Bowl",
+  "th": "ถ้วยน้ำแกง",
+  "image": "hinyaypukan_443.jpg"
+ },
+ {
+  "no": "444",
+  "dream": "931",
+  "key": "njyarpan",
+  "my": "နေကြာပန်း",
+  "en": "Sunflower",
+  "th": "ดอกทานตะวัน",
+  "image": "naykyarpan_444.jpg"
+ },
+ {
+  "no": "445",
+  "dream": "901",
+  "key": "jtunphyu",
+  "my": "ကြက်သွန်ဖြူ",
+  "en": "Garlic",
+  "th": "กระเทียม",
+  "image": "jetthonphyu_445.jpg"
+ },
+ {
+  "no": "446",
+  "dream": "914",
+  "key": "lswea",
+  "my": "လက်ဆွဲအိတ်",
+  "en": "Sling bag",
+  "th": "ถุงหูหิ้ว",
+  "image": "letsweleight_446.jpg"
+ },
+ {
+  "no": "447",
+  "dream": "942",
+  "key": "chalayn",
+  "my": "ခလေးငယ်",
+  "en": "Child",
+  "th": "เด็ก",
+  "image": "khalaynge_447.jpg"
+ },
+ {
+  "no": "448",
+  "dream": "950",
+  "key": "kutin",
+  "my": "ကုတင်",
+  "en": "Bed",
+  "th": "เตียง",
+  "image": "kutin_448.jpg"
+ },
+ {
+  "no": "449",
+  "dream": "930",
+  "key": "jwe",
+  "my": "ကျွဲ",
+  "en": "Buffalo",
+  "th": "ควาย",
+  "image": "kywel_449.jpg"
+ },
+ {
+  "no": "450",
+  "dream": "948",
+  "key": "jyo",
+  "my": "ကြိုး",
+  "en": "Rope",
+  "th": "เชือก",
+  "image": "jyoe_450.jpg"
+ },
+ {
+  "no": "451",
+  "dream": "995",
+  "key": "tharku",
+  "my": "သာကူစေ့",
+  "en": "Sago",
+  "th": "สาคู",
+  "image": "tharkusae_451.jpg"
+ },
+ {
+  "no": "452",
+  "dream": "953",
+  "key": "mn",
+  "my": "မုံညှင်း",
+  "en": "Cabbage",
+  "th": "ผักกาด",
+  "image": "monnyin_452.jpg"
+ },
+ {
+  "no": "453",
+  "dream": "952",
+  "key": "aypll",
+  "my": "အရက်ပုလင်း",
+  "en": "Liquor Bottle",
+  "th": "ขวดเหล้า",
+  "image": "ayetpulin_453.jpg"
+ },
+ {
+  "no": "454",
+  "dream": "965",
+  "key": "mmuntee",
+  "my": "မက်မွန်သီး",
+  "en": "Peach",
+  "th": "ลูกท้อ",
+  "image": "metmontee_454.jpg"
+ },
+ {
+  "no": "455",
+  "dream": "989",
+  "key": "pchesy",
+  "my": "ပန်းချီဆရာ",
+  "en": "Painter",
+  "th": "จิตรกร",
+  "image": "panchysayar_455.jpg"
+ },
+ {
+  "no": "456",
+  "dream": "991",
+  "key": "sptee",
+  "my": "စပျစ်သီး",
+  "en": "Grape",
+  "th": "องุ่น",
+  "image": "sapyitthee_456.jpg"
+ },
+ {
+  "no": "457",
+  "dream": "958",
+  "key": "tanlone",
+  "my": "သံလုံး",
+  "en": "Iron Ball",
+  "th": "ลูกเหล็ก",
+  "image": "thanlone_457.jpg"
+ },
+ {
+  "no": "458",
+  "dream": "957",
+  "key": "tp",
+  "my": "သစ်ပင်",
+  "en": "Tree",
+  "th": "ต้นไม้",
+  "image": "thitpin_458.jpg"
+ },
+ {
+  "no": "459",
+  "dream": "987",
+  "key": "ntk",
+  "my": "နို့သီးခေါင်း",
+  "en": "Nipple",
+  "th": "หัวนม",
+  "image": "noetheekhoung_459.jpg"
+ },
+ {
+  "no": "460",
+  "dream": "982",
+  "key": "thuhtay",
+  "my": "သူဌေး",
+  "en": "Millionaire",
+  "th": "เศรษฐี",
+  "image": "thuhtay_460.jpg"
+ },
+ {
+  "no": "461",
+  "dream": "977",
+  "key": "mnnsy",
+  "my": "မနောနတ်ဆရာ",
+  "en": "Shaman",
+  "th": "หมอผี",
+  "image": "manawnutsayar_461.jpg"
+ },
+ {
+  "no": "462",
+  "dream": "969",
+  "key": "tyk",
+  "my": "သားရေကွင်း",
+  "en": "Rubber band",
+  "th": "ยางรัด",
+  "image": "tharyaykwin_462.jpg"
+ },
+ {
+  "no": "463",
+  "dream": "979",
+  "key": "lpthu",
+  "my": "လက်ပြသူ",
+  "en": "Waving",
+  "th": "โบกมือ",
+  "image": "letpyathu_463.jpg"
+ },
+ {
+  "no": "464",
+  "dream": "996",
+  "key": "soung",
+  "my": "စောင်",
+  "en": "Blanket",
+  "th": "ผ้าห่ม",
+  "image": "saung_464.jpg"
+ },
+ {
+  "no": "465",
+  "dream": "954",
+  "key": "yink",
+  "my": "ယင်ကောင်",
+  "en": "Flies",
+  "th": "แมลงวัน",
+  "image": "yinkaung_465.jpg"
+ },
+ {
+  "no": "466",
+  "dream": "974",
+  "key": "mmk",
+  "my": "မိန်းမကောင်း",
+  "en": "Ladies",
+  "th": "สุภาพสตรี",
+  "image": "mainmakoung_466.jpg"
+ },
+ {
+  "no": "467",
+  "dream": "988",
+  "key": "klsee",
+  "my": "ခေါင်းလိမ်းဆီ",
+  "en": "Hair Oil",
+  "th": "น้ำมันทาผม",
+  "image": "konglainsi_467.jpg"
+ },
+ {
+  "no": "468",
+  "dream": "978",
+  "key": "skuu",
+  "my": "စိတ်ကူး",
+  "en": "Imagination",
+  "th": "จินตนาการ",
+  "image": "satekoo_468.jpg"
+ },
+ {
+  "no": "469",
+  "dream": "962",
+  "key": "tkn",
+  "my": "သိုင်းကွက်နင်း",
+  "en": "Boxing dance",
+  "th": "รำมวย",
+  "image": "thaingkwethnin_469.jpg"
+ },
+ {
+  "no": "470",
+  "dream": "972",
+  "key": "htk",
+  "my": "ထူခွက်",
+  "en": "Chopstick holder",
+  "th": "ที่ไว้ตะเกียบ",
+  "image": "htokhwet_470.jpg"
+ },
+ {
+  "no": "471",
+  "dream": "993",
+  "key": "shwesk",
+  "my": "ရွှေစက္ကူ",
+  "en": "Gold Paper",
+  "th": "กระดาษทอง",
+  "image": "shwesetku_471.jpg"
+ },
+ {
+  "no": "472",
+  "dream": "970",
+  "key": "ktawk",
+  "my": "ခါးထောက်",
+  "en": "Arms akimbo",
+  "th": "เท้าสะเอว",
+  "image": "khartalk_472.jpg"
+ },
+ {
+  "no": "473",
+  "dream": "984",
+  "key": "pell",
+  "my": "ပဲ",
+  "en": "Bean",
+  "th": "ถั่ว",
+  "image": "pel_473.jpg"
+ },
+ {
+  "no": "474",
+  "dream": "966",
+  "key": "nla",
+  "my": "ငှက်လှောင်အိမ်",
+  "en": "Bird cage",
+  "th": "กรงนก",
+  "image": "ngetlaungeain_474.jpg"
+ },
+ {
+  "no": "475",
+  "dream": "985",
+  "key": "dpyars",
+  "my": "ဓါတ်ပြားစက်",
+  "en": "Record",
+  "th": "แผ่นเสียง",
+  "image": "dattpyarset_475.jpg"
+ },
+ {
+  "no": "476",
+  "dream": "990",
+  "key": "ayar",
+  "my": "အိပ်ရာ",
+  "en": "Bed",
+  "th": "ที่นอน",
+  "image": "eightyar_476.jpg"
+ },
+ {
+  "no": "477",
+  "dream": "961",
+  "key": "aphooo",
+  "my": "အဖိုးအို",
+  "en": "Old man",
+  "th": "คนแก่",
+  "image": "aphoeo_477.jpg"
+ },
+ {
+  "no": "478",
+  "dream": "968",
+  "key": "chwtchotee",
+  "my": "ရှောက်ချိုသီး",
+  "en": "Smooth orange",
+  "th": "ส้มเกลี้ยง",
+  "image": "shoutchothee_478.jpg"
+ },
+ {
+  "no": "479",
+  "dream": "963",
+  "key": "schai",
+  "my": "ဆွဲချိုင့်",
+  "en": "Lunch box",
+  "th": "ปิ่นโต",
+  "image": "swelchaint_479.jpg"
+ },
+ {
+  "no": "480",
+  "dream": "999",
+  "key": "jyartee",
+  "my": "ကြာသီး",
+  "en": "Lotus fruit",
+  "th": "ดอกบัว",
+  "image": "kyarthee_480.jpg"
+ },
+ {
+  "no": "481",
+  "dream": "994",
+  "key": "meepan",
+  "my": "မီးပန်း",
+  "en": "Firework",
+  "th": "ดอกไม้เพลิง",
+  "image": "meepann_481.jpg"
+ },
+ {
+  "no": "482",
+  "dream": "960",
+  "key": "mtamk",
+  "my": "မောင်းတံကိုင်",
+  "en": "Holding a gong",
+  "th": "ถือไม้ตีฆ้อง",
+  "image": "moungtankaing_482.jpg"
+ },
+ {
+  "no": "483",
+  "dream": "986",
+  "key": "tsyargi",
+  "my": "သိုင်းဆရာကြီး",
+  "en": "Martial Arts Master",
+  "th": "ปรมาจารย์ศิลปะการต่อสู้",
+  "image": "thaingsayarkyi_483.jpg"
+ },
+ {
+  "no": "484",
+  "dream": "973",
+  "key": "jtunni",
+  "my": "ကြက်သွန်နီ",
+  "en": "Onion",
+  "th": "หอมแดง",
+  "image": "jettonny_484.jpg"
+ },
+ {
+  "no": "485",
+  "dream": "975",
+  "key": "chin",
+  "my": "ခြင်",
+  "en": "Mosquito",
+  "th": "ยุง",
+  "image": "chin_485.jpg"
+ },
+ {
+  "no": "486",
+  "dream": "983",
+  "key": "pkan",
+  "my": "ပန်းကန်",
+  "en": "Plate",
+  "th": "จาน",
+  "image": "pannkan_486.jpg"
+ },
+ {
+  "no": "487",
+  "dream": "959",
+  "key": "dpyar",
+  "my": "ဓါတ်ပြား",
+  "en": "Tape",
+  "th": "ม้วนเทป",
+  "image": "dartpyar_487.jpg"
+ },
+ {
+  "no": "488",
+  "dream": "967",
+  "key": "allsartee",
+  "my": "သြဇားသီး",
+  "en": "Custard apple",
+  "th": "น้อยหน่า",
+  "image": "awzarthee_488.jpg"
+ },
+ {
+  "no": "489",
+  "dream": "955",
+  "key": "tminst",
+  "my": "သမင်ဆောင်သူ",
+  "en": "Fake deer",
+  "th": "กวางปลอม",
+  "image": "thaminsaungthu_489.jpg"
+ },
+ {
+  "no": "490",
+  "dream": "976",
+  "key": "bdsy",
+  "my": "ဗေဒင်ဆရာ",
+  "en": "Fortune teller",
+  "th": "หมอดู",
+  "image": "baydinsayar_490.jpg"
+ },
+ {
+  "no": "491",
+  "dream": "956",
+  "key": "chayt",
+  "my": "ခယသူ",
+  "en": "Respect",
+  "th": "คารวะ",
+  "image": "khayathu_491.jpg"
+ },
+ {
+  "no": "492",
+  "dream": "997",
+  "key": "shawt",
+  "my": "စာဟောသူ",
+  "en": "Reading Dhamma",
+  "th": "อ่านธรรม",
+  "image": "sarhawthu_492.jpg"
+ },
+ {
+  "no": "493",
+  "dream": "971",
+  "key": "sayl",
+  "my": "ဆေးလိပ်",
+  "en": "Cigarette",
+  "th": "บุหรี่",
+  "image": "sayliek_493.jpg"
+ },
+ {
+  "no": "494",
+  "dream": "981",
+  "key": "apyawthu",
+  "my": "အိပ်ပျော်သူ",
+  "en": "Sleeping person",
+  "th": "คนนอนหลับ",
+  "image": "eightpyawthu_494.jpg"
+ },
+ {
+  "no": "495",
+  "dream": "951",
+  "key": "lthuy",
+  "my": "လမ်းသူရဲ",
+  "en": "Gangster",
+  "th": "อันธพาล",
+  "image": "lanthaye_495.jpg"
+ },
+ {
+  "no": "496",
+  "dream": "964",
+  "key": "tinbtee",
+  "my": "သင်္ဘောသီး",
+  "en": "Papaya",
+  "th": "มะละกอ",
+  "image": "thinbawthee_496.jpg"
+ },
+ {
+  "no": "497",
+  "dream": "992",
+  "key": "puf",
+  "my": "ပူဖေါင်း",
+  "en": "Balloon",
+  "th": "ลูกโป่ง",
+  "image": "puphong_497.jpg"
+ },
+ {
+  "no": "498",
+  "dream": "000",
+  "key": "apyo",
+  "my": "အပျို",
+  "en": "Girl",
+  "th": "สาว",
+  "image": "apyo_498.jpg"
+ },
+ {
+  "no": "499",
+  "dream": "980",
+  "key": "leltm",
+  "my": "လယ်သမား",
+  "en": "Farmer",
+  "th": "ชาวนา",
+  "image": "letthamar_499.jpg"
+ },
+ {
+  "no": "500",
+  "dream": "998",
+  "key": "njt",
+  "my": "နွားကျောင်းသား",
+  "en": "Cow herder",
+  "th": "คนเลี้ยงวัว",
+  "image": "ngwarkyaungthar_500.jpg"
+ },
+ {
+  "no": "501",
+  "dream": "045",
+  "key": "nt",
+  "my": "နတ်သား",
+  "en": "God",
+  "th": "เทพ",
+  "image": "natthar_501.jpg"
+ },
+ {
+  "no": "502",
+  "dream": "003",
+  "key": "ksuu",
+  "my": "ကျောက်ဆူး",
+  "en": "Anchor",
+  "th": "สมอเรือ",
+  "image": "kyaukzoo_502.jpg"
+ },
+ {
+  "no": "503",
+  "dream": "002",
+  "key": "kyot",
+  "my": "ကော်ရုပ်",
+  "en": "Doll",
+  "th": "ตุ๊กตา",
+  "image": "kawyoke_503.jpg"
+ },
+ {
+  "no": "504",
+  "dream": "015",
+  "key": "schi",
+  "my": "ဆိတ်ခြံ",
+  "en": "Sheep Farm",
+  "th": "ฟาร์มแพะ",
+  "image": "satechan_504.jpg"
+ },
+ {
+  "no": "505",
+  "dream": "039",
+  "key": "thuyk",
+  "my": "သူရဲကောင်း",
+  "en": "Hero",
+  "th": "ผู้กล้า",
+  "image": "thuyekoung_505.jpg"
+ },
+ {
+  "no": "506",
+  "dream": "041",
+  "key": "asttu",
+  "my": "အဆဲဆန်သူ",
+  "en": "Complainant",
+  "th": "ขี้บ่น",
+  "image": "azelthanthu_506.jpg"
+ },
+ {
+  "no": "507",
+  "dream": "008",
+  "key": "pssa",
+  "my": "ပုံဆွဲစာအုပ်",
+  "en": "Drawing Book",
+  "th": "สมุดวาดรูป",
+  "image": "ponswelsaoak_507.jpg"
+ },
+ {
+  "no": "508",
+  "dream": "007",
+  "key": "psjyu",
+  "my": "ပိုးစုန်းကြူး",
+  "en": "Firefly",
+  "th": "หิ่งห้อย",
+  "image": "poesonekyu_508.jpg"
+ },
+ {
+  "no": "509",
+  "dream": "037",
+  "key": "tw",
+  "my": "တောဝက်",
+  "en": "Wild Boar",
+  "th": "หมูป่า",
+  "image": "tawweg_509.jpg"
+ },
+ {
+  "no": "510",
+  "dream": "032",
+  "key": "thtch",
+  "my": "သံတံခါး",
+  "en": "Iron door",
+  "th": "ประตูเหล็ก",
+  "image": "thantankhar_510.jpg"
+ },
+ {
+  "no": "511",
+  "dream": "027",
+  "key": "kssyar",
+  "my": "ကစားစရာ",
+  "en": "Toy",
+  "th": "ของเล่น",
+  "image": "kasarsayar_511.jpg"
+ },
+ {
+  "no": "512",
+  "dream": "019",
+  "key": "dpn",
+  "my": "ဒေါက်ဖိနပ်",
+  "en": "High heeled shoes",
+  "th": "รองเท้าส้นสูง",
+  "image": "daukphinut_512.jpg"
+ },
+ {
+  "no": "513",
+  "dream": "029",
+  "key": "pyonphyu",
+  "my": "ပြုံးသူ",
+  "en": "Smiling Man",
+  "th": "คนที่ยิ้ม",
+  "image": "pyonethu_513.jpg"
+ },
+ {
+  "no": "514",
+  "dream": "046",
+  "key": "pytmee",
+  "my": "ဖယောင်းတိုင်မီး",
+  "en": "Candlelight",
+  "th": "แสงเทียน",
+  "image": "phayoungtaingmee_514.jpg"
+ },
+ {
+  "no": "515",
+  "dream": "004",
+  "key": "mekmunt",
+  "my": "မက်မန်းသီး",
+  "en": "Prunus",
+  "th": "พลัม",
+  "image": "metmannthee_515.jpg"
+ },
+ {
+  "no": "516",
+  "dream": "024",
+  "key": "jyai",
+  "my": "ကြံ့",
+  "en": "Rhino",
+  "th": "แรด",
+  "image": "kyaint_516.jpg"
+ },
+ {
+  "no": "517",
+  "dream": "038",
+  "key": "pnshi",
+  "my": "ပညာရှိ",
+  "en": "Scholar",
+  "th": "นักปราชญ์",
+  "image": "pinnyarshi_517.jpg"
+ },
+ {
+  "no": "518",
+  "dream": "028",
+  "key": "ymeechit",
+  "my": "ယမ်းမီးခြစ်",
+  "en": "Match",
+  "th": "ไม้ขีดไฟ",
+  "image": "yannmeechit_518.jpg"
+ },
+ {
+  "no": "519",
+  "dream": "012",
+  "key": "charkon",
+  "my": "ခါးကုန်း",
+  "en": "Hunchback",
+  "th": "คนหลังค่อม",
+  "image": "kharkone_519.jpg"
+ },
+ {
+  "no": "520",
+  "dream": "022",
+  "key": "msoe",
+  "my": "မုဆိုး",
+  "en": "Hunter",
+  "th": "ฮันเตอร์",
+  "image": "mokesoe_520.jpg"
+ },
+ {
+  "no": "521",
+  "dream": "043",
+  "key": "sthukyee",
+  "my": "စစ်သူကြီး",
+  "en": "General",
+  "th": "นายทัพ",
+  "image": "sitthukyi_521.jpg"
+ },
+ {
+  "no": "522",
+  "dream": "020",
+  "key": "chayuu",
+  "my": "ခရု",
+  "en": "Snail",
+  "th": "หอย",
+  "image": "khayu_522.jpg"
+ },
+ {
+  "no": "523",
+  "dream": "034",
+  "key": "kssy",
+  "my": "ကစားစရာ",
+  "en": "Toy",
+  "th": "ของเล่น",
+  "image": "kasarsayar_523.jpg"
+ },
+ {
+  "no": "524",
+  "dream": "016",
+  "key": "tittawtee",
+  "my": "သစ်တော်သီး",
+  "en": "Pear",
+  "th": "สาลี่",
+  "image": "thittawthee_524.jpg"
+ },
+ {
+  "no": "525",
+  "dream": "035",
+  "key": "longchee",
+  "my": "လုံးချည်",
+  "en": "Sarong",
+  "th": "โสร่ง",
+  "image": "luangchy_525.jpg"
+ },
+ {
+  "no": "526",
+  "dream": "040",
+  "key": "phyu",
+  "my": "ဖြူး",
+  "en": "Hedgehog",
+  "th": "เม่น",
+  "image": "phyue_526.jpg"
+ },
+ {
+  "no": "527",
+  "dream": "011",
+  "key": "htinsee",
+  "my": "ထင်းစည်း",
+  "en": "Bundle of Firewood",
+  "th": "มัดฟืน",
+  "image": "htainsee_527.jpg"
+ },
+ {
+  "no": "528",
+  "dream": "018",
+  "key": "kyarswal",
+  "my": "ကြာစွယ်",
+  "en": "Lotus Root",
+  "th": "รากบัว",
+  "image": "kyarswal_528.jpg"
+ },
+ {
+  "no": "529",
+  "dream": "013",
+  "key": "luwon",
+  "my": "လူဝံ",
+  "en": "Gibbon",
+  "th": "ชะนี",
+  "image": "luwon_529.jpg"
+ },
+ {
+  "no": "530",
+  "dream": "049",
+  "key": "saparpin",
+  "my": "စပါးပင်",
+  "en": "Rice plant",
+  "th": "ต้นข้าว",
+  "image": "saparpin_530.jpg"
+ },
+ {
+  "no": "531",
+  "dream": "044",
+  "key": "soantaathu",
+  "my": "စွံ့အသူ",
+  "en": "Mute person",
+  "th": "คนใบ้",
+  "image": "soantaathu_531.jpg"
+ },
+ {
+  "no": "532",
+  "dream": "010",
+  "key": "thaingsayar",
+  "my": "သိုင်းဆရာ",
+  "en": "Boxing teacher",
+  "th": "ครูมวย",
+  "image": "thaingsayar_532.jpg"
+ },
+ {
+  "no": "533",
+  "dream": "036",
+  "key": "motekyatesone",
+  "my": "မုန့်ကြိတ်ဆုံ",
+  "en": "Mill",
+  "th": "โม่หิน",
+  "image": "motekyatesone_533.jpg"
+ },
+ {
+  "no": "534",
+  "dream": "023",
+  "key": "hmanbedo",
+  "my": "မှန်ဘီဒို",
+  "en": "Glass cabinet",
+  "th": "ตู้กระจก",
+  "image": "hmanbedo_534.jpg"
+ },
+ {
+  "no": "535",
+  "dream": "025",
+  "key": "phinut",
+  "my": "ဖိနပ်",
+  "en": "Shoes",
+  "th": "รองเท้า",
+  "image": "phinut_535.jpg"
+ },
+ {
+  "no": "536",
+  "dream": "033",
+  "key": "hlan",
+  "my": "လှံ",
+  "en": "Spear",
+  "th": "หอก",
+  "image": "hlan_536.jpg"
+ },
+ {
+  "no": "537",
+  "dream": "009",
+  "key": "sayar",
+  "my": "ဆရာ",
+  "en": "Teacher",
+  "th": "อาจารย์",
+  "image": "sayar_537.jpg"
+ },
+ {
+  "no": "538",
+  "dream": "017",
+  "key": "myinkonenee",
+  "my": "မြင်းကုန်းနှီး",
+  "en": "Saddle",
+  "th": "อานม้า",
+  "image": "myinkonenee_538.jpg"
+ },
+ {
+  "no": "539",
+  "dream": "005",
+  "key": "pannpin",
+  "my": "ပန်းပင်",
+  "en": "Flower",
+  "th": "ดอกไม้",
+  "image": "pannpin_539.jpg"
+ },
+ {
+  "no": "540",
+  "dream": "026",
+  "key": "kyalthee",
+  "my": "ကြယ်သီး",
+  "en": "Button",
+  "th": "กระดุม",
+  "image": "kyalthee_540.jpg"
+ },
+ {
+  "no": "541",
+  "dream": "006",
+  "key": "myinsandoke",
+  "my": "မြင်းဆံတုတ်",
+  "en": "Horsetail",
+  "th": "ไม้หางม้า",
+  "image": "myinsandoke_541.jpg"
+ },
+ {
+  "no": "542",
+  "dream": "047",
+  "key": "khonphinut",
+  "my": "ခုံဖိနပ်",
+  "en": "High-heeled shoes",
+  "th": "รองเท้าสันสูง",
+  "image": "khonphinut_542.jpg"
+ },
+ {
+  "no": "543",
+  "dream": "021",
+  "key": "chulone",
+  "my": "ခြူလုံး",
+  "en": "Iron button",
+  "th": "กระดุมเหล็ก",
+  "image": "chulone_543.jpg"
+ },
+ {
+  "no": "544",
+  "dream": "031",
+  "key": "pattamyar",
+  "my": "ပတ္တမြား",
+  "en": "Ruby",
+  "th": "ทับทิม",
+  "image": "pattamyar_544.jpg"
+ },
+ {
+  "no": "545",
+  "dream": "001",
+  "key": "hlay",
+  "my": "လှေ",
+  "en": "Boat",
+  "th": "เรือ",
+  "image": "hlay_545.jpg"
+ },
+ {
+  "no": "546",
+  "dream": "014",
+  "key": "phaungtain",
+  "my": "ဖေါင်တိန်",
+  "en": "Pen",
+  "th": "ปากกา",
+  "image": "phaungtain_546.jpg"
+ },
+ {
+  "no": "547",
+  "dream": "042",
+  "key": "kyaungnet",
+  "my": "ကြောင်နက်",
+  "en": "Black Cat",
+  "th": "แมวดำ",
+  "image": "kyaungnet_547.jpg"
+ },
+ {
+  "no": "548",
+  "dream": "050",
+  "key": "meechit",
+  "my": "မီးခြစ်",
+  "en": "Lighter",
+  "th": "ไฟแช็ก",
+  "image": "meechit_548.jpg"
+ },
+ {
+  "no": "549",
+  "dream": "030",
+  "key": "mopwint",
+  "my": "မှိုပွင့်",
+  "en": "Mushroom bloom",
+  "th": "ดอกเห็ด",
+  "image": "mopwint_549.jpg"
+ },
+ {
+  "no": "550",
+  "dream": "048",
+  "key": "amart",
+  "my": "အမတ်",
+  "en": "MP",
+  "th": "สส.",
+  "image": "amart_550.jpg"
+ },
+ {
+  "no": "551",
+  "dream": "095",
+  "key": "sawbwar",
+  "my": "စော်ဘွား",
+  "en": "Prince",
+  "th": "เจ้าฟ้า",
+  "image": "sawbwar_551.jpg"
+ },
+ {
+  "no": "552",
+  "dream": "053",
+  "key": "bargyar",
+  "my": "ဘာဂျာ",
+  "en": "Accordion",
+  "th": "หีบเพลง",
+  "image": "bargyar_552.jpg"
+ },
+ {
+  "no": "553",
+  "dream": "052",
+  "key": "eainshaemin",
+  "my": "အိမ်ရှေ့မင်း",
+  "en": "Royal Prince",
+  "th": "ราชกุมาร",
+  "image": "eainshaemin_553.jpg"
+ },
+ {
+  "no": "554",
+  "dream": "065",
+  "key": "petletkalarhtaing",
+  "my": "ပက်လက်ကုလားထိုင်",
+  "en": "Reclining Chair",
+  "th": "เก้าอี้นอน",
+  "image": "petletkalarhtaing_554.jpg"
+ },
+ {
+  "no": "555",
+  "dream": "089",
+  "key": "tanatkhar",
+  "my": "သနပ်ခါး",
+  "en": "Thanaka",
+  "th": "ทานาคา",
+  "image": "tanatkhar_555.jpg"
+ },
+ {
+  "no": "556",
+  "dream": "091",
+  "key": "moungthandaing",
+  "my": "မောင်းတံသိုင်း",
+  "en": "Gong beater",
+  "th": "คนตีฆ้อง",
+  "image": "moungthandaing_556.jpg"
+ },
+ {
+  "no": "557",
+  "dream": "058",
+  "key": "gintwal",
+  "my": "ကျင်တွယ်",
+  "en": "Scene",
+  "th": "ที่ตัดไม้",
+  "image": "gintwal_557.jpg"
+ },
+ {
+  "no": "558",
+  "dream": "057",
+  "key": "telephone",
+  "my": "တယ်လီဖုန်း",
+  "en": "Telephone",
+  "th": "โทรศัพท์",
+  "image": "telephone_558.jpg"
+ },
+ {
+  "no": "559",
+  "dream": "087",
+  "key": "nget",
+  "my": "ငှက်",
+  "en": "Bird",
+  "th": "นก",
+  "image": "nget_559.jpg"
+ },
+ {
+  "no": "560",
+  "dream": "082",
+  "key": "thaingkasar",
+  "my": "သိုင်းကစား",
+  "en": "Boxing practice",
+  "th": "ซ้อมมวย",
+  "image": "thaingkasar_560.jpg"
+ },
+ {
+  "no": "561",
+  "dream": "077",
+  "key": "yaymyin",
+  "my": "ရေမြင်း",
+  "en": "Hippo",
+  "th": "ฮิปโป",
+  "image": "yaymyin_561.jpg"
+ },
+ {
+  "no": "562",
+  "dream": "069",
+  "key": "thinbawkonthel",
+  "my": "သင်္ဘောကုန်သည်",
+  "en": "Boat Trader",
+  "th": "พ่อค้าเรือ",
+  "image": "thinbawkonthel_562.jpg"
+ },
+ {
+  "no": "563",
+  "dream": "079",
+  "key": "kyelchothee",
+  "my": "ကျွဲချိုသီး",
+  "en": "Caltrop",
+  "th": "กระจับ",
+  "image": "kyelchothee_563.jpg"
+ },
+ {
+  "no": "564",
+  "dream": "096",
+  "key": "kainnary",
+  "my": "ကိန္နရီ",
+  "en": "Kinnaree",
+  "th": "กินรี",
+  "image": "kainnary_564.jpg"
+ },
+ {
+  "no": "565",
+  "dream": "054",
+  "key": "darmyaung",
+  "my": "ဓါးမြောင်",
+  "en": "Knife",
+  "th": "มีด",
+  "image": "darmyaung_565.jpg"
+ },
+ {
+  "no": "566",
+  "dream": "074",
+  "key": "painnethee",
+  "my": "ပိန္နဲသီး",
+  "en": "Jackfruit",
+  "th": "ขนุน",
+  "image": "painnethee_566.jpg"
+ },
+ {
+  "no": "567",
+  "dream": "088",
+  "key": "khonglong",
+  "my": "ခေါင်းလောင်း",
+  "en": "Bell",
+  "th": "กระดิ่ง",
+  "image": "khonglong_567.jpg"
+ },
+ {
+  "no": "568",
+  "dream": "078",
+  "key": "phayinma",
+  "my": "ဘုရင်မ",
+  "en": "Queen",
+  "th": "ราชินี",
+  "image": "phayinma_568.jpg"
+ },
+ {
+  "no": "569",
+  "dream": "062",
+  "key": "matharkhong",
+  "my": "မသာခေါင်း",
+  "en": "Coffin",
+  "th": "โลงศพ",
+  "image": "matharkhong_569.jpg"
+ },
+ {
+  "no": "570",
+  "dream": "072",
+  "key": "durinthee",
+  "my": "ဒူးရင်းသီး",
+  "en": "Durian",
+  "th": "ทุเรียน",
+  "image": "durinthee_570.jpg"
+ },
+ {
+  "no": "571",
+  "dream": "093",
+  "key": "phayarlong",
+  "my": "ဘုရားလောင်း",
+  "en": "Prince",
+  "th": "เจ้าชาย",
+  "image": "phayarlong_571.jpg"
+ },
+ {
+  "no": "572",
+  "dream": "070",
+  "key": "kwaychay",
+  "my": "ခွေးခြေ",
+  "en": "Chair",
+  "th": "ตั่ง",
+  "image": "kwaychay_572.jpg"
+ },
+ {
+  "no": "573",
+  "dream": "084",
+  "key": "kalarroak",
+  "my": "ကုလားအုပ်",
+  "en": "Camel",
+  "th": "อูฐ",
+  "image": "kalarroak_573.jpg"
+ },
+ {
+  "no": "574",
+  "dream": "066",
+  "key": "akhaingasay",
+  "my": "အခိုင်းအစေ",
+  "en": "Servant",
+  "th": "คนรับไช้",
+  "image": "akhaingasay_574.jpg"
+ },
+ {
+  "no": "575",
+  "dream": "085",
+  "key": "yorkthwarkhayu",
+  "my": "ယောက်သွားခရု",
+  "en": "Clam",
+  "th": "หอยแครง",
+  "image": "yorkthwarkhayu_575.jpg"
+ },
+ {
+  "no": "576",
+  "dream": "090",
+  "key": "pulway",
+  "my": "ပုလွေ",
+  "en": "Flute",
+  "th": "ปี่",
+  "image": "pulway_576.jpg"
+ },
+ {
+  "no": "577",
+  "dream": "061",
+  "key": "pelsae",
+  "my": "ပဲစေ့",
+  "en": "Beans",
+  "th": "ถั่ว",
+  "image": "pelsae_577.jpg"
+ },
+ {
+  "no": "578",
+  "dream": "068",
+  "key": "apyone",
+  "my": "အပြုံး",
+  "en": "Smile",
+  "th": "รอยยิ้ม",
+  "image": "apyone_578.jpg"
+ },
+ {
+  "no": "579",
+  "dream": "063",
+  "key": "sanoe",
+  "my": "စနိုး",
+  "en": "Snow",
+  "th": "แป้งมัน",
+  "image": "sanoe_579.jpg"
+ },
+ {
+  "no": "580",
+  "dream": "099",
+  "key": "pyongphooeight",
+  "my": "ပြောင်းဖူးအိတ်",
+  "en": "Corn bag",
+  "th": "ถุงข้าวโพด",
+  "image": "pyongphooeight_580.jpg"
+ },
+ {
+  "no": "581",
+  "dream": "094",
+  "key": "kywethtaungchauk",
+  "my": "ကြွက်ထောင်ချောက်",
+  "en": "Mouse Trap",
+  "th": "กับดักหนู",
+  "image": "kywethtaungchauk_581.jpg"
+ },
+ {
+  "no": "582",
+  "dream": "060",
+  "key": "zoune",
+  "my": "ဇွန်း",
+  "en": "Spoon",
+  "th": "ช้อน",
+  "image": "zoune_582.jpg"
+ },
+ {
+  "no": "583",
+  "dream": "086",
+  "key": "sayinekok",
+  "my": "စားရင်းကောက်",
+  "en": "Accounting",
+  "th": "ทำบัญชี",
+  "image": "sayinekok_583.jpg"
+ },
+ {
+  "no": "584",
+  "dream": "073",
+  "key": "chanthamar",
+  "my": "ခြံသမား",
+  "en": "Farmer",
+  "th": "ชาวสวน",
+  "image": "chanthamar_584.jpg"
+ },
+ {
+  "no": "585",
+  "dream": "075",
+  "key": "mawtawcar",
+  "my": "မော်တော်ကား",
+  "en": "Car",
+  "th": "รถยนต์",
+  "image": "mawtawcar_585.jpg"
+ },
+ {
+  "no": "586",
+  "dream": "083",
+  "key": "myaysaru",
+  "my": "မြေစာဥ",
+  "en": "Water chestnut",
+  "th": "แห้ว",
+  "image": "myaysaru_586.jpg"
+ },
+ {
+  "no": "587",
+  "dream": "059",
+  "key": "thayetthee",
+  "my": "သရက်သီး",
+  "en": "Mango",
+  "th": "มะม่วง",
+  "image": "thayetthee_587.jpg"
+ },
+ {
+  "no": "588",
+  "dream": "067",
+  "key": "yaykhae",
+  "my": "ရေခဲ",
+  "en": "Ice",
+  "th": "น้ำแข็ง",
+  "image": "yaykhae_588.jpg"
+ },
+ {
+  "no": "589",
+  "dream": "055",
+  "key": "sayboo",
+  "my": "ဆေးဗူး",
+  "en": "Paint can",
+  "th": "กระป๋องสี",
+  "image": "sayboo_589.jpg"
+ },
+ {
+  "no": "590",
+  "dream": "076",
+  "key": "signboard",
+  "my": "ဆိုင်းဘုတ်",
+  "en": "Signboard",
+  "th": "ป้าย",
+  "image": "signboard_590.jpg"
+ },
+ {
+  "no": "591",
+  "dream": "056",
+  "key": "unswel",
+  "my": "အံဆွဲ",
+  "en": "Drawer",
+  "th": "ลิ้นชัก",
+  "image": "unswel_591.jpg"
+ },
+ {
+  "no": "592",
+  "dream": "097",
+  "key": "mwayhok",
+  "my": "မြွေဟောက်",
+  "en": "Cobra",
+  "th": "งูเห่า",
+  "image": "mwayhok_592.jpg"
+ },
+ {
+  "no": "593",
+  "dream": "071",
+  "key": "myaukmin",
+  "my": "မျောက်မင်း",
+  "en": "Monkey King",
+  "th": "ราชาลิง",
+  "image": "myaukmin_593.jpg"
+ },
+ {
+  "no": "594",
+  "dream": "081",
+  "key": "letnarthu",
+  "my": "လက်နာသူ",
+  "en": "Arm Hurt",
+  "th": "เจ็บแขน",
+  "image": "letnarthu_594.jpg"
+ },
+ {
+  "no": "595",
+  "dream": "051",
+  "key": "thittoknget",
+  "my": "သစ်တောက်ငှက်",
+  "en": "Woodpecker",
+  "th": "นกหัวขวาน",
+  "image": "thittoknget_595.jpg"
+ },
+ {
+  "no": "596",
+  "dream": "064",
+  "key": "swundawtin",
+  "my": "ဆွမ်းတော်တင်",
+  "en": "Worship",
+  "th": "บูชา",
+  "image": "swundawtin_596.jpg"
+ },
+ {
+  "no": "597",
+  "dream": "092",
+  "key": "kyongthar",
+  "my": "ကျောင်းသား",
+  "en": "Student",
+  "th": "นักเรียน",
+  "image": "kyongthar_597.jpg"
+ },
+ {
+  "no": "598",
+  "dream": "100",
+  "key": "ywarthukyi",
+  "my": "ရွာသူကြီး",
+  "en": "Village Chief",
+  "th": "กำนัน",
+  "image": "ywarthukyi_598.jpg"
+ },
+ {
+  "no": "599",
+  "dream": "080",
+  "key": "zeekwet",
+  "my": "ဇီးကွက်",
+  "en": "Owl",
+  "th": "นกฮูก",
+  "image": "zeekwet_599.jpg"
+ },
+ {
+  "no": "600",
+  "dream": "098",
+  "key": "hlanthaning",
+  "my": "လှံသိုင်း",
+  "en": "Spear Fighter",
+  "th": "มวยหอก",
+  "image": "hlanthaning_600.jpg"
+ },
+ {
+  "no": "601",
+  "dream": "145",
+  "key": "yathaedaukchyar",
+  "my": "ရသေ့ဒေါက်ချာ",
+  "en": "Hermit's Hat",
+  "th": "หมวกฤาษี",
+  "image": "yathaedaukchyar_601.jpg"
+ },
+ {
+  "no": "602",
+  "dream": "103",
+  "key": "sitkelmoo",
+  "my": "စစ်ကဲမှူး",
+  "en": "Military Leader",
+  "th": "ผู้นำทหาร",
+  "image": "sitkelmoo_602.jpg"
+ },
+ {
+  "no": "603",
+  "dream": "102",
+  "key": "laintdone",
+  "my": "လိမ့်တုံး",
+  "en": "Roller",
+  "th": "ลูกกลิ้ง",
+  "image": "laintdone_603.jpg"
+ },
+ {
+  "no": "604",
+  "dream": "115",
+  "key": "tharleedar",
+  "my": "သားလှီးဓါး",
+  "en": "Meat Cleaver",
+  "th": "มีดหั่นเนื้อ",
+  "image": "tharleedar_604.jpg"
+ },
+ {
+  "no": "605",
+  "dream": "139",
+  "key": "hlayhlawthet",
+  "my": "လှေလှောက်တက်",
+  "en": "Paddle",
+  "th": "ไม้พาย",
+  "image": "hlayhlawthet_605.jpg"
+ },
+ {
+  "no": "606",
+  "dream": "141",
+  "key": "mway",
+  "my": "မြွေ",
+  "en": "Snake",
+  "th": "งู",
+  "image": "mway_606.jpg"
+ },
+ {
+  "no": "607",
+  "dream": "108",
+  "key": "shwethaluan",
+  "my": "ရွှေသလွန်",
+  "en": "Golden Bed",
+  "th": "เตียงทอง",
+  "image": "shwethaluan_607.jpg"
+ },
+ {
+  "no": "608",
+  "dream": "107",
+  "key": "ayaungtinsi",
+  "my": "အရောင်တင်ဆီ",
+  "en": "Glossy",
+  "th": "สีเงา",
+  "image": "ayaungtinsi_608.jpg"
+ },
+ {
+  "no": "609",
+  "dream": "137",
+  "key": "darpyan",
+  "my": "ဓားပျံ",
+  "en": "Flying sword",
+  "th": "มีดบิน",
+  "image": "darpyan_609.jpg"
+ },
+ {
+  "no": "610",
+  "dream": "132",
+  "key": "hninsipann",
+  "my": "နှင်းဆီပန်း",
+  "en": "Rose",
+  "th": "กุหลาบ",
+  "image": "hninsipann_610.jpg"
+ },
+ {
+  "no": "611",
+  "dream": "127",
+  "key": "kyarpann",
+  "my": "ကြာပန်း",
+  "en": "Lotus",
+  "th": "ดอกบัว",
+  "image": "kyarpann_611.jpg"
+ },
+ {
+  "no": "612",
+  "dream": "119",
+  "key": "kazoanu",
+  "my": "ကဇွန်းဥ",
+  "en": "Yam",
+  "th": "หัวมัน",
+  "image": "kazoanu_612.jpg"
+ },
+ {
+  "no": "613",
+  "dream": "129",
+  "key": "suan",
+  "my": "စွန်",
+  "en": "Kite",
+  "th": "ว่าว",
+  "image": "suan_613.jpg"
+ },
+ {
+  "no": "614",
+  "dream": "146",
+  "key": "hnarcheekalaw",
+  "my": "နှာချေးကလော်",
+  "en": "Earpick",
+  "th": "ที่เขี่ยหู",
+  "image": "hnarcheekalaw_614.jpg"
+ },
+ {
+  "no": "615",
+  "dream": "109",
+  "key": "darma",
+  "my": "ဓါးမ",
+  "en": "Masked",
+  "th": "อีโต้",
+  "image": "darma_615.jpg"
+ },
+ {
+  "no": "616",
+  "dream": "124",
+  "key": "ngayokethee",
+  "my": "ငရုပ်သီး",
+  "en": "Chili",
+  "th": "พริก",
+  "image": "ngayokethee_616.jpg"
+ },
+ {
+  "no": "617",
+  "dream": "138",
+  "key": "gatemote",
+  "my": "ကိတ်မုန့်",
+  "en": "Cake",
+  "th": "ขนมเค้ก",
+  "image": "gatemote_617.jpg"
+ },
+ {
+  "no": "618",
+  "dream": "128",
+  "key": "letthee",
+  "my": "လက်သီး",
+  "en": "Fist",
+  "th": "กำปั้น",
+  "image": "letthee_618.jpg"
+ },
+ {
+  "no": "619",
+  "dream": "112",
+  "key": "pyongphoo",
+  "my": "ပြောင်းဖူး",
+  "en": "Corn",
+  "th": "ข้าวโพด",
+  "image": "pyongphoo_619.jpg"
+ },
+ {
+  "no": "620",
+  "dream": "122",
+  "key": "kyaukmel",
+  "my": "ကျောက်မဲ",
+  "en": "Black stone",
+  "th": "หินดำ",
+  "image": "kyaukmel_620.jpg"
+ },
+ {
+  "no": "621",
+  "dream": "143",
+  "key": "anwayhtal",
+  "my": "အနွေးထည်",
+  "en": "Sweater",
+  "th": "เสื้อกันหนาว",
+  "image": "anwayhtal_621.jpg"
+ },
+ {
+  "no": "622",
+  "dream": "120",
+  "key": "shint",
+  "my": "ရှဥ့်",
+  "en": "Squirrel",
+  "th": "กระรอก",
+  "image": "shint_622.jpg"
+ },
+ {
+  "no": "623",
+  "dream": "134",
+  "key": "sain",
+  "my": "စိန်",
+  "en": "Diamond",
+  "th": "เพชร",
+  "image": "sain_623.jpg"
+ },
+ {
+  "no": "624",
+  "dream": "116",
+  "key": "meethwe",
+  "my": "မီးသွေး",
+  "en": "Coal",
+  "th": "ถ่าน",
+  "image": "meethwe_624.jpg"
+ },
+ {
+  "no": "625",
+  "dream": "135",
+  "key": "pannpywint",
+  "my": "ပန်းပွင့်",
+  "en": "Flowers bloom",
+  "th": "ดอกไม้บาน",
+  "image": "pannpywint_625.jpg"
+ },
+ {
+  "no": "626",
+  "dream": "140",
+  "key": "nyonpya",
+  "my": "ညွှန်ပြ",
+  "en": "Show the way",
+  "th": "ชี้ทาง",
+  "image": "nyonpya_626.jpg"
+ },
+ {
+  "no": "627",
+  "dream": "111",
+  "key": "thadinsar",
+  "my": "သတင်းစာ",
+  "en": "Newspaper",
+  "th": "หนังสือพิมพ์",
+  "image": "thadinsar_627.jpg"
+ },
+ {
+  "no": "628",
+  "dream": "118",
+  "key": "man",
+  "my": "မှန်",
+  "en": "Mirror",
+  "th": "กระจก",
+  "image": "han_628.jpg"
+ },
+ {
+  "no": "629",
+  "dream": "113",
+  "key": "aphooangon",
+  "my": "အဖူးအငုံ",
+  "en": "Bud",
+  "th": "ดอกไม้ตูม",
+  "image": "aphooangon_629.jpg"
+ },
+ {
+  "no": "630",
+  "dream": "149",
+  "key": "khayannthee",
+  "my": "ခရမ်းသီး",
+  "en": "Eggplant",
+  "th": "มะเขือ",
+  "image": "khayannthee_630.jpg"
+ },
+ {
+  "no": "631",
+  "dream": "144",
+  "key": "leikpyarpann",
+  "my": "လိပ်ပြာပန်း",
+  "en": "Butterfly",
+  "th": "ดอกผีเสื้อ",
+  "image": "leikpyarpann_631.jpg"
+ },
+ {
+  "no": "632",
+  "dream": "110",
+  "key": "minkutthee",
+  "my": "မင်းကွတ်သီး",
+  "en": "Mangosteen",
+  "th": "มังคุด",
+  "image": "minkutthee_632.jpg"
+ },
+ {
+  "no": "633",
+  "dream": "136",
+  "key": "uhotke",
+  "my": "ဦးထုပ်",
+  "en": "Hat",
+  "th": "หมวก",
+  "image": "uhotke_633.jpg"
+ },
+ {
+  "no": "634",
+  "dream": "123",
+  "key": "letphawar",
+  "my": "လက်ဖဝါး",
+  "en": "Palm",
+  "th": "ฝ่ามือ",
+  "image": "letphawar_634.jpg"
+ },
+ {
+  "no": "635",
+  "dream": "125",
+  "key": "myint",
+  "my": "မျှစ်",
+  "en": "Bamboo shoot",
+  "th": "หน่อไม้",
+  "image": "myint_635.jpg"
+ },
+ {
+  "no": "636",
+  "dream": "133",
+  "key": "narkup",
+  "my": "နားကပ်",
+  "en": "Earring",
+  "th": "ตุ้มหู",
+  "image": "narkup_636.jpg"
+ },
+ {
+  "no": "637",
+  "dream": "105",
+  "key": "kawphiyay",
+  "my": "ကောက်ဖီရည်",
+  "en": "Coffee",
+  "th": "กาแฟ",
+  "image": "kawphiyay_637.jpg"
+ },
+ {
+  "no": "638",
+  "dream": "117",
+  "key": "lyetsitmee",
+  "my": "လျပ်စစ်မီး",
+  "en": "Electricity",
+  "th": "ไฟฟ้า",
+  "image": "lyetsitmee_638.jpg"
+ },
+ {
+  "no": "639",
+  "dream": "104",
+  "key": "poundmote",
+  "my": "ပေါင်မုန့်",
+  "en": "Bread",
+  "th": "ขนมปัง",
+  "image": "poundmote_639.jpg"
+ },
+ {
+  "no": "640",
+  "dream": "126",
+  "key": "tharpikekaung",
+  "my": "သားပိုက်ကောင်",
+  "en": "Kangaroo",
+  "th": "จิงโจ้",
+  "image": "tharpikekaung_640.jpg"
+ },
+ {
+  "no": "641",
+  "dream": "106",
+  "key": "linmawthee",
+  "my": "လိမ္မော်သီး",
+  "en": "Orange",
+  "th": "ส้ม",
+  "image": "linmawthee_641.jpg"
+ },
+ {
+  "no": "642",
+  "dream": "147",
+  "key": "byaing",
+  "my": "ဗျိုင်း",
+  "en": "Egret",
+  "th": "นกกระยาง",
+  "image": "byaing_642.jpg"
+ },
+ {
+  "no": "643",
+  "dream": "121",
+  "key": "saytanthok",
+  "my": "ဆေးတံသောက်",
+  "en": "Smoke pipe",
+  "th": "สูบไปป์",
+  "image": "saytanthok_643.jpg"
+ },
+ {
+  "no": "644",
+  "dream": "131",
+  "key": "sinswal",
+  "my": "ဆင်စွယ်",
+  "en": "Ivory",
+  "th": "งาช้าง",
+  "image": "sinswal_644.jpg"
+ },
+ {
+  "no": "645",
+  "dream": "101",
+  "key": "myetman",
+  "my": "မျက်မှန်",
+  "en": "Glasses",
+  "th": "แว่นตา",
+  "image": "myetman_645.jpg"
+ },
+ {
+  "no": "646",
+  "dream": "114",
+  "key": "athanarkhan",
+  "my": "အသနားခံ",
+  "en": "Beggar",
+  "th": "เรี่ยไร",
+  "image": "athanarkhan_646.jpg"
+ },
+ {
+  "no": "647",
+  "dream": "142",
+  "key": "pelnisae",
+  "my": "ပဲနီစေ့",
+  "en": "Red Bean",
+  "th": "ถั่วแดง",
+  "image": "pelnisae_647.jpg"
+ },
+ {
+  "no": "648",
+  "dream": "150",
+  "key": "chayhtok",
+  "my": "ခြေထောက်",
+  "en": "Legs",
+  "th": "ขา",
+  "image": "chayhtok_648.jpg"
+ },
+ {
+  "no": "649",
+  "dream": "130",
+  "key": "dokekaing",
+  "my": "တုတ်ကိုင်",
+  "en": "Holding stick",
+  "th": "ถือไม้",
+  "image": "dokekaing_649.jpg"
+ },
+ {
+  "no": "650",
+  "dream": "148",
+  "key": "tayarthukyi",
+  "my": "တရားသူကြီး",
+  "en": "Judge",
+  "th": "ผู้พิพากษา",
+  "image": "tayarthukyi_650.jpg"
+ },
+ {
+  "no": "651",
+  "dream": "195",
+  "key": "yaykukan",
+  "my": "ရေကူးကန်",
+  "en": "Swimming Pool",
+  "th": "สระน้ำ",
+  "image": "yaykukan_651.jpg"
+ },
+ {
+  "no": "652",
+  "dream": "153",
+  "key": "swekkyoe",
+  "my": "ဆွဲကြိုး",
+  "en": "Necklace",
+  "th": "สร้อยคอ",
+  "image": "swekkyoe_652.jpg"
+ },
+ {
+  "no": "653",
+  "dream": "152",
+  "key": "mokelokethu",
+  "my": "မုန့်လုပ်သူ",
+  "en": "Cake Maker",
+  "th": "ช่างทำขนม",
+  "image": "mokelokethu_653.jpg"
+ },
+ {
+  "no": "654",
+  "dream": "165",
+  "key": "thetdawsaunt",
+  "my": "သက်တော်စောင့်",
+  "en": "Guard",
+  "th": "อารักขา",
+  "image": "thetdawsaunt_654.jpg"
+ },
+ {
+  "no": "655",
+  "dream": "189",
+  "key": "sanpalpann",
+  "my": "စံပယ်ပန်း",
+  "en": "Jasmine",
+  "th": "ดอกมะลิ",
+  "image": "sanpalpann_655.jpg"
+ },
+ {
+  "no": "656",
+  "dream": "191",
+  "key": "kandarko",
+  "my": "ခန္ဓာကိုယ်",
+  "en": "Body",
+  "th": "ร่างกาย",
+  "image": "kandarko_656.jpg"
+ },
+ {
+  "no": "657",
+  "dream": "158",
+  "key": "noebuu",
+  "my": "နို့ဘူး",
+  "en": "Milk Bottle",
+  "th": "ขวดนม",
+  "image": "noebuu_657.jpg"
+ },
+ {
+  "no": "658",
+  "dream": "157",
+  "key": "thitsarpann",
+  "my": "သစ္စာပန်း",
+  "en": "Loyalty Flower",
+  "th": "ดอกสัจจะ",
+  "image": "thitsarpann_658.jpg"
+ },
+ {
+  "no": "659",
+  "dream": "187",
+  "key": "kwaythant",
+  "my": "ခွေးသန်း",
+  "en": "Fist",
+  "th": "ตัวหมัด",
+  "image": "kwaythant_659.jpg"
+ },
+ {
+  "no": "660",
+  "dream": "182",
+  "key": "thamardaw",
+  "my": "သမားတော်",
+  "en": "Physician",
+  "th": "แพทย์",
+  "image": "thamardaw_660.jpg"
+ },
+ {
+  "no": "661",
+  "dream": "177",
+  "key": "jetsin",
+  "my": "ကြက်ဆင်",
+  "en": "Turkey",
+  "th": "ไก่งวง",
+  "image": "jetsin_661.jpg"
+ },
+ {
+  "no": "662",
+  "dream": "169",
+  "key": "noe",
+  "my": "နို့",
+  "en": "Breast",
+  "th": "เต้านม",
+  "image": "noe_662.jpg"
+ },
+ {
+  "no": "663",
+  "dream": "179",
+  "key": "saut",
+  "my": "ဆောက်",
+  "en": "Chisel",
+  "th": "สิ่ว",
+  "image": "saut_663.jpg"
+ },
+ {
+  "no": "664",
+  "dream": "196",
+  "key": "tadaungsit",
+  "my": "တတောင်ဆစ်",
+  "en": "Elbow",
+  "th": "ศอก",
+  "image": "tadaungsit_664.jpg"
+ },
+ {
+  "no": "665",
+  "dream": "154",
+  "key": "oakkyoatmoe",
+  "my": "အုပ်ကြွပ်မိုး",
+  "en": "Roof tile",
+  "th": "กระเบื้องหลังคา",
+  "image": "oakkyoatmoe_665.jpg"
+ },
+ {
+  "no": "666",
+  "dream": "174",
+  "key": "pelpyar",
+  "my": "ပဲပြား",
+  "en": "Bean",
+  "th": "ถั่ว",
+  "image": "pelpyar_666.jpg"
+ },
+ {
+  "no": "667",
+  "dream": "188",
+  "key": "meekhoetaing",
+  "my": "မီးခိုးတိုင်",
+  "en": "Smoke Tower",
+  "th": "ควัยไฟ",
+  "image": "meekhoetaing_667.jpg"
+ },
+ {
+  "no": "668",
+  "dream": "178",
+  "key": "thandone",
+  "my": "သံတုံး",
+  "en": "Iron rod",
+  "th": "แท่งเหล็ก",
+  "image": "thandone_668.jpg"
+ },
+ {
+  "no": "669",
+  "dream": "162",
+  "key": "chochin",
+  "my": "ချိုချဥ်",
+  "en": "Candy",
+  "th": "ลูกอม",
+  "image": "chochin_669.jpg"
+ },
+ {
+  "no": "670",
+  "dream": "172",
+  "key": "ngetpyan",
+  "my": "ငှက်ပျံ",
+  "en": "Flying bird",
+  "th": "นกบิน",
+  "image": "ngetpyan_670.jpg"
+ },
+ {
+  "no": "671",
+  "dream": "193",
+  "key": "jettaung",
+  "my": "ကြက်တောင်",
+  "en": "Shuttle",
+  "th": "ลูกขนไก่",
+  "image": "jettaung_671.jpg"
+ },
+ {
+  "no": "672",
+  "dream": "170",
+  "key": "kharpartkhong",
+  "my": "ခါးပတ်ခေါင်း",
+  "en": "Belt head",
+  "th": "หัวเข็มขัด",
+  "image": "kharpartkhong_672.jpg"
+ },
+ {
+  "no": "673",
+  "dream": "184",
+  "key": "satkamal",
+  "my": "ဆပ်ကပ်မယ်",
+  "en": "Ballet",
+  "th": "นักบัลเล่ต์",
+  "image": "satkamal_673.jpg"
+ },
+ {
+  "no": "674",
+  "dream": "166",
+  "key": "mainma",
+  "my": "မိန်းမ",
+  "en": "Woman",
+  "th": "ผู้หญิง",
+  "image": "mainma_674.jpg"
+ },
+ {
+  "no": "675",
+  "dream": "185",
+  "key": "htaineshoepin",
+  "my": "ထင်းရှူးပင်",
+  "en": "Pine",
+  "th": "ต้นสน",
+  "image": "htaineshoepin_675.jpg"
+ },
+ {
+  "no": "676",
+  "dream": "190",
+  "key": "kyelthee",
+  "my": "ကြယ်သီး",
+  "en": "Button",
+  "th": "กระดุม",
+  "image": "kyelthee_676.jpg"
+ },
+ {
+  "no": "677",
+  "dream": "161",
+  "key": "akywaytaung",
+  "my": "အကြွေးတောင်း",
+  "en": "Debt Collector",
+  "th": "ทวงหนี้",
+  "image": "akywaytaung_677.jpg"
+ },
+ {
+  "no": "678",
+  "dream": "168",
+  "key": "chinthae",
+  "my": "ခြင်္သေ့နက်",
+  "en": "Black lion",
+  "th": "สิงโตดำ",
+  "image": "chinthae_678.jpg"
+ },
+ {
+  "no": "679",
+  "dream": "163",
+  "key": "war",
+  "my": "ဝါး",
+  "en": "Bamboo",
+  "th": "ไม้ไผ่",
+  "image": "war_679.jpg"
+ },
+ {
+  "no": "680",
+  "dream": "199",
+  "key": "betmintan",
+  "my": "ဘက်မင်တံ",
+  "en": "Badminton",
+  "th": "แบดมินตัน",
+  "image": "betmintan_680.jpg"
+ },
+ {
+  "no": "681",
+  "dream": "194",
+  "key": "thaingkasarr",
+  "my": "သိုင်းကစား",
+  "en": "Boxing practice",
+  "th": "ซ้อมมวย",
+  "image": "thaingkasar_681.jpg"
+ },
+ {
+  "no": "682",
+  "dream": "160",
+  "key": "pelsaes",
+  "my": "ပဲစေ့",
+  "en": "Bean Seed",
+  "th": "เมล็ดถั่ว",
+  "image": "pelsae_682.jpg"
+ },
+ {
+  "no": "683",
+  "dream": "186",
+  "key": "oocho",
+  "my": "ဦးချို",
+  "en": "Horn",
+  "th": "เขา",
+  "image": "oocho_683.jpg"
+ },
+ {
+  "no": "684",
+  "dream": "173",
+  "key": "ngetkyarr",
+  "my": "ငှက်ကြား",
+  "en": "Peacock",
+  "th": "นกกระจีบ",
+  "image": "ngetkyarr_684.jpg"
+ },
+ {
+  "no": "685",
+  "dream": "175",
+  "key": "pannkhanig",
+  "my": "ပန်းခိုင်",
+  "en": "Bouquet",
+  "th": "ช่อดอกไม้",
+  "image": "pannkhanig_685.jpg"
+ },
+ {
+  "no": "686",
+  "dream": "183",
+  "key": "panndakar",
+  "my": "ပန်းဒကာ",
+  "en": "Deacon",
+  "th": "มัคทายก",
+  "image": "panndakar_686.jpg"
+ },
+ {
+  "no": "687",
+  "dream": "159",
+  "key": "ayoe",
+  "my": "အရိုး",
+  "en": "Bone",
+  "th": "กระดูก",
+  "image": "ayoe_687.jpg"
+ },
+ {
+  "no": "688",
+  "dream": "167",
+  "key": "tankharsaunt",
+  "my": "တံခါးစောင့်",
+  "en": "Gatekeeper",
+  "th": "เฝ้าประตู",
+  "image": "tankharsaunt_688.jpg"
+ },
+ {
+  "no": "689",
+  "dream": "155",
+  "key": "khwayhlaungeain",
+  "my": "ခွေးလှောင်အိမ်",
+  "en": "Dog kennel",
+  "th": "คอกหมา",
+  "image": "khwayhlaungeain_689.jpg"
+ },
+ {
+  "no": "690",
+  "dream": "176",
+  "key": "mingalapar",
+  "my": "မင်္ဂလာပါ",
+  "en": "Hello",
+  "th": "สวัสดี",
+  "image": "mingalapar_690.jpg"
+ },
+ {
+  "no": "691",
+  "dream": "156",
+  "key": "shintt",
+  "my": "ရှဥ့်",
+  "en": "Squirrel",
+  "th": "กระรอก",
+  "image": "shint_691.jpg"
+ },
+ {
+  "no": "692",
+  "dream": "197",
+  "key": "ashonepay",
+  "my": "အရှူံးပေး",
+  "en": "Loser",
+  "th": "ผู้แพ้",
+  "image": "ashonepay_692.jpg"
+ },
+ {
+  "no": "693",
+  "dream": "171",
+  "key": "ngarthitar",
+  "my": "ငါးသေတ္တာ",
+  "en": "Canned fish",
+  "th": "ปลากระปอง",
+  "image": "ngarthitar_693.jpg"
+ },
+ {
+  "no": "694",
+  "dream": "181",
+  "key": "tohucho",
+  "my": "တိုဟူးချို",
+  "en": "Tofu",
+  "th": "เต้าหู้",
+  "image": "tohucho_694.jpg"
+ },
+ {
+  "no": "695",
+  "dream": "151",
+  "key": "kinsaunt",
+  "my": "ကင်းစောင့်",
+  "en": "Watchman",
+  "th": "ยาม",
+  "image": "kinsaunt_695.jpg"
+ },
+ {
+  "no": "696",
+  "dream": "164",
+  "key": "ainkwetaintkyi",
+  "my": "အင်းကွက်အင်္ကျီ",
+  "en": "Talisman shirt",
+  "th": "เสื้อยันต์",
+  "image": "ainkwetaintkyi_696.jpg"
+ },
+ {
+  "no": "697",
+  "dream": "192",
+  "key": "jin",
+  "my": "ဂျင်",
+  "en": "Gin",
+  "th": "ลูกข่าง",
+  "image": "jin_697.jpg"
+ },
+ {
+  "no": "698",
+  "dream": "200",
+  "key": "moekyoenat",
+  "my": "မိုးကြိုးနတ်",
+  "en": "Lightning god",
+  "th": "เทพฟ้าผ่า",
+  "image": "moekyoenat_698.jpg"
+ },
+ {
+  "no": "699",
+  "dream": "180",
+  "key": "ayetkwet",
+  "my": "အရက်ခွက်",
+  "en": "Wine Glass",
+  "th": "แก้วเหล้า",
+  "image": "ayetkwet_699.jpg"
+ },
+ {
+  "no": "700",
+  "dream": "198",
+  "key": "thalelthee",
+  "my": "သလဲသီး",
+  "en": "Ruby",
+  "th": "ทับทิม",
+  "image": "thalelthee_700.jpg"
+ },
+ {
+  "no": "701",
+  "dream": "245",
+  "key": "sayliekpyong",
+  "my": "ဆေးလိပ်ပြောင်း",
+  "en": "Tobacco pipe",
+  "th": "กล้องยาสูบ",
+  "image": "sayliekpyong_701.jpg"
+ },
+ {
+  "no": "702",
+  "dream": "203",
+  "key": "ngarshint",
+  "my": "ငါးရှဥ့်",
+  "en": "Eel",
+  "th": "ปลาไหล",
+  "image": "ngarshint_702.jpg"
+ },
+ {
+  "no": "703",
+  "dream": "202",
+  "key": "kowonsaung",
+  "my": "ကိုယ်ဝန်ဆောင်",
+  "en": "Pregnant",
+  "th": "คนท้อง",
+  "image": "kowonsaung_703.jpg"
+ },
+ {
+  "no": "704",
+  "dream": "215",
+  "key": "sarphart",
+  "my": "စာဖတ်",
+  "en": "Read a book",
+  "th": "อ่านหนังสือ",
+  "image": "sarphart_704.jpg"
+ },
+ {
+  "no": "705",
+  "dream": "239",
+  "key": "tansake",
+  "my": "တံဆိပ်",
+  "en": "Stamp",
+  "th": "ตรา",
+  "image": "tansake_705.jpg"
+ },
+ {
+  "no": "706",
+  "dream": "241",
+  "key": "ookhong",
+  "my": "ဦးခေါင်း",
+  "en": "Head",
+  "th": "ศีรษะ",
+  "image": "ookhong_706.jpg"
+ },
+ {
+  "no": "707",
+  "dream": "208",
+  "key": "saunglyarthee",
+  "my": "စောင်းလျားသီး",
+  "en": "Starfruit",
+  "th": "มะเฟือง",
+  "image": "saunglyarthee_707.jpg"
+ },
+ {
+  "no": "708",
+  "dream": "207",
+  "key": "pannyanant",
+  "my": "ပန်းရနံ့",
+  "en": "Flower scent",
+  "th": "กลิ่นดอกไม้",
+  "image": "pannyanant_708.jpg"
+ },
+ {
+  "no": "709",
+  "dream": "237",
+  "key": "ngonaythu",
+  "my": "ငိုနေသူ",
+  "en": "Crier",
+  "th": "ผู้ร้องไห้",
+  "image": "ngonaythu_709.jpg"
+ },
+ {
+  "no": "710",
+  "dream": "232",
+  "key": "saryay",
+  "my": "စာရေး",
+  "en": "Writing",
+  "th": "เขียนหนังสือ",
+  "image": "saryay_710.jpg"
+ },
+ {
+  "no": "711",
+  "dream": "227",
+  "key": "kyisan",
+  "my": "ကျဥ်ဆံ",
+  "en": "Bullet",
+  "th": "กระสุนปืน",
+  "image": "kyisan_711.jpg"
+ },
+ {
+  "no": "712",
+  "dream": "219",
+  "key": "yongma",
+  "my": "ယောင်းမ",
+  "en": "Spatula",
+  "th": "ตะหลิว",
+  "image": "yongma_712.jpg"
+ },
+ {
+  "no": "713",
+  "dream": "229",
+  "key": "myetnar",
+  "my": "မျက်နှာ",
+  "en": "Face",
+  "th": "ใบหน้า",
+  "image": "myetnar_713.jpg"
+ },
+ {
+  "no": "714",
+  "dream": "246",
+  "key": "saneight",
+  "my": "ဆန်အိတ်",
+  "en": "Rice sack",
+  "th": "กระสอบข้าวสาร",
+  "image": "saneight_714.jpg"
+ },
+ {
+  "no": "715",
+  "dream": "204",
+  "key": "khatzaun",
+  "my": "ခပ်ဇွန်း",
+  "en": "Ladle",
+  "th": "ทับพี",
+  "image": "khatzaun_715.jpg"
+ },
+ {
+  "no": "716",
+  "dream": "224",
+  "key": "zhaine",
+  "my": "မှိန်း",
+  "en": "Harpoon",
+  "th": "ฉมวก",
+  "image": "zhaine_716.jpg"
+ },
+ {
+  "no": "717",
+  "dream": "238",
+  "key": "pannchycar",
+  "my": "ပန်းချီကား",
+  "en": "Painting",
+  "th": "รูปวาด",
+  "image": "pannchycar_717.jpg"
+ },
+ {
+  "no": "718",
+  "dream": "228",
+  "key": "kyanchong",
+  "my": "ကြံချောင်း",
+  "en": "Sugarcane",
+  "th": "ต้นอ้อย",
+  "image": "kyanchong_718.jpg"
+ },
+ {
+  "no": "719",
+  "dream": "212",
+  "key": "mankuthee",
+  "my": "မံကူသီး",
+  "en": "Fruit",
+  "th": "ผลไม้",
+  "image": "mankuthee_719.jpg"
+ },
+ {
+  "no": "720",
+  "dream": "222",
+  "key": "cheerythee",
+  "my": "ချယ်ရီပန်း",
+  "en": "Cherry blossom",
+  "th": "ดอกชากุระ",
+  "image": "cheerythee_720.jpg"
+ },
+ {
+  "no": "721",
+  "dream": "243",
+  "key": "jethinkharthee",
+  "my": "ကြက်ဟင်းခါးသီး",
+  "en": "Bitter Melon",
+  "th": "มะระ",
+  "image": "jethinkharthee_721.jpg"
+ },
+ {
+  "no": "722",
+  "dream": "220",
+  "key": "ajeanthar",
+  "my": "အကျဥ်းသား",
+  "en": "Prisoner",
+  "th": "นักโทษ",
+  "image": "ajeanthar_722.jpg"
+ },
+ {
+  "no": "723",
+  "dream": "234",
+  "key": "saythal",
+  "my": "စျေးသည်",
+  "en": "Cloth Vendor",
+  "th": "คนขายผ้า",
+  "image": "saythal_723.jpg"
+ },
+ {
+  "no": "724",
+  "dream": "216",
+  "key": "yinhtoe",
+  "my": "ရင်ထိုး",
+  "en": "Brooch",
+  "th": "เข็มกลัด",
+  "image": "yinhtoe_724.jpg"
+ },
+ {
+  "no": "725",
+  "dream": "235",
+  "key": "sibone",
+  "my": "ဆီပုံး",
+  "en": "Oil Drum",
+  "th": "ปี๊บน้ำมัน",
+  "image": "sibone_725.jpg"
+ },
+ {
+  "no": "726",
+  "dream": "240",
+  "key": "ngwedainkar",
+  "my": "ငွေဒင်္ဂါး",
+  "en": "Coin",
+  "th": "เงินเหรียญ",
+  "image": "ngwedainkar_726.jpg"
+ },
+ {
+  "no": "727",
+  "dream": "211",
+  "key": "parsart",
+  "my": "ပါးစပ်",
+  "en": "Mouth",
+  "th": "ปาก",
+  "image": "parsart_727.jpg"
+ },
+ {
+  "no": "728",
+  "dream": "218",
+  "key": "clit",
+  "my": "ကလစ်",
+  "en": "Pin",
+  "th": "เข็มหมุด",
+  "image": "clit_728.jpg"
+ },
+ {
+  "no": "729",
+  "dream": "213",
+  "key": "sanhtoepoe",
+  "my": "ဆန်ထိုးပိုး",
+  "en": "Rice Moth",
+  "th": "Rice Moth",
+  "image": "sanhtoepoe_729.jpg"
+ },
+ {
+  "no": "730",
+  "dream": "249",
+  "key": "tawsauntnat",
+  "my": "တောစောင့်နတ်",
+  "en": "Forest Ghost",
+  "th": "ผีป่า",
+  "image": "tawsauntnat_730.jpg"
+ },
+ {
+  "no": "731",
+  "dream": "244",
+  "key": "setchoke",
+  "my": "စက်ချုပ်",
+  "en": "Sewing",
+  "th": "เย็บผ้า",
+  "image": "setchoke_731.jpg"
+ },
+ {
+  "no": "732",
+  "dream": "210",
+  "key": "pannkan",
+  "my": "ပန်းပန်",
+  "en": "Wear the flower",
+  "th": "สวมดอกไม้",
+  "image": "pannkan_732.jpg"
+ },
+ {
+  "no": "733",
+  "dream": "236",
+  "key": "ngwesaytan",
+  "my": "ငွေဆေးတံ",
+  "en": "Silver Pipe",
+  "th": "ไปป์เงิน",
+  "image": "ngwesaytan_733.jpg"
+ },
+ {
+  "no": "734",
+  "dream": "223",
+  "key": "minturnsin",
+  "my": "မင်းထမ်းစင်",
+  "en": "Souvenir",
+  "th": "เกี้ยว",
+  "image": "minturnsin_734.jpg"
+ },
+ {
+  "no": "735",
+  "dream": "225",
+  "key": "dartbuu",
+  "my": "ဓါတ်ဗူး",
+  "en": "Vacuum flask",
+  "th": "กระติกน้ำร้อน",
+  "image": "dartbuu_735.jpg"
+ },
+ {
+  "no": "736",
+  "dream": "233",
+  "key": "ngun",
+  "my": "ငန်း",
+  "en": "Goose",
+  "th": "ห่าน",
+  "image": "ngun_736.jpg"
+ },
+ {
+  "no": "737",
+  "dream": "209",
+  "key": "ninjarthaing",
+  "my": "နင်ဂျာသိုင်း",
+  "en": "Ninja",
+  "th": "นินจา",
+  "image": "ninjarthaing_737.jpg"
+ },
+ {
+  "no": "738",
+  "dream": "217",
+  "key": "shirteainkyi",
+  "my": "ရှပ်အင်္ကျီလက်ရှည်",
+  "en": "Long-sleeved shirt",
+  "th": "เสื้อแขนยาว",
+  "image": "shirteainkyi_738.jpg"
+ },
+ {
+  "no": "739",
+  "dream": "205",
+  "key": "thitkhwapann",
+  "my": "သစ်ခွပန်း",
+  "en": "Orchid",
+  "th": "กล้วยไม้",
+  "image": "thitkhwapann_739.jpg"
+ },
+ {
+  "no": "740",
+  "dream": "226",
+  "key": "pharmhetse",
+  "my": "ဖားမျက်စိ",
+  "en": "Frog eyes",
+  "th": "ตากบ",
+  "image": "pharmhetse_740.jpg"
+ },
+ {
+  "no": "741",
+  "dream": "206",
+  "key": "lechyar",
+  "my": "လဲချား",
+  "en": "Trolley",
+  "th": "รถลาก",
+  "image": "lechyar_741.jpg"
+ },
+ {
+  "no": "742",
+  "dream": "247",
+  "key": "kawsaw",
+  "my": "ကော်ဇော",
+  "en": "Carpet",
+  "th": "พรม",
+  "image": "kawsaw_742.jpg"
+ },
+ {
+  "no": "743",
+  "dream": "221",
+  "key": "darswelthu",
+  "my": "ဓားဆွဲသူ",
+  "en": "Remove sword",
+  "th": "ถอดดาบ",
+  "image": "darswelthu_743.jpg"
+ },
+ {
+  "no": "744",
+  "dream": "231",
+  "key": "myinkhwaryuet",
+  "my": "မြင်းစာခွက်",
+  "en": "Horse grass",
+  "th": "รางหญ้าม้า",
+  "image": "myinkhwaryuet_744.jpg"
+ },
+ {
+  "no": "745",
+  "dream": "201",
+  "key": "thwar",
+  "my": "သွား",
+  "en": "Teeth",
+  "th": "ฟัน",
+  "image": "thwar_745.jpg"
+ },
+ {
+  "no": "746",
+  "dream": "214",
+  "key": "ngaroaksaung",
+  "my": "ငါးအုပ်ဆောင်း",
+  "en": "Fish trap",
+  "th": "สุ่มปลา",
+  "image": "ngaroaksaung_746.jpg"
+ },
+ {
+  "no": "747",
+  "dream": "242",
+  "key": "kyosarthu",
+  "my": "ကြိုးစားသူ",
+  "en": "Hardworking",
+  "th": "ขยัน",
+  "image": "kyosarthu_747.jpg"
+ },
+ {
+  "no": "748",
+  "dream": "250",
+  "key": "garwun",
+  "my": "ဂါဝန်",
+  "en": "Skirt",
+  "th": "กระโปรง",
+  "image": "garwun_748.jpg"
+ },
+ {
+  "no": "749",
+  "dream": "230",
+  "key": "khamauk",
+  "my": "ခမောက်",
+  "en": "Hornb",
+  "th": "งอบ",
+  "image": "khamauk_749.jpg"
+ },
+ {
+  "no": "750",
+  "dream": "248",
+  "key": "buusin",
+  "my": "ဗူးစင်",
+  "en": "Gourd shelf",
+  "th": "ข่าน้ำเต้า",
+  "image": "buusin_750.jpg"
+ },
+ {
+  "no": "751",
+  "dream": "295",
+  "key": "meeyahtarthanlan",
+  "my": "မီးရထားသံလမ်း",
+  "en": "Train tracks",
+  "th": "รางรถไฟ",
+  "image": "meeyahtarthanlan_751.jpg"
+ },
+ {
+  "no": "752",
+  "dream": "253",
+  "key": "lupyine",
+  "my": "လူပျင်း",
+  "en": "Lazy person",
+  "th": "คนขี้เกียจ",
+  "image": "lupyine_752.jpg"
+ },
+ {
+  "no": "753",
+  "dream": "252",
+  "key": "sarrkhwet",
+  "my": "ဆားခွက်",
+  "en": "Salt jar",
+  "th": "กระปุกเกลือ",
+  "image": "sarrkhwet_753.jpg"
+ },
+ {
+  "no": "754",
+  "dream": "265",
+  "key": "paukpyar",
+  "my": "ပေါက်ပြား",
+  "en": "Hoe",
+  "th": "จอบ",
+  "image": "paukpyar_754.jpg"
+ },
+ {
+  "no": "755",
+  "dream": "289",
+  "key": "ngoneu",
+  "my": "ငုံးဥ",
+  "en": "Quail egg",
+  "th": "ไข่นกกระทา",
+  "image": "ngoneu_755.jpg"
+ },
+ {
+  "no": "756",
+  "dream": "291",
+  "key": "ownpin",
+  "my": "အုန်းပင်",
+  "en": "Coconut Tree",
+  "th": "ต้นมะพร้าว",
+  "image": "ownpin_756.jpg"
+ },
+ {
+  "no": "757",
+  "dream": "258",
+  "key": "myetsae",
+  "my": "မျက်စေ့",
+  "en": "Eye",
+  "th": "ดวงตา",
+  "image": "myetsae_757.jpg"
+ },
+ {
+  "no": "758",
+  "dream": "257",
+  "key": "pannowle",
+  "my": "ပန်းအိုး",
+  "en": "Vase",
+  "th": "แจกัน",
+  "image": "pannowle_758.jpg"
+ },
+ {
+  "no": "759",
+  "dream": "287",
+  "key": "hlankaing",
+  "my": "လှံကိုင်",
+  "en": "Holding spear",
+  "th": "ถือหอก",
+  "image": "hlankaing_759.jpg"
+ },
+ {
+  "no": "760",
+  "dream": "282",
+  "key": "pannsikeowle",
+  "my": "ပန်းစိုက်အိုး",
+  "en": "Flower Pot",
+  "th": "กระถางดอกไม้",
+  "image": "pannsikeowle_760.jpg"
+ },
+ {
+  "no": "761",
+  "dream": "277",
+  "key": "meedoke",
+  "my": "မီးတုတ်",
+  "en": "Fire Stick",
+  "th": "ไม้ไฟ",
+  "image": "meedoke_761.jpg"
+ },
+ {
+  "no": "762",
+  "dream": "269",
+  "key": "suann",
+  "my": "စွန်",
+  "en": "Hawk",
+  "th": "เหยิ่ยว",
+  "image": "suan_762.jpg"
+ },
+ {
+  "no": "763",
+  "dream": "279",
+  "key": "narywet",
+  "my": "နားရွက်",
+  "en": "Ear",
+  "th": "ใบหู",
+  "image": "narywet_763.jpg"
+ },
+ {
+  "no": "764",
+  "dream": "296",
+  "key": "liek",
+  "my": "လိပ်",
+  "en": "Turtle",
+  "th": "เต่า",
+  "image": "liek_764.jpg"
+ },
+ {
+  "no": "765",
+  "dream": "254",
+  "key": "kandamarpann",
+  "my": "ဂန္ဓမာပန်း",
+  "en": "Chrysanthemum flower",
+  "th": "ดอกเบญจมาศ",
+  "image": "kandamarpann_765.jpg"
+ },
+ {
+  "no": "766",
+  "dream": "274",
+  "key": "lannyonthu",
+  "my": "လမ်းညွှန်သူ",
+  "en": "Guide",
+  "th": "ผู้ชี้ทาง",
+  "image": "lannyonthu_766.jpg"
+ },
+ {
+  "no": "767",
+  "dream": "288",
+  "key": "meebaydokekhathal",
+  "my": "မီးဘေးဒုက္ခသည်",
+  "en": "Fire Disaster Victim",
+  "th": "ผู้ประสบภัยไฟไหม้",
+  "image": "meebaydokekhathal_767.jpg"
+ },
+ {
+  "no": "768",
+  "dream": "278",
+  "key": "tharafu",
+  "my": "သရဖူ",
+  "en": "Crown",
+  "th": "มงกุฎ",
+  "image": "tharafu_768.jpg"
+ },
+ {
+  "no": "769",
+  "dream": "262",
+  "key": "meenya",
+  "my": "မီးညှပ်",
+  "en": "Charcoal Tongs",
+  "th": "คีมคีบถ่าน",
+  "image": "meenyat_769.jpg"
+ },
+ {
+  "no": "770",
+  "dream": "272",
+  "key": "yaykuuwutsone",
+  "my": "ရေကူးဝတ်စုံ",
+  "en": "Swimsuit",
+  "th": "ชุดว่ายน้ำ",
+  "image": "yaykuuwutsone_770.jpg"
+ },
+ {
+  "no": "771",
+  "dream": "293",
+  "key": "poekaung",
+  "my": "ပိုးကောင်",
+  "en": "Insect",
+  "th": "แมลง",
+  "image": "poekaung_771.jpg"
+ },
+ {
+  "no": "772",
+  "dream": "270",
+  "key": "suatkel",
+  "my": "စွပ်ကျယ်",
+  "en": "Boat Neckline",
+  "th": "เสื้อคอกระเช้า",
+  "image": "suatkel_772.jpg"
+ },
+ {
+  "no": "773",
+  "dream": "284",
+  "key": "tansaketone",
+  "my": "တံဆိပ်တုံး",
+  "en": "Stamp",
+  "th": "ตราประทับ",
+  "image": "tansaketone_773.jpg"
+ },
+ {
+  "no": "774",
+  "dream": "266",
+  "key": "sightcar",
+  "my": "ဆိုက်ကား",
+  "en": "Tricycles",
+  "th": "สามล้อถึบ",
+  "image": "sightcar_774.jpg"
+ },
+ {
+  "no": "775",
+  "dream": "285",
+  "key": "alan",
+  "my": "အလံ",
+  "en": "Flag",
+  "th": "ธง",
+  "image": "alan_775.jpg"
+ },
+ {
+  "no": "776",
+  "dream": "290",
+  "key": "narkhong",
+  "my": "နှာခေါင်း",
+  "en": "Nose",
+  "th": "จมูก",
+  "image": "narkhong_776.jpg"
+ },
+ {
+  "no": "777",
+  "dream": "261",
+  "key": "pannwar",
+  "my": "ပန်းဝါ",
+  "en": "Yellow Flowers",
+  "th": "ดอกเหลือง",
+  "image": "pannwar_777.jpg"
+ },
+ {
+  "no": "778",
+  "dream": "268",
+  "key": "kyainchin",
+  "my": "ကြိမ်ခြင်း",
+  "en": "Rattan Baskets",
+  "th": "ตะกร้าหวาย",
+  "image": "kyainchin_778.jpg"
+ },
+ {
+  "no": "779",
+  "dream": "263",
+  "key": "satkueight",
+  "my": "စက္ကူအိတ်",
+  "en": "Paper Bags",
+  "th": "ถุงกระดาษ",
+  "image": "satkueight_779.jpg"
+ },
+ {
+  "no": "780",
+  "dream": "299",
+  "key": "amaelone",
+  "my": "အမဲလုံး",
+  "en": "Meatballs",
+  "th": "ลูกชิ้น",
+  "image": "amaelone_780.jpg"
+ },
+ {
+  "no": "781",
+  "dream": "294",
+  "key": "zarpannhtoe",
+  "my": "ဇာပန်းထိုး",
+  "en": "Strings of Flowers",
+  "th": "ร้อยดอกไม้",
+  "image": "zarpannhtoe_781.jpg"
+ },
+ {
+  "no": "782",
+  "dream": "260",
+  "key": "tansakek",
+  "my": "တံဆိပ်",
+  "en": "Brand",
+  "th": "ยี่ห้อ",
+  "image": "tansake_782.jpg"
+ },
+ {
+  "no": "783",
+  "dream": "286",
+  "key": "htanpoe",
+  "my": "ထမ်းပိုး",
+  "en": "Beams",
+  "th": "ไม้คาน",
+  "image": "htanpoe_783.jpg"
+ },
+ {
+  "no": "784",
+  "dream": "273",
+  "key": "shyar",
+  "my": "လျှာ",
+  "en": "Tongue",
+  "th": "ลิ้น",
+  "image": "shyar_784.jpg"
+ },
+ {
+  "no": "785",
+  "dream": "275",
+  "key": "darhlankaing",
+  "my": "ဓါးလှံကိုင်",
+  "en": "Holding a spear",
+  "th": "ผู้ถือหอก",
+  "image": "darhlankaing_785.jpg"
+ },
+ {
+  "no": "786",
+  "dream": "283",
+  "key": "tainkarneainkyi",
+  "my": "သင်္ကန်းအင်္ကျီ",
+  "en": "Angsa cloth",
+  "th": "ผ้าอังสะ",
+  "image": "tainkarneainkyi_786.jpg"
+ },
+ {
+  "no": "787",
+  "dream": "259",
+  "key": "kyatongwar",
+  "my": "ကြသောင်းဝါး",
+  "en": "Bamboo tree",
+  "th": "ต้นไผ่",
+  "image": "kyatongwar_787.jpg"
+ },
+ {
+  "no": "788",
+  "dream": "267",
+  "key": "warkonesae",
+  "my": "ဝါဂွမ်းစေ့",
+  "en": "Cotton seeds",
+  "th": "เมล็ดนุ่น",
+  "image": "warkonesae_788.jpg"
+ },
+ {
+  "no": "789",
+  "dream": "255",
+  "key": "soaknann",
+  "my": "စုပ်နမ်း",
+  "en": "Kiss",
+  "th": "จูบ",
+  "image": "soaknann_789.jpg"
+ },
+ {
+  "no": "790",
+  "dream": "276",
+  "key": "htarlekar",
+  "my": "သာလိကာ",
+  "en": "Magpie",
+  "th": "นกเอี้ยง",
+  "image": "htarlekar_790.jpg"
+ },
+ {
+  "no": "791",
+  "dream": "256",
+  "key": "kyarlaungeain",
+  "my": "ကျားလှောင်အိမ်",
+  "en": "Cage of Tiger",
+  "th": "คอกเสือ",
+  "image": "kyarlaungeain_791.jpg"
+ },
+ {
+  "no": "792",
+  "dream": "297",
+  "key": "ketsetkway",
+  "my": "ကက်ဆက်ခွေ",
+  "en": "Tape Cassette",
+  "th": "ตลับเทป",
+  "image": "ketsetkway_792.jpg"
+ },
+ {
+  "no": "793",
+  "dream": "271",
+  "key": "dyesu",
+  "my": "ဒိုင်းဆု",
+  "en": "Award shield",
+  "th": "โล่รางวัล",
+  "image": "dyesu_793.jpg"
+ },
+ {
+  "no": "794",
+  "dream": "281",
+  "key": "phayetheesae",
+  "my": "ဖရဲသီးစေ့",
+  "en": "Watermelon seeds",
+  "th": "เมล็ดแตงโม",
+  "image": "phayetheesae_794.jpg"
+ },
+ {
+  "no": "795",
+  "dream": "251",
+  "key": "ngwesetku",
+  "my": "ငွေစက္ကူ",
+  "en": "Banknotes",
+  "th": "ธนบัร",
+  "image": "ngwesetku_795.jpg"
+ },
+ {
+  "no": "796",
+  "dream": "264",
+  "key": "akarizmin",
+  "my": "ဧကရာဇ်မင်း",
+  "en": "Emperor",
+  "th": "จักรพรรดิ",
+  "image": "akarizmin_796.jpg"
+ },
+ {
+  "no": "797",
+  "dream": "292",
+  "key": "soundbox",
+  "my": "ဆောင်းဘောက်",
+  "en": "Speaker",
+  "th": "ลำโพง",
+  "image": "soundbox_797.jpg"
+ },
+ {
+  "no": "798",
+  "dream": "300",
+  "key": "warkone",
+  "my": "ဝါဂွမ်း",
+  "en": "Red Bean",
+  "th": "เมล็ดถั่วแดง",
+  "image": "warkone_798.jpg"
+ },
+ {
+  "no": "799",
+  "dream": "280",
+  "key": "sarphartt",
+  "my": "စာဖတ်",
+  "en": "Reading",
+  "th": "อ่านหนังสือ",
+  "image": "sarphart_799.jpg"
+ },
+ {
+  "no": "800",
+  "dream": "298",
+  "key": "areataing",
+  "my": "ဧရိယာတိုင်",
+  "en": "Antenna",
+  "th": "เสาอากาศ",
+  "image": "areataing_800.jpg"
+ },
+ {
+  "no": "801",
+  "dream": "345",
+  "key": "bwetyouthu",
+  "my": "ဘွဲ့ယူသူ",
+  "en": "Graduation",
+  "th": "รับปริญญา",
+  "image": "bwetyouthu_801.jpg"
+ },
+ {
+  "no": "802",
+  "dream": "303",
+  "key": "simeekhwet",
+  "my": "ဆီမီးခွက်",
+  "en": "Oil lamp",
+  "th": "ตะเกียงน้ำมัน",
+  "image": "simeekhwet_802.jpg"
+ },
+ {
+  "no": "803",
+  "dream": "302",
+  "key": "akyanhtokethu",
+  "my": "အကြံထုတ်သူ",
+  "en": "Idea maker",
+  "th": "ผู้สร้างสรรค์ไอเดีย",
+  "image": "akyanhtokethu_803.jpg"
+ },
+ {
+  "no": "804",
+  "dream": "315",
+  "key": "bawlone",
+  "my": "ဘောလုံး",
+  "en": "Ball",
+  "th": "บอล",
+  "image": "bawlone_804.jpg"
+ },
+ {
+  "no": "805",
+  "dream": "339",
+  "key": "hnemokethu",
+  "my": "နှဲမှုတ်သူ",
+  "en": "Flute player",
+  "th": "ผู้เป่าปี่",
+  "image": "hnemokethu_805.jpg"
+ },
+ {
+  "no": "806",
+  "dream": "341",
+  "key": "thabarpatee",
+  "my": "သဘာပတိ",
+  "en": "Chairman",
+  "th": "ประธาน",
+  "image": "thabarpatee_806.jpg"
+ },
+ {
+  "no": "807",
+  "dream": "308",
+  "key": "kyarrmyee",
+  "my": "ကျားမြီး",
+  "en": "Tiger tail",
+  "th": "หางเสือ",
+  "image": "kyarrmyee_807.jpg"
+ },
+ {
+  "no": "808",
+  "dream": "307",
+  "key": "satesoethu",
+  "my": "စိတ်ဆိုးသူ",
+  "en": "Angry person",
+  "th": "คนโกรธ",
+  "image": "satesoethu_808.jpg"
+ },
+ {
+  "no": "809",
+  "dream": "337",
+  "key": "saymyint",
+  "my": "ဆေးမြစ်",
+  "en": "Herbs",
+  "th": "สมุนไพร",
+  "image": "saymyint_809.jpg"
+ },
+ {
+  "no": "810",
+  "dream": "332",
+  "key": "oaksong",
+  "my": "အုပ်ဆောင်း",
+  "en": "Food cover",
+  "th": "ฝาชี",
+  "image": "oaksong_810.jpg"
+ },
+ {
+  "no": "811",
+  "dream": "327",
+  "key": "lunar",
+  "my": "လူနာ",
+  "en": "Patient",
+  "th": "คนไข้",
+  "image": "lunar_811.jpg"
+ },
+ {
+  "no": "812",
+  "dream": "319",
+  "key": "htal",
+  "my": "ထယ်",
+  "en": "Plow",
+  "th": "ไถ",
+  "image": "htal_812.jpg"
+ },
+ {
+  "no": "813",
+  "dream": "329",
+  "key": "lethaenyut",
+  "my": "လက်သည်းညှပ်",
+  "en": "Nail clipper",
+  "th": "กรรไกรตัดเล็บ",
+  "image": "lethaenyut_813.jpg"
+ },
+ {
+  "no": "814",
+  "dream": "346",
+  "key": "thwarpoattan",
+  "my": "သွားပွတ်တံ",
+  "en": "Toothbrush",
+  "th": "แปรงสีฟัน",
+  "image": "thwarpoattan_814.jpg"
+ },
+ {
+  "no": "815",
+  "dream": "304",
+  "key": "alaymathu",
+  "my": "အလေးမသူ",
+  "en": "Weight lifter",
+  "th": "ผู้ยกน้ำหนัก",
+  "image": "alaymathu_815.jpg"
+ },
+ {
+  "no": "816",
+  "dream": "324",
+  "key": "myetnarthokepuwar",
+  "my": "မျက်နှာသုတ်ပုဝါ",
+  "en": "Towel",
+  "th": "ผ้าขนหนู",
+  "image": "myetnarthokepuwar_816.jpg"
+ },
+ {
+  "no": "817",
+  "dream": "338",
+  "key": "khwaychayhtaingkhon",
+  "my": "ခွေးခြေထိုင်ခုံ",
+  "en": "Chair",
+  "th": "เก้าอี้",
+  "image": "khwaychayhtaingkhon_817.jpg"
+ },
+ {
+  "no": "818",
+  "dream": "328",
+  "key": "chayphawarr",
+  "my": "ခြေဖဝါး",
+  "en": "Foot",
+  "th": "ฝ่าเท้า",
+  "image": "chayphawarr_818.jpg"
+ },
+ {
+  "no": "819",
+  "dream": "312",
+  "key": "phonekyi",
+  "my": "ဘုန်းကြီး",
+  "en": "Monk",
+  "th": "พระสงฆ์",
+  "image": "phonekyi_819.jpg"
+ },
+ {
+  "no": "820",
+  "dream": "322",
+  "key": "lyetsitmeethee",
+  "my": "လျှပ်စစ်မီးလုံး",
+  "en": "Lightbulb",
+  "th": "หลอดไฟ",
+  "image": "lyetsitmeethee_820.jpg"
+ },
+ {
+  "no": "821",
+  "dream": "343",
+  "key": "pyaetkhadain",
+  "my": "ပြက္ခဒိန်",
+  "en": "Calendar",
+  "th": "ปฏิทิน",
+  "image": "pyaetkhadain_821.jpg"
+ },
+ {
+  "no": "822",
+  "dream": "320",
+  "key": "thantadar",
+  "my": "သံတံတား",
+  "en": "Iron Bridge",
+  "th": "สะพานเหล็ก",
+  "image": "thantadar_822.jpg"
+ },
+ {
+  "no": "823",
+  "dream": "323",
+  "key": "amitekok",
+  "my": "အမှိုက်ကော်",
+  "en": "Dustpan",
+  "th": "ที่ตักขยะ",
+  "image": "amitekok_823.jpg"
+ },
+ {
+  "no": "824",
+  "dream": "335",
+  "key": "hninsipannh",
+  "my": "နှင်းဆီပန်း",
+  "en": "Rose",
+  "th": "ดอกกุหลาบ",
+  "image": "hninsipann_824.jpg"
+ },
+ {
+  "no": "825",
+  "dream": "333",
+  "key": "apyok",
+  "my": "အပျို",
+  "en": "Girl",
+  "th": "หญิงสาว",
+  "image": "apyo_825.jpg"
+ },
+ {
+  "no": "826",
+  "dream": "340",
+  "key": "mongngyinpin",
+  "my": "မုံညင်းပင်",
+  "en": "Cabbage",
+  "th": "ผักกาด",
+  "image": "mongngyinpin_826.jpg"
+ },
+ {
+  "no": "827",
+  "dream": "311",
+  "key": "thanchate",
+  "my": "သံချိတ်",
+  "en": "Hook",
+  "th": "ตะขอ",
+  "image": "thanchate_827.jpg"
+ },
+ {
+  "no": "828",
+  "dream": "318",
+  "key": "ywaybaw",
+  "my": "ရွေဘော်",
+  "en": "Turtle wood",
+  "th": "เต่าไม้",
+  "image": "ywaybaw_828.jpg"
+ },
+ {
+  "no": "829",
+  "dream": "313",
+  "key": "phayethee",
+  "my": "ဖရဲသီး",
+  "en": "Watermelon",
+  "th": "แตงโม",
+  "image": "phayethee_829.jpg"
+ },
+ {
+  "no": "830",
+  "dream": "349",
+  "key": "mokesate",
+  "my": "မုတ်ဆိတ်",
+  "en": "Beard",
+  "th": "เครา",
+  "image": "mokesate_830.jpg"
+ },
+ {
+  "no": "831",
+  "dream": "344",
+  "key": "layyinpyan",
+  "my": "လေယာဥ်ပျံ",
+  "en": "Airplane",
+  "th": "เครื่องบิน",
+  "image": "layyinpyan_831.jpg"
+ },
+ {
+  "no": "832",
+  "dream": "310",
+  "key": "jetthuyway",
+  "my": "ကြက်တူရွေး",
+  "en": "Parrot",
+  "th": "นกแก้ว",
+  "image": "jetthuyway_832.jpg"
+ },
+ {
+  "no": "833",
+  "dream": "336",
+  "key": "pyaetanzar",
+  "my": "ပြည့်တန်ဆာ",
+  "en": "Prostitute",
+  "th": "โสเภญี",
+  "image": "pyaetanzar_833.jpg"
+ },
+ {
+  "no": "834",
+  "dream": "316",
+  "key": "setbee",
+  "my": "စက်ဘီး",
+  "en": "Bicycle",
+  "th": "จักรยาน",
+  "image": "setbee_834.jpg"
+ },
+ {
+  "no": "835",
+  "dream": "325",
+  "key": "cardkyay",
+  "my": "ကတ်ကြေး",
+  "en": "Scissors",
+  "th": "กรรไกร",
+  "image": "cardkyay_835.jpg"
+ },
+ {
+  "no": "836",
+  "dream": "334",
+  "key": "thitmyit",
+  "my": "သစ်မြစ်",
+  "en": "Roots",
+  "th": "รากไม้",
+  "image": "thitmyit_836.jpg"
+ },
+ {
+  "no": "837",
+  "dream": "309",
+  "key": "zarbawle",
+  "my": "ဇာဘော်လီ",
+  "en": "Bras",
+  "th": "เสื้อยกทรง",
+  "image": "zarbawle_837.jpg"
+ },
+ {
+  "no": "838",
+  "dream": "317",
+  "key": "hlwathwarzoodar",
+  "my": "လွှသွားစူးဓါး",
+  "en": "Military knife",
+  "th": "มีดทหาร",
+  "image": "hlwathwarzoodar_838.jpg"
+ },
+ {
+  "no": "839",
+  "dream": "305",
+  "key": "letmong",
+  "my": "လက်မောင်း",
+  "en": "Arm",
+  "th": "แขน",
+  "image": "letmong_839.jpg"
+ },
+ {
+  "no": "840",
+  "dream": "326",
+  "key": "yaychoe",
+  "my": "ရေချိုး",
+  "en": "Bathing",
+  "th": "อาบน้ำ",
+  "image": "yaychoe_840.jpg"
+ },
+ {
+  "no": "841",
+  "dream": "306",
+  "key": "japanmal",
+  "my": "ဂျပန်မယ်",
+  "en": "Japanese girl",
+  "th": "หญิงญี่ปุ่น",
+  "image": "japanmal_841.jpg"
+ },
+ {
+  "no": "842",
+  "dream": "347",
+  "key": "nosetnarye",
+  "my": "နိုးစက်နာရီ",
+  "en": "Alarm Clock",
+  "th": "นาฬิกาปลุก",
+  "image": "nosetnarye_842.jpg"
+ },
+ {
+  "no": "843",
+  "dream": "321",
+  "key": "phaechut",
+  "my": "ဖဲချပ်",
+  "en": "Card",
+  "th": "ไพ่",
+  "image": "phaechut_843.jpg"
+ },
+ {
+  "no": "844",
+  "dream": "331",
+  "key": "thaepong",
+  "my": "သံပုံ",
+  "en": "Sand pile",
+  "th": "กองทราย",
+  "image": "thaepong_844.jpg"
+ },
+ {
+  "no": "845",
+  "dream": "301",
+  "key": "larr",
+  "my": "လား",
+  "en": "Mule",
+  "th": "ล่อ",
+  "image": "larr_845.jpg"
+ },
+ {
+  "no": "846",
+  "dream": "314",
+  "key": "pankar",
+  "my": "ပန်ကာ",
+  "en": "Fan",
+  "th": "พัดลม",
+  "image": "pankar_846.jpg"
+ },
+ {
+  "no": "847",
+  "dream": "342",
+  "key": "painu",
+  "my": "ပိန်းဥ",
+  "en": "Taro head",
+  "th": "หัวเผือก",
+  "image": "painu_847.jpg"
+ },
+ {
+  "no": "848",
+  "dream": "350",
+  "key": "zarganar",
+  "my": "ဇာဂနာ",
+  "en": "Tweezers",
+  "th": "แหนบ",
+  "image": "zarganar_848.jpg"
+ },
+ {
+  "no": "849",
+  "dream": "330",
+  "key": "awutshyaw",
+  "my": "အဝတ်လျှော်",
+  "en": "Washing clothes",
+  "th": "ซักผ้า",
+  "image": "awutshyaw_849.jpg"
+ },
+ {
+  "no": "850",
+  "dream": "348",
+  "key": "kyankhinhtan",
+  "my": "ကြမ်းခင်းထမ်း",
+  "en": "Carrying people",
+  "th": "คนแบกพื้น",
+  "image": "kyankhinhtan_850.jpg"
+ },
+ {
+  "no": "851",
+  "dream": "395",
+  "key": "taungtake",
+  "my": "တောင်ထိပ်",
+  "en": "Mountain Peak",
+  "th": "ยอดเขา",
+  "image": "taungtake_851.jpg"
+ },
+ {
+  "no": "852",
+  "dream": "353",
+  "key": "thelashin",
+  "my": "သီလရှင်",
+  "en": "Nun",
+  "th": "แม่ชี",
+  "image": "thelashin_852.jpg"
+ },
+ {
+  "no": "853",
+  "dream": "352",
+  "key": "narrywettwelkhwaymyyo",
+  "my": "နားရွက်တွဲခွေးမျိုး",
+  "en": "Short dog",
+  "th": "หมาเตี้ย",
+  "image": "narrywettwelkhwaymyyo_853.jpg"
+ },
+ {
+  "no": "854",
+  "dream": "365",
+  "key": "thanmo",
+  "my": "သံမှို",
+  "en": "Nail",
+  "th": "ตะปู",
+  "image": "thanmo_854.jpg"
+ },
+ {
+  "no": "855",
+  "dream": "389",
+  "key": "wettharchauk",
+  "my": "ဝက်သားခြောက်",
+  "en": "Dried Pork",
+  "th": "หมูแห้ง",
+  "image": "wettharchauk_855.jpg"
+ },
+ {
+  "no": "856",
+  "dream": "391",
+  "key": "awutchate",
+  "my": "အဝတ်ချိတ်",
+  "en": "Clothes hanger",
+  "th": "ไม้แขวนเสื้อ",
+  "image": "awutchate_856.jpg"
+ },
+ {
+  "no": "857",
+  "dream": "358",
+  "key": "hlebyee",
+  "my": "လှည်းဘီး",
+  "en": "Wheel",
+  "th": "ล้อรถ",
+  "image": "hlebyee_857.jpg"
+ },
+ {
+  "no": "858",
+  "dream": "357",
+  "key": "thinebaw",
+  "my": "သင်္ဘော",
+  "en": "Motorboat",
+  "th": "เรือยนต์",
+  "image": "thinebaw_858.jpg"
+ },
+ {
+  "no": "859",
+  "dream": "387",
+  "key": "eightsaungnarye",
+  "my": "အိပ်ဆောင်နာရီ",
+  "en": "Clock",
+  "th": "นาฬิกา",
+  "image": "eightsaungnarye_859.jpg"
+ },
+ {
+  "no": "860",
+  "dream": "382",
+  "key": "myinmyeethaine",
+  "my": "မြင်းမြီးသိုင်း",
+  "en": "Horsetail martial",
+  "th": "มวยหางม้า",
+  "image": "myinmyeethaine_860.jpg"
+ },
+ {
+  "no": "861",
+  "dream": "377",
+  "key": "letwaittharmarr",
+  "my": "လက်ဝှေ့သမား",
+  "en": "Boxer",
+  "th": "นักมวย",
+  "image": "letwaittharmarr_861.jpg"
+ },
+ {
+  "no": "862",
+  "dream": "369",
+  "key": "boedokekok",
+  "my": "ဘိုးတုတ်ကောက်",
+  "en": "Grandpa walking stick",
+  "th": "ปู่ไม้เท้า",
+  "image": "boedokekok_862.jpg"
+ },
+ {
+  "no": "863",
+  "dream": "379",
+  "key": "liekpyarmal",
+  "my": "လိပ်ပြာမယ်",
+  "en": "Miss Butterfly",
+  "th": "นางสาวผีเสื้อ",
+  "image": "liekpyarmal_863.jpg"
+ },
+ {
+  "no": "864",
+  "dream": "396",
+  "key": "pelpinpauk",
+  "my": "ပဲပင်ပေါက်",
+  "en": "Bean sprout",
+  "th": "ถั่วงอก",
+  "image": "pelpinpauk_864.jpg"
+ },
+ {
+  "no": "865",
+  "dream": "354",
+  "key": "sayawonma",
+  "my": "ဆရာဝန်မ",
+  "en": "Female Doctor",
+  "th": "แพทย์หญิง",
+  "image": "sayawonma_865.jpg"
+ },
+ {
+  "no": "866",
+  "dream": "374",
+  "key": "paung",
+  "my": "ပေါင်",
+  "en": "Leg",
+  "th": "ขา",
+  "image": "paung_866.jpg"
+ },
+ {
+  "no": "867",
+  "dream": "388",
+  "key": "ngarrmyarrchate",
+  "my": "ငါးမျှားချိတ်",
+  "en": "Fishhook",
+  "th": "ตะยอเบ็ด",
+  "image": "ngarrmyarrchate_867.jpg"
+ },
+ {
+  "no": "868",
+  "dream": "378",
+  "key": "wisimoke",
+  "my": "ဝီစီမှုတ်",
+  "en": "Whistle",
+  "th": "เป่านกหวีด",
+  "image": "wisimoke_868.jpg"
+ },
+ {
+  "no": "869",
+  "dream": "362",
+  "key": "boundbeto",
+  "my": "ဘောင်းဘီတို",
+  "en": "Shorts",
+  "th": "กางเกงขาสั้น",
+  "image": "boundbeto_869.jpg"
+ },
+ {
+  "no": "870",
+  "dream": "372",
+  "key": "santhathu",
+  "my": "ဆံသသူ",
+  "en": "Shaving",
+  "th": "โกนผม",
+  "image": "santhathu_870.jpg"
+ },
+ {
+  "no": "871",
+  "dream": "393",
+  "key": "jetthar",
+  "my": "ကြက်သား",
+  "en": "Chicken Meat",
+  "th": "เนื้อไก่",
+  "image": "jetthar_871.jpg"
+ },
+ {
+  "no": "872",
+  "dream": "370",
+  "key": "htonchit",
+  "my": "ထွန်ခြစ်",
+  "en": "Rake",
+  "th": "คราด",
+  "image": "htonchit_872.jpg"
+ },
+ {
+  "no": "873",
+  "dream": "384",
+  "key": "ngayoketheemoke",
+  "my": "ငရုပ်သီးမှုန့်",
+  "en": "Chili Powder",
+  "th": "พริกป่น",
+  "image": "ngayoketheemoke_873.jpg"
+ },
+ {
+  "no": "874",
+  "dream": "366",
+  "key": "yokthwarkhayu",
+  "my": "ယောက်သွားခရု",
+  "en": "Snail",
+  "th": "หอย",
+  "image": "yokthwarkhayu_874.jpg"
+ },
+ {
+  "no": "875",
+  "dream": "385",
+  "key": "pistoltaynat",
+  "my": "ပစ္စတိုသေနတ်",
+  "en": "Pistol",
+  "th": "ปืนสั้น",
+  "image": "pistoltaynat_875.jpg"
+ },
+ {
+  "no": "876",
+  "dream": "390",
+  "key": "natsayar",
+  "my": "နတ်ဆရာ",
+  "en": "Shaman",
+  "th": "หมอผี",
+  "image": "natsayar_876.jpg"
+ },
+ {
+  "no": "877",
+  "dream": "361",
+  "key": "hteinyongthu",
+  "my": "ထင်းရောင်းသူ",
+  "en": "Wood seller",
+  "th": "ผู้ขายไม้",
+  "image": "hteinyongthu_877.jpg"
+ },
+ {
+  "no": "878",
+  "dream": "368",
+  "key": "thinkhonedar",
+  "my": "သင်ခုံးဓါး",
+  "en": "Razor",
+  "th": "มีดโกนผม",
+  "image": "thinkhonedar_878.jpg"
+ },
+ {
+  "no": "879",
+  "dream": "363",
+  "key": "phayima",
+  "my": "ဘုရင်မ",
+  "en": "Queen",
+  "th": "ราชินี",
+  "image": "phayima_879.jpg"
+ },
+ {
+  "no": "880",
+  "dream": "399",
+  "key": "tinparr",
+  "my": "တင်ပါး",
+  "en": "Hip",
+  "th": "สะโพก",
+  "image": "tinparr_880.jpg"
+ },
+ {
+  "no": "881",
+  "dream": "394",
+  "key": "aphwaro",
+  "my": "အဖွါးအို",
+  "en": "Old woman",
+  "th": "หญิงชรา",
+  "image": "aphwaro_881.jpg"
+ },
+ {
+  "no": "882",
+  "dream": "360",
+  "key": "letpartnarye",
+  "my": "လက်ပတ်နာရီ",
+  "en": "Watch",
+  "th": "นาฬิกาข้อมือ",
+  "image": "letpartnarye_882.jpg"
+ },
+ {
+  "no": "883",
+  "dream": "386",
+  "key": "ketphae",
+  "my": "ကက်ဖဲ",
+  "en": "Cards",
+  "th": "ไพ่",
+  "image": "ketphae_883.jpg"
+ },
+ {
+  "no": "884",
+  "dream": "373",
+  "key": "tawtkhalock",
+  "my": "သော့ခလောက်",
+  "en": "Padlock",
+  "th": "กุญแจล็อค",
+  "image": "tawtkhalock_884.jpg"
+ },
+ {
+  "no": "885",
+  "dream": "375",
+  "key": "chainkhwain",
+  "my": "ချိန်ခွင်",
+  "en": "Scale",
+  "th": "ตราชู",
+  "image": "chainkhwain_885.jpg"
+ },
+ {
+  "no": "886",
+  "dream": "383",
+  "key": "sitthar",
+  "my": "စစ်သား",
+  "en": "Soldier",
+  "th": "ทหาร",
+  "image": "sitthar_886.jpg"
+ },
+ {
+  "no": "887",
+  "dream": "359",
+  "key": "watchmeechit",
+  "my": "ဝက်စ်မီးခြစ်",
+  "en": "Lighter",
+  "th": "ไฟแช็ก",
+  "image": "watchmeechit_887.jpg"
+ },
+ {
+  "no": "888",
+  "dream": "367",
+  "key": "kadawt",
+  "my": "ကတော့",
+  "en": "Funnel",
+  "th": "กรวย",
+  "image": "kadawt_888.jpg"
+ },
+ {
+  "no": "889",
+  "dream": "355",
+  "key": "kachinmal",
+  "my": "ကချင်မယ်",
+  "en": "Kachin girl",
+  "th": "หญิงคะฉิน",
+  "image": "kachinmal_889.jpg"
+ },
+ {
+  "no": "890",
+  "dream": "376",
+  "key": "nanpartdoke",
+  "my": "နံပါတ်တုတ်",
+  "en": "Short stick",
+  "th": "ไม้พลองสั้น",
+  "image": "nanpartdoke_890.jpg"
+ },
+ {
+  "no": "891",
+  "dream": "356",
+  "key": "tayokema",
+  "my": "တရုတ်မ",
+  "en": "Chinese girl",
+  "th": "หญิงจีน",
+  "image": "tayokema_891.jpg"
+ },
+ {
+  "no": "892",
+  "dream": "397",
+  "key": "myaypel",
+  "my": "မြေပဲ",
+  "en": "Peanut",
+  "th": "ถั่วลิสง",
+  "image": "myaypel_892.jpg"
+ },
+ {
+  "no": "893",
+  "dream": "371",
+  "key": "nexttylelalsee",
+  "my": "နတ်တိုင်လည်စည်း",
+  "en": "Tie",
+  "th": "เนคไท",
+  "image": "nexttylelalsee_893.jpg"
+ },
+ {
+  "no": "894",
+  "dream": "381",
+  "key": "thitthartandarr",
+  "my": "သစ်သားတံတား",
+  "en": "Wooden Bridge",
+  "th": "สะพานไม้",
+  "image": "thitthartandarr_894.jpg"
+ },
+ {
+  "no": "895",
+  "dream": "351",
+  "key": "pusainkaing",
+  "my": "ပုဆိန်ကိုင်",
+  "en": "Holding an axe",
+  "th": "ถือขวาน",
+  "image": "pusainkaing_895.jpg"
+ },
+ {
+  "no": "896",
+  "dream": "364",
+  "key": "yaykoo",
+  "my": "ရေကူး",
+  "en": "Swimming",
+  "th": "ว่ายน้ำ",
+  "image": "yaykoo_896.jpg"
+ },
+ {
+  "no": "897",
+  "dream": "392",
+  "key": "unsar",
+  "my": "အံစာ",
+  "en": "Dice",
+  "th": "ลูกเต๋า",
+  "image": "unsar_897.jpg"
+ },
+ {
+  "no": "898",
+  "dream": "400",
+  "key": "zinyawnget",
+  "my": "ဇင်ယော်ငှက်",
+  "en": "Seagull",
+  "th": "นกนางนวล",
+  "image": "zinyawnget_898.jpg"
+ },
+ {
+  "no": "899",
+  "dream": "380",
+  "key": "yetkarnsin",
+  "my": "ယက်ကန်းစင်",
+  "en": "Weaving Loom",
+  "th": "กี่ทอผ้า",
+  "image": "yetkarnsin_899.jpg"
+ },
+ {
+  "no": "900",
+  "dream": "398",
+  "key": "myesikarnthu",
+  "my": "မျက်စိကန်းသူ",
+  "en": "Blind Man",
+  "th": "คนตาบอด",
+  "image": "myesikarnthu_900.jpg"
+ },
+ {
+  "no": "901",
+  "dream": "445",
+  "key": "pinpaunglawlone",
+  "my": "ပင်ပေါင်လောလုံး",
+  "en": "Ping Pong Ball",
+  "th": "ลูกปิงปอง",
+  "image": "pinpaunglawlone_901.jpg"
+ },
+ {
+  "no": "902",
+  "dream": "403",
+  "key": "khautswel",
+  "my": "ခေါက်ဆွဲ",
+  "en": "Noodles",
+  "th": "ก๋วยเตี๋ยว",
+  "image": "khautswel_902.jpg"
+ },
+ {
+  "no": "903",
+  "dream": "402",
+  "key": "wutdhusaroak",
+  "my": "ဝတ္ထုစာအုပ်",
+  "en": "Novel book",
+  "th": "หนังสือนิยาย",
+  "image": "wutdhusaroak_903.jpg"
+ },
+ {
+  "no": "904",
+  "dream": "415",
+  "key": "panndatar",
+  "my": "ပန်းဒကာ",
+  "en": "Guardian",
+  "th": "มัคทายก",
+  "image": "panndatar_904.jpg"
+ },
+ {
+  "no": "905",
+  "dream": "439",
+  "key": "kantlantkar",
+  "my": "ကန့်လန့်ကာ",
+  "en": "Curtain",
+  "th": "ผ้าม่าน",
+  "image": "kantlantkar_905.jpg"
+ },
+ {
+  "no": "906",
+  "dream": "441",
+  "key": "phaung",
+  "my": "ဖေါင်",
+  "en": "Raft",
+  "th": "แพ",
+  "image": "phaung_906.jpg"
+ },
+ {
+  "no": "907",
+  "dream": "408",
+  "key": "thunarpyu",
+  "my": "သူနာပြု",
+  "en": "Nurse",
+  "th": "พยาบาล",
+  "image": "thunarpyu_907.jpg"
+ },
+ {
+  "no": "908",
+  "dream": "407",
+  "key": "linban",
+  "my": "လင်ပန်း",
+  "en": "Pan",
+  "th": "พาน",
+  "image": "linban_908.jpg"
+ },
+ {
+  "no": "909",
+  "dream": "437",
+  "key": "sutaung",
+  "my": "ဆုတောင်း",
+  "en": "Wish",
+  "th": "ขอพร",
+  "image": "sutaung_909.jpg"
+ },
+ {
+  "no": "910",
+  "dream": "432",
+  "key": "strawberry",
+  "my": "စတော်ဘယ်ရီ",
+  "en": "Strawberry",
+  "th": "สตรอว์เบอร์รี",
+  "image": "strawberry_910.jpg"
+ },
+ {
+  "no": "911",
+  "dream": "427",
+  "key": "thandokethaine",
+  "my": "သံတုတ်သိုင်း",
+  "en": "Iron Stick Boxing",
+  "th": "มวยพลองเหล็ก",
+  "image": "thandokethaine_911.jpg"
+ },
+ {
+  "no": "912",
+  "dream": "419",
+  "key": "kalaypakhet",
+  "my": "ကလေးပုခက်",
+  "en": "Baby Crib",
+  "th": "เปลเด็ก",
+  "image": "kalaypakhet_912.jpg"
+ },
+ {
+  "no": "913",
+  "dream": "429",
+  "key": "thudongsarr",
+  "my": "သူတောင်းစား",
+  "en": "Beggar",
+  "th": "ผู้ขอทาน",
+  "image": "thudongsarr_913.jpg"
+ },
+ {
+  "no": "914",
+  "dream": "446",
+  "key": "kyelmote",
+  "my": "ကြယ်မုန့်",
+  "en": "Candy star",
+  "th": "ขนมดาว",
+  "image": "kyelmote_914.jpg"
+ },
+ {
+  "no": "915",
+  "dream": "404",
+  "key": "binjo",
+  "my": "ဘင်ဂျို",
+  "en": "Banjo",
+  "th": "บิงโก",
+  "image": "binjo_915.jpg"
+ },
+ {
+  "no": "916",
+  "dream": "424",
+  "key": "moakkaung",
+  "my": "မုတ်ကောင်",
+  "en": "Scallops",
+  "th": "หอยแคลง",
+  "image": "moakkaung_916.jpg"
+ },
+ {
+  "no": "917",
+  "dream": "438",
+  "key": "khayukok",
+  "my": "ခရုကောက်",
+  "en": "Shellfish collector",
+  "th": "คนเก็บหอย",
+  "image": "khayukok_917.jpg"
+ },
+ {
+  "no": "918",
+  "dream": "428",
+  "key": "paigkutin",
+  "my": "ပိတ်ကုတင်",
+  "en": "Canvas Bed",
+  "th": "เตียงผ้าใบ",
+  "image": "paigkutin_918.jpg"
+ },
+ {
+  "no": "919",
+  "dream": "412",
+  "key": "apyaypyaing",
+  "my": "အပြေးပြိုင်",
+  "en": "Running race",
+  "th": "วิ่งแข่ง",
+  "image": "apyaypyaing_919.jpg"
+ },
+ {
+  "no": "920",
+  "dream": "422",
+  "key": "chet",
+  "my": "ချက်",
+  "en": "Navel",
+  "th": "สะดือ",
+  "image": "chet_920.jpg"
+ },
+ {
+  "no": "921",
+  "dream": "443",
+  "key": "khayeethwar",
+  "my": "ခရီးသွား",
+  "en": "Travel",
+  "th": "เดินทาง",
+  "image": "khayeethwar_921.jpg"
+ },
+ {
+  "no": "922",
+  "dream": "420",
+  "key": "pannkwetphyar",
+  "my": "ပန်းကွက်ဖျာ",
+  "en": "Mat flower pattern",
+  "th": "เสื่อลายดอก",
+  "image": "pannkwetphyar_922.jpg"
+ },
+ {
+  "no": "923",
+  "dream": "434",
+  "key": "hminowle",
+  "my": "မှင်အိုး",
+  "en": "A bottle of ink",
+  "th": "ขวดหมึก",
+  "image": "hminowle_923.jpg"
+ },
+ {
+  "no": "924",
+  "dream": "416",
+  "key": "monglaru",
+  "my": "မုန်လာဥ",
+  "en": "Radish",
+  "th": "หัวไชเท้า",
+  "image": "monglaru_924.jpg"
+ },
+ {
+  "no": "925",
+  "dream": "435",
+  "key": "dokehtanthu",
+  "my": "တုတ်ထမ်းသူ",
+  "en": "People carrying wood",
+  "th": "คนแบกไม้",
+  "image": "dokehtanthu_925.jpg"
+ },
+ {
+  "no": "926",
+  "dream": "440",
+  "key": "htakelantthu",
+  "my": "ထိတ်လန့်သူ",
+  "en": "Shocked",
+  "th": "ตกใจ",
+  "image": "htakelantthu_926.jpg"
+ },
+ {
+  "no": "927",
+  "dream": "411",
+  "key": "kachaythal",
+  "my": "ကချေသည်",
+  "en": "Dancer",
+  "th": "นางรำ",
+  "image": "kachaythal_927.jpg"
+ },
+ {
+  "no": "928",
+  "dream": "418",
+  "key": "buscar",
+  "my": "ဘတ်စ်ကား",
+  "en": "Bus",
+  "th": "รถโดยสาร",
+  "image": "buscar_928.jpg"
+ },
+ {
+  "no": "929",
+  "dream": "413",
+  "key": "donepyanmeeshoe",
+  "my": "ဒုံးပျံ/မီးရှူး",
+  "en": "Rocket",
+  "th": "จรวด",
+  "image": "donepyanmeeshoe_929.jpg"
+ },
+ {
+  "no": "930",
+  "dream": "449",
+  "key": "yaylaungkan",
+  "my": "ရေလှောင်ကန်",
+  "en": "Water tank",
+  "th": "แทงค์น้ำ",
+  "image": "yaylaungkan_930.jpg"
+ },
+ {
+  "no": "931",
+  "dream": "444",
+  "key": "meekhaloak",
+  "my": "မီးခလုတ်",
+  "en": "Light switch",
+  "th": "สวิทไฟ",
+  "image": "meekhaloak_931.jpg"
+ },
+ {
+  "no": "932",
+  "dream": "410",
+  "key": "ngwesetkud",
+  "my": "ငွေစက္ကူ",
+  "en": "Banknote",
+  "th": "ธนบัตร",
+  "image": "ngwesetku_932.jpg"
+ },
+ {
+  "no": "933",
+  "dream": "436",
+  "key": "thitpin",
+  "my": "သစ်ပင်",
+  "en": "Tree",
+  "th": "ต้นไม้",
+  "image": "thitpin_933.jpg"
+ },
+ {
+  "no": "934",
+  "dream": "423",
+  "key": "ywethlay",
+  "my": "ရွက်လှေ",
+  "en": "Sailboat",
+  "th": "เรือใบ",
+  "image": "ywethlay_934.jpg"
+ },
+ {
+  "no": "935",
+  "dream": "425",
+  "key": "kyaukthinpone",
+  "my": "ကျောက်သင်ပုန်း",
+  "en": "Blackboard",
+  "th": "กระดานดำ",
+  "image": "kyaukthinpone_935.jpg"
+ },
+ {
+  "no": "936",
+  "dream": "433",
+  "key": "cartire",
+  "my": "ကားတာယာ",
+  "en": "Car Tire",
+  "th": "ยางรถยนต์",
+  "image": "cartire_936.jpg"
+ },
+ {
+  "no": "937",
+  "dream": "409",
+  "key": "jetmaukthee",
+  "my": "ကြက်မောက်သီး",
+  "en": "Rambutan",
+  "th": "เงาะ",
+  "image": "jetmaukthee_937.jpg"
+ },
+ {
+  "no": "938",
+  "dream": "417",
+  "key": "saparyeik",
+  "my": "စပါးရိတ်",
+  "en": "Harvesting rice",
+  "th": "เกี่ยวข้าว",
+  "image": "saparyeik_938.jpg"
+ },
+ {
+  "no": "939",
+  "dream": "405",
+  "key": "thittheekhoo",
+  "my": "သစ်သီးခူး",
+  "en": "Pick fruit",
+  "th": "สอยผลไม้",
+  "image": "thittheekhoo_939.jpg"
+ },
+ {
+  "no": "940",
+  "dream": "426",
+  "key": "wannaethu",
+  "my": "ဝမ်းနည်းသူ",
+  "en": "Sad person",
+  "th": "คนน้อยใจ",
+  "image": "wannaethu_940.jpg"
+ },
+ {
+  "no": "941",
+  "dream": "406",
+  "key": "saryayf",
+  "my": "စာရေး",
+  "en": "Writing",
+  "th": "เขียนหนังสือ",
+  "image": "saryay_941.jpg"
+ },
+ {
+  "no": "942",
+  "dream": "447",
+  "key": "chintong",
+  "my": "ခြင်းတောင်း",
+  "en": "Washing basket",
+  "th": "กระบุง",
+  "image": "chintong_942.jpg"
+ },
+ {
+  "no": "943",
+  "dream": "421",
+  "key": "swelchin",
+  "my": "ဆွဲခြင်း",
+  "en": "Basket",
+  "th": "ตะกร้า",
+  "image": "swelchin_943.jpg"
+ },
+ {
+  "no": "944",
+  "dream": "431",
+  "key": "tidebrush",
+  "my": "တိုက်ဘရပ်ရှ်",
+  "en": "Cleaning brush",
+  "th": "แปรงขัด",
+  "image": "tidebrush_944.jpg"
+ },
+ {
+  "no": "945",
+  "dream": "401",
+  "key": "amaintdawpyan",
+  "my": "အမိန့်တော်ပြန်",
+  "en": "Royal Command",
+  "th": "ราชโองการ",
+  "image": "amaintdawpyan_945.jpg"
+ },
+ {
+  "no": "946",
+  "dream": "414",
+  "key": "drum",
+  "my": "ဒရမ်",
+  "en": "Drum",
+  "th": "กลอง",
+  "image": "drum_946.jpg"
+ },
+ {
+  "no": "947",
+  "dream": "442",
+  "key": "lannkoneaka",
+  "my": "လမ်းဂုံးအက",
+  "en": "Ramwong",
+  "th": "รำวง",
+  "image": "lannkoneaka_947.jpg"
+ },
+ {
+  "no": "948",
+  "dream": "450",
+  "key": "microphone",
+  "my": "မိုက်ခရိုဖုန်း",
+  "en": "Microphone",
+  "th": "ไมโครโฟน",
+  "image": "microphone_948.jpg"
+ },
+ {
+  "no": "949",
+  "dream": "430",
+  "key": "breakdar",
+  "my": "ဘရိတ်ဒါး",
+  "en": "Razor",
+  "th": "ใบมีดโกน",
+  "image": "breakdar_949.jpg"
+ },
+ {
+  "no": "950",
+  "dream": "448",
+  "key": "kotidesappyar",
+  "my": "ကိုယ်တိုက်ဆပ်ပြာ",
+  "en": "Soap",
+  "th": "สบู่",
+  "image": "kotidesappyar_950.jpg"
+ },
+ {
+  "no": "951",
+  "dream": "495",
+  "key": "leteight",
+  "my": "လက်အိပ်",
+  "en": "Gloves",
+  "th": "ถุงมือ",
+  "image": "leteight_951.jpg"
+ },
+ {
+  "no": "952",
+  "dream": "453",
+  "key": "pelseinsaru",
+  "my": "ပဲစိမ်းစားဥ",
+  "en": "Yam",
+  "th": "มันแกว",
+  "image": "pelseinsaru_952.jpg"
+ },
+ {
+  "no": "953",
+  "dream": "452",
+  "key": "letthamar",
+  "my": "လက်သမား",
+  "en": "Carpenter",
+  "th": "ช่างไม้",
+  "image": "letthamar_953.jpg"
+ },
+ {
+  "no": "954",
+  "dream": "465",
+  "key": "sayadaw",
+  "my": "ဆရာတော်",
+  "en": "Monk",
+  "th": "พระสงฆ์",
+  "image": "sayadaw_954.jpg"
+ },
+ {
+  "no": "955",
+  "dream": "489",
+  "key": "yinbut",
+  "my": "ရင်ဘတ်",
+  "en": "Chest",
+  "th": "หน้าอก",
+  "image": "yinbut_955.jpg"
+ },
+ {
+  "no": "956",
+  "dream": "491",
+  "key": "yinbutg",
+  "my": "လှေပဲ့ထိန်း",
+  "en": "Boat helmsman",
+  "th": "นายท้ายเรือ",
+  "image": "hlaypaehtain_956.jpg"
+ },
+ {
+  "no": "957",
+  "dream": "458",
+  "key": "meeyahtar",
+  "my": "မီးရထား",
+  "en": "Train",
+  "th": "รถไฟ",
+  "image": "meeyahtar_957.jpg"
+ },
+ {
+  "no": "958",
+  "dream": "457",
+  "key": "bainthee",
+  "my": "ဘိန်းသီး",
+  "en": "Popium",
+  "th": "ดอกฝิ่น",
+  "image": "bainthee_958.jpg"
+ },
+ {
+  "no": "959",
+  "dream": "487",
+  "key": "u",
+  "my": "ဥ",
+  "en": "Egg",
+  "th": "ไข่",
+  "image": "u_959.jpg"
+ },
+ {
+  "no": "960",
+  "dream": "482",
+  "key": "saikalpyaning",
+  "my": "ဆိုင်ကယ်ပြိုင်",
+  "en": "Motorcycle Race",
+  "th": "แข่งมอเตอร์ไซค์",
+  "image": "saikalpyaning_960.jpg"
+ },
+ {
+  "no": "961",
+  "dream": "477",
+  "key": "sateyokenyantthu",
+  "my": "စိတ်ယုတ်ညံ့သူ",
+  "en": "Feeling unwell",
+  "th": "รู้สึกไม่สบาย",
+  "image": "sateyokenyantthu_961.jpg"
+ },
+ {
+  "no": "962",
+  "dream": "469",
+  "key": "kalreyarkyoe",
+  "my": "ကယ်ရီယာကြိုး",
+  "en": "Strap",
+  "th": "สายรัดของ",
+  "image": "kalreyarkyoe_962.jpg"
+ },
+ {
+  "no": "963",
+  "dream": "479",
+  "key": "khyutkhyuteight",
+  "my": "ကြွပ်ကြွပ်အိတ်",
+  "en": "Bag",
+  "th": "ถุงหูหิ้ว",
+  "image": "khyutkhyuteight_963.jpg"
+ },
+ {
+  "no": "964",
+  "dream": "496",
+  "key": "ngarr",
+  "my": "ငါး",
+  "en": "Fish",
+  "th": "ปลา",
+  "image": "ngarr_964.jpg"
+ },
+ {
+  "no": "965",
+  "dream": "454",
+  "key": "ownthee",
+  "my": "အုန်းသီး",
+  "en": "Coconut",
+  "th": "มะพร้าว",
+  "image": "ownthee_965.jpg"
+ },
+ {
+  "no": "966",
+  "dream": "474",
+  "key": "chanpaingshin",
+  "my": "ခြံပိုင်ရှင်",
+  "en": "Garden owner",
+  "th": "เจ้าของสวน",
+  "image": "chanpaingshin_966.jpg"
+ },
+ {
+  "no": "967",
+  "dream": "488",
+  "key": "peldauntshay",
+  "my": "ပဲထောင့်ရှည်",
+  "en": "Long Bean",
+  "th": "ถั่วฝักยาว",
+  "image": "peldauntshay_967.jpg"
+ },
+ {
+  "no": "968",
+  "dream": "478",
+  "key": "sayarwon",
+  "my": "ဆရာဝန်",
+  "en": "Doctor",
+  "th": "หมอ",
+  "image": "sayarwon_968.jpg"
+ },
+ {
+  "no": "969",
+  "dream": "462",
+  "key": "khongguidethu",
+  "my": "ခေါင်းကိုက်သူ",
+  "en": "Headache Person",
+  "th": "คนปวดหัว",
+  "image": "khongguidethu_969.jpg"
+ },
+ {
+  "no": "970",
+  "dream": "472",
+  "key": "sarrpwelkhonwyne",
+  "my": "စားပွဲခုံဝိုင်း",
+  "en": "Dining Table",
+  "th": "โต๊ะอาหาร",
+  "image": "sarrpwelkhonwyne_970.jpg"
+ },
+ {
+  "no": "971",
+  "dream": "493",
+  "key": "thittheechin",
+  "my": "သစ်သီးခြင်း",
+  "en": "Fruit basket",
+  "th": "ตะกร้าผลไม้",
+  "image": "thittheechin_971.jpg"
+ },
+ {
+  "no": "972",
+  "dream": "470",
+  "key": "yanphit",
+  "my": "ရန်ဖြစ်",
+  "en": "Quarrel",
+  "th": "ทะเลาะกัน",
+  "image": "yanphit_972.jpg"
+ },
+ {
+  "no": "973",
+  "dream": "484",
+  "key": "kheldan",
+  "my": "ခဲတံ",
+  "en": "Pencil",
+  "th": "ดินสอ",
+  "image": "kheldan_973.jpg"
+ },
+ {
+  "no": "974",
+  "dream": "466",
+  "key": "camera",
+  "my": "ကင်မရာ",
+  "en": "Camera",
+  "th": "กล้องถ่ายรูป",
+  "image": "camera_974.jpg"
+ },
+ {
+  "no": "975",
+  "dream": "485",
+  "key": "tanzin",
+  "my": "တံစဥ်",
+  "en": "Sickle",
+  "th": "เคียว",
+  "image": "tanzin_975.jpg"
+ },
+ {
+  "no": "976",
+  "dream": "490",
+  "key": "binenginthu",
+  "my": "ဗိုင်းငင်သူ",
+  "en": "Spin cotton",
+  "th": "ปั่นฝ้าย",
+  "image": "binenginthu_976.jpg"
+ },
+ {
+  "no": "977",
+  "dream": "461",
+  "key": "maingtaing",
+  "my": "မိုင်တိုင်",
+  "en": "Milestone",
+  "th": "หลักไมล์",
+  "image": "maingtaing_977.jpg"
+ },
+ {
+  "no": "978",
+  "dream": "468",
+  "key": "pinngyarshi",
+  "my": "ပညာရှိ",
+  "en": "Scholar",
+  "th": "นักวิชาการ",
+  "image": "pinngyarshi_978.jpg"
+ },
+ {
+  "no": "979",
+  "dream": "463",
+  "key": "konekineunsar",
+  "my": "ကုံးကင်းအံစာ",
+  "en": "Rolling dice",
+  "th": "เต๋ากลิ้ง",
+  "image": "konekineunsar_979.jpg"
+ },
+ {
+  "no": "980",
+  "dream": "499",
+  "key": "yitnatpuzaw",
+  "my": "ယဇ်နတ်ပူဇော်",
+  "en": "Worship ghosts",
+  "th": "บูชาผี",
+  "image": "yitnatpuzaw_980.jpg"
+ },
+ {
+  "no": "981",
+  "dream": "494",
+  "key": "mainkhonechway",
+  "my": "မိန့်ခွန်းခြွေ",
+  "en": "Speech",
+  "th": "กล่าวปราศรัย",
+  "image": "mainkhonechway_981.jpg"
+ },
+ {
+  "no": "982",
+  "dream": "460",
+  "key": "suanedawoak",
+  "my": "ဆွမ်းတော်အုပ်",
+  "en": "Crown tray",
+  "th": "พานมงกุฏ",
+  "image": "suanedawoak_982.jpg"
+ },
+ {
+  "no": "983",
+  "dream": "486",
+  "key": "saypalin",
+  "my": "ဆေးပုလင်း",
+  "en": "Medicine Bottle",
+  "th": "ขวดยา",
+  "image": "saypalin_983.jpg"
+ },
+ {
+  "no": "984",
+  "dream": "473",
+  "key": "yaybawel",
+  "my": "ရေဘဝဲ",
+  "en": "Squid",
+  "th": "ปลาหมึก",
+  "image": "yaybawel_984.jpg"
+ },
+ {
+  "no": "985",
+  "dream": "475",
+  "key": "khainpin",
+  "my": "ကြိမ်ပင်",
+  "en": "Rattan",
+  "th": "ต้นหวาย",
+  "image": "khainpin_985.jpg"
+ },
+ {
+  "no": "986",
+  "dream": "483",
+  "key": "meekartmeechait",
+  "my": "မီးကပ်ပီးချိတ်",
+  "en": "Fire extinguisher",
+  "th": "แผงดับเพลิง",
+  "image": "meekartmeechait_986.jpg"
+ },
+ {
+  "no": "987",
+  "dream": "459",
+  "key": "ngayokekong",
+  "my": "ငရုပ်ကောင်း",
+  "en": "Pepper",
+  "th": "พริกไทย",
+  "image": "ngayokekong_987.jpg"
+ },
+ {
+  "no": "988",
+  "dream": "467",
+  "key": "natngwar",
+  "my": "နတ်နွား",
+  "en": "Cow ghost",
+  "th": "ผีวัว",
+  "image": "natngwar_988.jpg"
+ },
+ {
+  "no": "989",
+  "dream": "455",
+  "key": "tayaw",
+  "my": "တယော",
+  "en": "Harp",
+  "th": "พิณ",
+  "image": "tayaw_989.jpg"
+ },
+ {
+  "no": "990",
+  "dream": "476",
+  "key": "sarrpwelhtoe",
+  "my": "စားပွဲထိုး",
+  "en": "Waiter",
+  "th": "เด็กเสริฟ",
+  "image": "sarrpwelhtoe_990.jpg"
+ },
+ {
+  "no": "991",
+  "dream": "456",
+  "key": "min",
+  "my": "မင်း",
+  "en": "Master",
+  "th": "พระมหากษัตริย์",
+  "image": "min_991.jpg"
+ },
+ {
+  "no": "992",
+  "dream": "497",
+  "key": "minsay",
+  "my": "မင်းစေ",
+  "en": "Servant",
+  "th": "ข้ารับใช้",
+  "image": "minsay_992.jpg"
+ },
+ {
+  "no": "993",
+  "dream": "471",
+  "key": "htanthu",
+  "my": "ထမ်းသူ",
+  "en": "Porter",
+  "th": "คนหาบ",
+  "image": "htanthu_993.jpg"
+ },
+ {
+  "no": "994",
+  "dream": "481",
+  "key": "sarrphomoo",
+  "my": "စားဖိုမှူး",
+  "en": "Chef",
+  "th": "พ่อครัว",
+  "image": "sarrphomoo_994.jpg"
+ },
+ {
+  "no": "995",
+  "dream": "451",
+  "key": "zarpann",
+  "my": "ဇာပန်း",
+  "en": "Curtain",
+  "th": "ผ้าม่าน",
+  "image": "zarpann_995.jpg"
+ },
+ {
+  "no": "996",
+  "dream": "464",
+  "key": "tanngarthel",
+  "my": "တံငါသည်",
+  "en": "Fisherman",
+  "th": "ชาวประมง",
+  "image": "tanngarthel_996.jpg"
+ },
+ {
+  "no": "997",
+  "dream": "492",
+  "key": "darthwaykyauk",
+  "my": "ဓါးသွေးကျောက်",
+  "en": "Whetstone",
+  "th": "หินลับมีด",
+  "image": "darthwaykyauk_997.jpg"
+ },
+ {
+  "no": "998",
+  "dream": "500",
+  "key": "lyetsitmeed",
+  "my": "လျှပ်စစ်မီး",
+  "en": "Electricity",
+  "th": "ไฟฟ้า",
+  "image": "lyetsitmee_998.jpg"
+ },
+ {
+  "no": "999",
+  "dream": "480",
+  "key": "pannkansin",
+  "my": "ပန်းကန်စင်",
+  "en": "Dish rack",
+  "th": "ชั้นวางจาน",
+  "image": "pannkansin_999.jpg"
+ },
+ {
+  "no": "000",
+  "dream": "498",
+  "key": "thanjokebu",
+  "my": "သံကြုတ်/ဗူး",
+  "en": "Hot water bottle",
+  "th": "กระติกน้ำร้อน",
+  "image": "thanjokebu_000.jpg"
+ }
+]
