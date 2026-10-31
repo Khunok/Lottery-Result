@@ -1,0 +1,12 @@
+{
+  "year": 2026,
+  "note": "A Thousand Dreams watch list. Add or remove a card by editing this list. 'dream' is the 3-digit dream number on the card; 'no' and 'name' are only for reading.",
+  "cards": [
+    { "dream": "852", "no": "353", "name": "နတ်နဂါး" },
+    { "dream": "435", "no": "925", "name": "တုတ်ထမ်းသူ" },
+    { "dream": "534", "no": "023", "name": "ဝက်" },
+    { "dream": "735", "no": "225", "name": "စက္ကူလိပ်" },
+    { "dream": "537", "no": "009", "name": "လူရည်ချွန်" },
+    { "dream": "138", "no": "617", "name": "ကိတ်မုန့်" }
+  ]
+}
