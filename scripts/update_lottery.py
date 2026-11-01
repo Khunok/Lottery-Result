@@ -18,6 +18,11 @@ Nothing is written if the data looks wrong. Only the Python standard library is 
 
 history/year-YYYY.json holds every saved draw of that year (newest first), so the app
 can show a whole year with one download.
+
+next_draw.json tells the app the date of the next draw (for the draw-day notifications).
+To set a holiday-moved draw by hand, edit it to e.g.
+  {"date": "2026-12-30", "manual": true}
+and the bot keeps it until that date has passed.
 """
 import argparse
 import datetime as dt
@@ -307,6 +312,45 @@ def backfill(year, dry_run):
     return 0
 
 
+NEXT = os.path.join(ROOT, "next_draw.json")
+# Usual holiday moves of the 1st / 16th draw (month, day) -> (month, day). Anything else: set next_draw.json by hand.
+MOVES = {(1, 1): (1, 2), (1, 16): (1, 17), (5, 1): (5, 2)}
+
+
+def bangkok_today():
+    return (dt.datetime.now(dt.timezone.utc) + dt.timedelta(hours=7)).date()
+
+
+def next_draw_date(latest_saved):
+    """First draw day after the latest saved draw (and not before today, Thailand time)."""
+    start = bangkok_today()
+    if latest_saved:
+        start = max(start, dt.date.fromisoformat(latest_saved) + dt.timedelta(days=1))
+    d = start
+    for _ in range(70):
+        key = (d.month, d.day)
+        if key in MOVES.values():
+            return d.isoformat()                      # a moved draw day (e.g. 2 May)
+        if d.day in (1, 16) and key not in MOVES:
+            return d.isoformat()                      # a normal 1st / 16th
+        d += dt.timedelta(days=1)
+    return None
+
+
+def write_next_draw(dry_run):
+    cur = read_json(NEXT, {}) or {}
+    today = bangkok_today().isoformat()
+    if cur.get("manual") and cur.get("date", "") >= today:
+        log(f"next_draw.json: kept manual date {cur['date']}")
+        return
+    nd = next_draw_date(current_date())
+    if not nd or cur.get("date") == nd:
+        return
+    log(f"next_draw.json: {nd}")
+    if not dry_run:
+        write_json(NEXT, {"date": nd, "time": "15:00", "tz": "Asia/Bangkok"})
+
+
 def summary(text):
     path = os.environ.get("GITHUB_STEP_SUMMARY")
     if path:
@@ -346,6 +390,7 @@ def main():
     if not good:
         log("No complete result from any source — nothing changed.")
         summary("⏳ No complete result yet — nothing changed.")
+        write_next_draw(args.dry_run)
         return 0
 
     name, date, res = good[0]
@@ -368,6 +413,7 @@ def main():
     if unchanged and have_hist:
         log(f"Already up to date ({date}).")
         summary(f"✅ Already up to date ({date}).")
+        write_next_draw(args.dry_run)
         return 0
 
     log(f"Will save {date}: newest={is_newest}, history={'update' if have_hist else 'new'}")
@@ -383,6 +429,7 @@ def main():
     if is_newest and not unchanged:
         write_json(LATEST, record)
     write_year_files([date[:4]])
+    write_next_draw(False)
     summary(f"🎉 Saved draw {date} — first prize **{res['first'][0]}**, last 2 **{res['last2'][0]}**.")
     return 0
 
