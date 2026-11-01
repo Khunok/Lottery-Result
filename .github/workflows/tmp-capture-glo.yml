@@ -11,7 +11,7 @@ jobs:
           curl -sS -m 30 -X POST -H 'Content-Type: application/json' -d '{}' https://www.glo.or.th/api/lottery/getLatestLottery -o out/latest.json
           curl -sS -m 30 -X POST -H 'Content-Type: application/json' -d '{"date":"01","month":"11","year":"2026"}' https://www.glo.or.th/api/checking/getLotteryResult -o out/by_date.json
           curl -sS -m 30 -D out/headers.txt -o /dev/null https://raw.githubusercontent.com/Khunok/Lottery-Result/main/lottery.json
-          ls -la out; head -c 300 out/latest.json
+          echo '=====LATEST'; cat out/latest.json; echo; echo '=====BYDATE'; cat out/by_date.json; echo; echo '=====HEADERS'; cat out/headers.txt; echo '=====END'
       - uses: actions/upload-artifact@v4
         with:
           name: glo
