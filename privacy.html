@@ -23,28 +23,45 @@
 <body>
 <main>
   <h1>Privacy Policy</h1>
-  <p class="muted">A Thousand Dreams (iOS) · by Khun Tech · Effective date: 31 October 2026</p>
+  <p class="muted">A Thousand Dreams (Android &amp; iOS) · by Khun Tech · Effective date: 2 November 2026</p>
 
-  <p>A Thousand Dreams ("the app") is a dream dictionary and Thai Government Lottery results app. This policy explains what happens to your information when you use the app.</p>
+  <p>A Thousand Dreams ("the app") is a dream dictionary and Thai Government Lottery results app. This policy explains what happens to your information when you use the app. The Android and iOS versions work differently, so each is described below.</p>
 
-  <h2>Information we collect</h2>
-  <p>We do not collect, store or share any personal information. The app has no accounts, no sign-in, no advertising, no analytics and no tracking.</p>
+  <h2>Summary</h2>
+  <ul>
+    <li>No accounts and no sign-in. We never ask for your name, email, phone number or location.</li>
+    <li>Ticket numbers you type or scan are checked on your device and are never sent anywhere.</li>
+    <li><b>Android:</b> shows ads from Google AdMob and can receive result notifications through Firebase Cloud Messaging. Both use device identifiers (details below).</li>
+    <li><b>iOS:</b> no ads, no analytics and no tracking.</li>
+  </ul>
+
+  <h2>Android: advertising (Google AdMob)</h2>
+  <p>The Android app shows ads served by Google AdMob. To show and measure ads and to prevent fraud, Google may collect your device's advertising ID, IP address and general device information (such as model and operating system). Where the law requires it (for example in the EEA, the UK and some US states), the app asks for your consent first, and you can change your choice later with "Privacy settings" in the app's menu. You can reset or delete your advertising ID, or opt out of personalised ads, in your phone's Settings → Google → Ads. See
+  <a href="https://policies.google.com/technologies/partner-sites">How Google uses information from sites or apps that use its services</a>.</p>
+
+  <h2>Android: result notifications (Firebase Cloud Messaging)</h2>
+  <p>So that new results can reach your phone as soon as they are published, the Android app registers with Firebase Cloud Messaging, a Google service. This creates a Firebase installation ID and a push token for your device and subscribes it to the general "draw results" topic. These are used only to deliver the results to the app and to show a notification if you have notifications turned on. They are not linked to your identity and are not used for advertising. You can turn notifications off in the app or in Android Settings. See the
+  <a href="https://firebase.google.com/support/privacy">Firebase privacy information</a>.</p>
 
   <h2>Camera</h2>
-  <p>The app asks for camera access only so you can scan the code on the front of your lottery ticket. The camera image is processed on your device to read the code and is never saved or sent anywhere. You can turn camera access off at any time in iOS Settings and still type the ticket number by hand.</p>
+  <p>The app asks for camera access only so you can scan the code on the front of your lottery ticket. The camera image is processed on your device to read the code and is never saved or sent anywhere. You can turn camera access off at any time in your phone's settings and still type the ticket number by hand.</p>
 
   <h2>Internet connection</h2>
-  <p>To show lottery results and dream-card pictures, the app downloads public files from GitHub (raw.githubusercontent.com), operated by GitHub, Inc. Like any website, GitHub may receive technical information such as your IP address when these files are downloaded. See the
-  <a href="https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy Statement</a>.</p>
+  <p>To show lottery results and dream-card pictures, the app downloads public files from GitHub (raw.githubusercontent.com, operated by GitHub, Inc.). The Android app also reads the latest results from our results server hosted by Cloudflare, Inc. (atd-live.khuneversmile.workers.dev). Like any website, these services may receive technical information such as your IP address when files are downloaded. See the
+  <a href="https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement">GitHub Privacy Statement</a> and the
+  <a href="https://www.cloudflare.com/privacypolicy/">Cloudflare Privacy Policy</a>.</p>
 
   <h2>Data stored on your device</h2>
-  <p>Downloaded results and pictures are kept in the app's cache on your device so they load faster. This data stays on your device and is removed when you delete the app.</p>
+  <p>Downloaded results and pictures, the cards you mark with a star and your settings (theme, language, notifications) are kept on your device only. They are removed when you delete the app.</p>
+
+  <h2>Data security and deletion</h2>
+  <p>All data the app sends or receives travels over encrypted connections (HTTPS). Because we have no accounts, we hold no personal data that could be deleted on request; deleting the app removes everything stored on your device. For data held by Google for ads, use the advertising ID settings described above.</p>
 
   <h2>Children</h2>
-  <p>The app is not directed at children and does not knowingly collect information from anyone.</p>
+  <p>The app is not directed at children and does not knowingly collect information from children.</p>
 
   <h2>Changes</h2>
-  <p>If this policy changes (for example, if advertising is added in a future version), the new version will be published at this address with a new effective date.</p>
+  <p>If this policy changes, the new version will be published at this address with a new effective date.</p>
 
   <h2>Contact</h2>
   <p><a href="mailto:khuneversmile@gmail.com">khuneversmile@gmail.com</a></p>
@@ -52,9 +69,13 @@
   <div class="card" lang="my">
     <h2 style="margin-top:0">ကိုယ်ရေးအချက်အလက် မူဝါဒ (အကျဉ်း)</h2>
     <ul>
-      <li>ဤ app သည် ကိုယ်ရေးအချက်အလက် မည်သည့်အရာကိုမျှ စုဆောင်း၊ သိမ်းဆည်း၊ မျှဝေခြင်း မပြုပါ။ Account၊ ကြော်ငြာ၊ tracking မရှိပါ။</li>
-      <li>Camera ကို ထီလက်မှတ်ရှေ့ဘက်ကုဒ် ဖတ်ရန်သာ အသုံးပြုပြီး ပုံကို မသိမ်း၊ မပို့ပါ။</li>
-      <li>ထီရလဒ်နှင့် ကတ်ပုံများကို GitHub မှ ဒေါင်းလုဒ်ဆွဲပြီး ဖုန်းထဲတွင်သာ cache အဖြစ် သိမ်းထားပါသည်။ App ဖျက်လျှင် ပျက်သွားပါသည်။</li>
+      <li>Account မရှိပါ။ နာမည်၊ email၊ ဖုန်းနံပါတ်၊ တည်နေရာ မတောင်းပါ။</li>
+      <li>ရိုက်ထည့် (သို့) scan ဖတ်သော ထီလက်မှတ်နံပါတ်ကို ဖုန်းထဲမှာသာ စစ်ပြီး ဘယ်ကိုမှ မပို့ပါ။</li>
+      <li><b>Android:</b> Google AdMob ကြော်ငြာများ ပြပါသည်။ ကြော်ငြာအတွက် Google က ကြော်ငြာ ID၊ IP လိပ်စာနှင့် ဖုန်းအချက်အလက်အချို့ကို သုံးနိုင်ပါသည်။ ဥပဒေအရ လိုအပ်သောနေရာများတွင် ခွင့်ပြုချက် အရင်တောင်းပြီး app menu ရှိ "Privacy settings" မှ ပြန်ပြောင်းနိုင်ပါသည်။</li>
+      <li><b>Android:</b> ထီရလဒ်ကို အမြန်ပို့ရန် Firebase Cloud Messaging (Google) က ဖုန်းအမှတ်အသား (push token) တစ်ခုကို သုံးပါသည်။ ရလဒ်ပို့ရန်သာ သုံးပြီး ကြော်ငြာအတွက် မသုံးပါ။</li>
+      <li><b>iOS:</b> ကြော်ငြာ၊ analytics၊ tracking မရှိပါ။</li>
+      <li>Camera ကို ထီလက်မှတ်ရှေ့ဘက်ကုဒ် ဖတ်ရန်သာ သုံးပြီး ပုံကို မသိမ်း၊ မပို့ပါ။</li>
+      <li>ထီရလဒ်နှင့် ကတ်ပုံများကို GitHub နှင့် Cloudflare မှ ဒေါင်းလုဒ်ဆွဲပြီး ဖုန်းထဲတွင်သာ သိမ်းပါသည်။ App ဖျက်လျှင် ပျက်သွားပါသည်။</li>
       <li>ဆက်သွယ်ရန် — khuneversmile@gmail.com</li>
     </ul>
   </div>
