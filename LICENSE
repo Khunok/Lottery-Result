@@ -1,0 +1,34 @@
+Copyright (c) 2026 Khun Tech (Khun Ohn Kyaw). All rights reserved.
+
+This repository provides data and images for the "A Thousand Dreams" apps
+(Android and iOS) published by Khun Tech. It is public only so that those
+apps can download their content.
+
+1. Protected content (all rights reserved)
+   The following were created or compiled by Khun Tech and are protected:
+   - the dream card images in cards/ and the Realistic 3D card images in cards3d/
+   - the app icon and other images in assets/
+   - the card list, card names and their translations (cards/cards.json)
+   - the selection, arrangement, editing and translations of the dream
+     dictionary in dreamdict/
+   - the watch lists in watchlist/
+   - the scripts and code in scripts/ and server/
+
+   No permission is given to copy, download in bulk, redistribute, modify,
+   sell, or use this content in any other app, website, product or service,
+   including training or feeding AI models, without prior written permission
+   from Khun Tech. Viewing the content inside the official A Thousand Dreams
+   apps is allowed.
+
+2. Not claimed
+   - Thai Government Lottery results (lottery.json, history/, next_draw.json)
+     are public information from the Government Lottery Office (glo.or.th).
+     Khun Tech claims no ownership of these numbers and dates.
+   - Traditional Myanmar dream meanings are cultural heritage. Only the
+     compilation, editing and translations described in section 1 are claimed.
+
+3. No warranty
+   The content is provided "as is", without warranty of any kind. Always
+   check lottery results with the official source (glo.or.th).
+
+Permission requests: khuneversmile@gmail.com
